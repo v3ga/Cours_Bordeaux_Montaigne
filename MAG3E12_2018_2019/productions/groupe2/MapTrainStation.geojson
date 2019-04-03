@@ -1,0 +1,649 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-24T15:37:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175739715",
+        "building": "yes",
+        "railway": "station",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.335474,
+              44.131701
+            ],
+            [
+              0.335413,
+              44.131682
+            ],
+            [
+              0.335461,
+              44.131605
+            ],
+            [
+              0.335522,
+              44.131625
+            ],
+            [
+              0.335474,
+              44.131701
+            ]
+          ]
+        ]
+      },
+      "id": "way/175739715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419497061",
+        "area": "yes",
+        "building": "yes",
+        "description": "A partir de 1,20 M",
+        "name": "Le Scratch",
+        "railway": "station",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.575089,
+              44.1876614
+            ],
+            [
+              0.5750827,
+              44.1876568
+            ],
+            [
+              0.5750022,
+              44.1875972
+            ],
+            [
+              0.574993,
+              44.1875904
+            ],
+            [
+              0.575044,
+              44.1875544
+            ],
+            [
+              0.575141,
+              44.1876244
+            ],
+            [
+              0.575089,
+              44.1876614
+            ]
+          ]
+        ]
+      },
+      "id": "way/419497061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419497215",
+        "building": "yes",
+        "description": "A partir de 1,30 M",
+        "name": "Boomerang",
+        "railway": "station",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.574536,
+              44.185192
+            ],
+            [
+              0.574542,
+              44.185011
+            ],
+            [
+              0.574598,
+              44.185012
+            ],
+            [
+              0.574592,
+              44.185194
+            ],
+            [
+              0.574536,
+              44.185192
+            ]
+          ]
+        ]
+      },
+      "id": "way/419497215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419501800",
+        "area": "yes",
+        "building": "yes",
+        "description": "Accompagné d'un adulte",
+        "layer": "1",
+        "name": "Express Tour",
+        "railway": "station",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.5720752,
+              44.1874567
+            ],
+            [
+              0.5720768,
+              44.1873224
+            ],
+            [
+              0.5720679,
+              44.187322
+            ],
+            [
+              0.572068,
+              44.1872718
+            ],
+            [
+              0.5720779,
+              44.1872724
+            ],
+            [
+              0.5720788,
+              44.1871852
+            ],
+            [
+              0.572156,
+              44.1871852
+            ],
+            [
+              0.5721534,
+              44.1874568
+            ],
+            [
+              0.5720752,
+              44.1874567
+            ]
+          ]
+        ]
+      },
+      "id": "way/419501800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/232372368",
+        "name": "Marmande",
+        "operator": "SNCF",
+        "railway": "station",
+        "railway:ref:DB": "XFMMD",
+        "source": "SNCF - 06/2013",
+        "uic_ref": "8758654",
+        "wikidata": "Q3096984",
+        "wikipedia": "fr:Gare de Marmande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1682457,
+          44.5032132
+        ]
+      },
+      "id": "node/232372368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/232372449",
+        "name": "Port-Sainte-Marie",
+        "official_name": "Port-Ste-Marie",
+        "railway": "station",
+        "uic_ref": "8758610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3905059,
+          44.2504383
+        ]
+      },
+      "id": "node/232372449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327171247",
+        "name": "Caudrot",
+        "railway": "station",
+        "uic_ref": "8758284",
+        "wikidata": "Q2004194",
+        "wikipedia": "fr:Gare de Caudrot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1452784,
+          44.5801152
+        ]
+      },
+      "id": "node/327171247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339141865",
+        "name": "Sainte-Bazeille",
+        "railway": "station",
+        "uic_ref": "8758647",
+        "wikidata": "Q3097645",
+        "wikipedia": "fr:Gare de Sainte-Bazeille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0931108,
+          44.532705
+        ]
+      },
+      "id": "node/339141865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355343630",
+        "name": "Cérons",
+        "railway": "station",
+        "uic_ref": "8758274",
+        "wikidata": "Q2743902",
+        "wikipedia": "fr:Gare de Cérons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3407418,
+          44.6322039
+        ]
+      },
+      "id": "node/355343630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364649278",
+        "name": "Barsac",
+        "railway": "station",
+        "uic_ref": "8758275",
+        "wikidata": "Q2380252",
+        "wikipedia": "fr:Gare de Barsac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3215775,
+          44.6054306
+        ]
+      },
+      "id": "node/364649278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/404669197",
+        "name": "Preignac",
+        "official_name": "Preignac",
+        "railway": "station",
+        "uic_ref": "8758276",
+        "wikidata": "Q3097347",
+        "wikipedia": "fr:Gare de Preignac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3022296,
+          44.5783064
+        ]
+      },
+      "id": "node/404669197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1377615755",
+        "name": "Gironde sur Dropt",
+        "operator": "SNCF",
+        "railway": "station",
+        "source": "SNCF - 06/2013",
+        "uic_ref": "8758285",
+        "wikidata": "Q687664",
+        "wikipedia": "fr:Gare de Gironde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0920127,
+          44.583292
+        ]
+      },
+      "id": "node/1377615755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1733476722",
+        "name": "La Réole",
+        "operator": "SNCF",
+        "railway": "station",
+        "source": "SNCF - 06/2013",
+        "uic_ref": "8758286",
+        "wikidata": "Q2702368",
+        "wikipedia": "fr:Gare de La Réole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0308914,
+          44.5798913
+        ]
+      },
+      "id": "node/1733476722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2955780597",
+        "name": "Lamothe-Landerron",
+        "railway": "station",
+        "uic_ref": "8758288",
+        "wikidata": "Q2531356",
+        "wikipedia": "fr:Gare de Lamothe-Landerron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0451406,
+          44.5628433
+        ]
+      },
+      "id": "node/2955780597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3029571411",
+        "name": "Aiguillon (Lot et Gar)",
+        "operator": "SNCF",
+        "railway": "station",
+        "source": "SNCF - 06/2013",
+        "uic_ref": "8758669",
+        "wikidata": "Q2325241",
+        "wikipedia": "fr:Gare d'Aiguillon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3352388,
+          44.2987224
+        ]
+      },
+      "id": "node/3029571411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3381676130",
+        "addr:city": "Saint-Pierre-d'Aurillac",
+        "name": "Saint-Pierre-d'Aurillac",
+        "operator": "SNCF",
+        "railway": "station",
+        "uic_ref": "8758283",
+        "wikidata": "Q2229872",
+        "wikipedia": "fr:Gare de Saint-Pierre-d'Aurillac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1876216,
+          44.5752452
+        ]
+      },
+      "id": "node/3381676130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3381677452",
+        "addr:city": "Saint-Macaire",
+        "name": "Saint-Macaire",
+        "operator": "SNCF",
+        "railway": "station",
+        "uic_ref": "8758282",
+        "wikidata": "Q1920702",
+        "wikipedia": "fr:Gare de Saint-Macaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2270601,
+          44.5686216
+        ]
+      },
+      "id": "node/3381677452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3466158893",
+        "name": "Langon",
+        "operator": "SNCF",
+        "railway": "station",
+        "uic_ref": "8758277",
+        "wikidata": "Q2294438",
+        "wikipedia": "fr:Gare de Langon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.255524,
+          44.5554012
+        ]
+      },
+      "id": "node/3466158893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4391633066",
+        "name": "Tonneins",
+        "operator": "SNCF",
+        "railway": "station",
+        "source": "SNCF - 08/2017",
+        "train": "yes",
+        "uic_ref": "8758665",
+        "wikidata": "Q2402280",
+        "wikipedia": "fr:Gare de Tonneins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3142141,
+          44.3928259
+        ]
+      },
+      "id": "node/4391633066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514300766",
+        "name": "Cérons",
+        "railway": "station",
+        "uic_ref": "8758274",
+        "wikidata": "Q2743902",
+        "wikipedia": "fr:Gare de Cérons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.340702,
+          44.6322144
+        ]
+      },
+      "id": "node/4514300766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514380602",
+        "name": "Sainte-Bazeille",
+        "railway": "station",
+        "uic_ref": "8758647",
+        "wikidata": "Q3097645",
+        "wikipedia": "fr:Gare de Sainte-Bazeille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0931553,
+          44.5327131
+        ]
+      },
+      "id": "node/4514380602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514380669",
+        "name": "Lamothe-Landerron",
+        "railway": "station",
+        "uic_ref": "8758288",
+        "wikidata": "Q2531356",
+        "wikipedia": "fr:Gare de Lamothe-Landerron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0451594,
+          44.5628576
+        ]
+      },
+      "id": "node/4514380669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514380735",
+        "name": "La Réole",
+        "operator": "SNCF",
+        "railway": "station",
+        "source": "SNCF - 06/2013",
+        "uic_ref": "8758286",
+        "wikidata": "Q2702368",
+        "wikipedia": "fr:Gare de La Réole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.030885,
+          44.579913
+        ]
+      },
+      "id": "node/4514380735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514380918",
+        "name": "Caudrot",
+        "railway": "station",
+        "uic_ref": "8758284",
+        "wikidata": "Q2004194",
+        "wikipedia": "fr:Gare de Caudrot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1453129,
+          44.5801349
+        ]
+      },
+      "id": "node/4514380918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514380966",
+        "name": "Preignac",
+        "official_name": "Preignac",
+        "railway": "station",
+        "uic_ref": "8758276",
+        "wikidata": "Q3097347",
+        "wikipedia": "fr:Gare de Preignac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3021935,
+          44.5783151
+        ]
+      },
+      "id": "node/4514380966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514380972",
+        "name": "Barsac",
+        "railway": "station",
+        "uic_ref": "8758275",
+        "wikidata": "Q2380252",
+        "wikipedia": "fr:Gare de Barsac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3215414,
+          44.6054393
+        ]
+      },
+      "id": "node/4514380972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5612147954",
+        "name": "Podensac",
+        "operator": "SNCF",
+        "railway": "station",
+        "source": "SNCF - 08/2017",
+        "train": "yes",
+        "uic_ref": "8758273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3588612,
+          44.6489258
+        ]
+      },
+      "id": "node/5612147954"
+    }
+  ]
+}

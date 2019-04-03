@@ -1,0 +1,136 @@
+body {
+    width: 100%;
+    margin:0;
+}
+
+*
+{
+    border: 0px;
+}
+
+
+#presentation {
+    width: 40%;
+    height: 850px;
+    float: left;
+    background-color: #291ab5;
+}
+
+#infos
+{
+    width: 50%;
+    height: 30px;
+    background-color : white;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 90%;
+    color: #291ab5;
+    margin-left: 10%;
+    margin-top: 15%;
+    padding-left: 2.5%;
+    padding-top: 1%;
+    border-radius: 30px;
+    opacity: 0.8;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s; /* Firefox */
+    -webkit-animation: fadein 3s; /* Safari et Chrome */
+    -o-animation: fadein 3s; /* Opera */
+}
+
+#map
+{
+    margin: 0;
+    float: left;
+    width:  60%;
+    height:  850px;
+    margin: auto;
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size:200%;
+    margin-top: 15%;
+    margin-left: 10%;
+    color: white;
+    animation: fadein 2s;
+    -moz-animation: fadein 2s; /* Firefox */
+    -webkit-animation: fadein 2s; /* Safari et Chrome */
+    -o-animation: fadein 2s; /* Opera */
+}
+
+.lien {
+    color: white;
+    font-size: 80%;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: white;
+    font-size: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    animation: fadein 5s;
+    -moz-animation: fadein 5s; /* Firefox */
+    -webkit-animation: fadein 5s; /* Safari et Chrome */
+    -o-animation: fadein 5s; /* Opera */
+}
+
+
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* sur Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* sur Safari et Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes fadein { /* sur Opera */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* smartphone portrait et paysage pour appareils standards */
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  #presentation {
+    display:block;
+    clear:both;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  #map {
+    display:block;
+    clear:both;
+    width: 100%;
+    height: 300px;
+  }
+}
+
+
+

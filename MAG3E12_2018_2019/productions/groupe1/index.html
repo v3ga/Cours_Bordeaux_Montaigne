@@ -1,0 +1,197 @@
+<html>
+<head>
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+
+
+<h1> Cartographie des voies ferrées et gares entre Bordeaux Métropole et Val de Garonne Agglomération</h1>
+
+
+
+<style type="text/css">
+*
+{
+    border: 0px;
+}
+
+h1
+{
+    font-family: 'Raleway', sans-serif;
+    z-index: 1;
+    font-weight: bold;
+    color:#0000b5;
+    font-size: 26px;
+    text-align: center;
+    padding:10px;
+
+}
+
+h2
+{
+    font-family: 'Raleway', sans-serif;
+    z-index: 1;
+    font-weight: bold;
+    color:#ffffff;
+    font-size: 18px;
+}
+
+#map
+{
+    width: 100%;
+    height:  600px;
+}
+
+#container
+
+{
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+
+#infos_container
+{
+
+
+    background-color:#0000b5;
+    width:48%;
+    height: 180px;
+    padding:10px;
+    margin:2%;
+    font-family: 'Raleway', sans-serif;
+    color:#ffffff;
+
+}
+
+
+#infos
+{
+
+
+    color:"#ffffff";
+    left: 20px;
+    top: 350px;
+    font-family: 'Raleway', sans-serif;
+    z-index: 1;
+    font-weight: bold;
+    color:#ffde00;
+    font-size: 22px;
+
+
+
+}
+
+
+#stations_container
+{
+
+    background-color:#0000b5;
+    width:48%;
+    margin:2%;
+    height: 180px;
+    padding:10px;
+    font-family: 'Raleway', sans-serif;
+    color:#ffffff;
+
+}
+
+
+</style>
+</head>
+<body>
+<div id='map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoidjNnYSIsImEiOiJjam5mc3dtaW8xN2RyM2tzZnRqbDR5M2tqIn0.FMyH4EIszatdYQEcZIYyZA';
+var map = new mapboxgl.Map
+(
+	{
+		container: 'map',
+		style: 'mapbox://styles/mapbox/dark-v9', // https://github.com/mapbox/mapbox-gl-styles#styles
+    	center: [-0.2575,44.6718],
+    	zoom : 9
+	}
+);
+
+map.on('load', function () {
+
+	map.addSource('data_rail', { type: 'geojson', data: 'export_rail.geojson' });
+    map.addSource('data_station', { type: 'geojson', data: 'export_station.geojson' });
+    map.addSource('data_abandonned', { type: 'geojson', data: 'export_abandonned.geojson' });
+
+
+    map.addLayer(
+    {
+            "id": "voies",
+            "type": "line",
+            "source": "data_rail",
+            "paint": 
+            {
+                "line-color": "#0030ff",
+            }
+    });
+
+    // Pour les options à passer à la fonction addLayer : 
+    // https://www.mapbox.com/mapbox-gl-js/style-spec/#layers
+	map.addLayer(
+	{
+    	    "id": "station",
+        	"type": "circle",
+        	"source": "data_station",
+            "paint": 
+            {
+                "circle-color": "#ffde00",
+
+            }
+  	});
+
+    map.addLayer(
+    {
+            "id": "abandonned",
+            "type": "line",
+            "source": "data_abandonned",
+            "paint": 
+            {
+                "line-color": "#ff4638"
+            }
+    });
+
+
+    // Interactivité
+    map.on("click", "station", function (e) 
+    {
+        // Imprime sur la console les informations liées à l'élément cliqué.
+        console.log(e.features);
+        // Associe à la variable divInfos la «div» dont l'id est «infos»
+        var divInfos = document.getElementById("infos")
+        // Change le contenu grace à la propriété «innerHTML»
+        // Si le nom est défini, on l'affiche sinon on affiche «nom pas disponible»
+        if (e.features[0].properties.name) 
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+
+    });
+
+});
+</script>
+    <div id="container">
+        <div id="infos_container">
+            <h2> Légende  </h2> 
+            <span style="color: blue;font-weight: bold;">Bleu</span> : voies ferrées utilisées <br></br>
+            <span style="color: red;font-weight: bold;">Rouge</span> : voies ferrées inutilisées <br></br>
+            <span style="color: yellow;font-weight: bold;">Jaune</span> : Stations / Gares <br></br>
+        </div>
+        <div id="stations_container">
+                <br></br>
+            Cliquez sur un point jaune pour connaître les stations de train.
+                <br></br>
+            Station :
+                <br></br>
+                <div id="infos">
+                </div>
+        </div>
+
+    </div>
+</body>
+</html>

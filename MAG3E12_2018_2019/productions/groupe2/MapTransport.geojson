@@ -1,0 +1,1170 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-24T14:40:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42019206",
+        "CLC:code": "124",
+        "CLC:id": "FR-196874",
+        "CLC:year": "2006",
+        "aeroway": "aerodrome",
+        "icao": "LFDR",
+        "name": "Aérodrome de La Réole-Floudès",
+        "source": "Union européenne - SOeS, CORINE Land Cover, 2006.",
+        "wikipedia": "fr:Aérodrome de La Réole - Floudès"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.0504279,
+              44.5681761
+            ],
+            [
+              -0.0504579,
+              44.5683206
+            ],
+            [
+              -0.0635696,
+              44.5662809
+            ],
+            [
+              -0.0633711,
+              44.5655158
+            ],
+            [
+              -0.0591837,
+              44.5661972
+            ],
+            [
+              -0.0571189,
+              44.5660413
+            ],
+            [
+              -0.0566419,
+              44.5653537
+            ],
+            [
+              -0.0532581,
+              44.5659973
+            ],
+            [
+              -0.0525972,
+              44.5656054
+            ],
+            [
+              -0.0521305,
+              44.566124
+            ],
+            [
+              -0.0515614,
+              44.5671955
+            ],
+            [
+              -0.0504279,
+              44.5681761
+            ]
+          ]
+        ]
+      },
+      "id": "way/42019206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/240407707",
+        "aeroway": "aerodrome",
+        "icao": "LFDM",
+        "name": "Aérodrome de Marmande - Virazeil",
+        "wikipedia": "fr:Aérodrome de Marmande - Virazeil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.196512,
+              44.5017071
+            ],
+            [
+              0.1956578,
+              44.5013986
+            ],
+            [
+              0.1952126,
+              44.501456
+            ],
+            [
+              0.1932479,
+              44.502195
+            ],
+            [
+              0.1929381,
+              44.5018272
+            ],
+            [
+              0.1926323,
+              44.5019228
+            ],
+            [
+              0.1915594,
+              44.5004727
+            ],
+            [
+              0.1912801,
+              44.5000751
+            ],
+            [
+              0.1926869,
+              44.4997395
+            ],
+            [
+              0.1927636,
+              44.4996615
+            ],
+            [
+              0.193902,
+              44.4993745
+            ],
+            [
+              0.1935951,
+              44.4986858
+            ],
+            [
+              0.1972403,
+              44.497515
+            ],
+            [
+              0.1974024,
+              44.4977982
+            ],
+            [
+              0.1981668,
+              44.4991341
+            ],
+            [
+              0.2029411,
+              44.4980283
+            ],
+            [
+              0.2064403,
+              44.4965393
+            ],
+            [
+              0.2067407,
+              44.496987
+            ],
+            [
+              0.207871,
+              44.4973243
+            ],
+            [
+              0.2081929,
+              44.4977069
+            ],
+            [
+              0.2056517,
+              44.498529
+            ],
+            [
+              0.2043519,
+              44.4991953
+            ],
+            [
+              0.1970538,
+              44.5008596
+            ],
+            [
+              0.1970833,
+              44.501049
+            ],
+            [
+              0.1973408,
+              44.5015407
+            ],
+            [
+              0.196512,
+              44.5017071
+            ]
+          ]
+        ]
+      },
+      "id": "way/240407707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568334397",
+        "addr:city": "Levignac-de-Guyenne",
+        "aeroway": "aerodrome",
+        "local_ref": "LF4733",
+        "name": "Aérdrome de Lamourache-Nord"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.1952487,
+              44.6208684
+            ],
+            [
+              0.1939398,
+              44.621884
+            ],
+            [
+              0.1930742,
+              44.6241098
+            ],
+            [
+              0.1925236,
+              44.6240412
+            ],
+            [
+              0.1928133,
+              44.6229073
+            ],
+            [
+              0.1927864,
+              44.6225942
+            ],
+            [
+              0.1928776,
+              44.6222735
+            ],
+            [
+              0.1931654,
+              44.6215631
+            ],
+            [
+              0.1932478,
+              44.6214411
+            ],
+            [
+              0.1936608,
+              44.621002
+            ],
+            [
+              0.1937037,
+              44.6208836
+            ],
+            [
+              0.1937306,
+              44.620288
+            ],
+            [
+              0.1941364,
+              44.6203985
+            ],
+            [
+              0.1952487,
+              44.6208684
+            ]
+          ]
+        ]
+      },
+      "id": "way/568334397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/332223267",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1901767,
+          44.47902
+        ]
+      },
+      "id": "node/332223267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338952935",
+        "highway": "bus_stop",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1641169,
+          44.4970506
+        ]
+      },
+      "id": "node/338952935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/777225751",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3180746,
+          44.386809
+        ]
+      },
+      "id": "node/777225751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1074079941",
+        "highway": "bus_stop",
+        "name": "Carnot",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3159642,
+          44.3909106
+        ]
+      },
+      "id": "node/1074079941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1074080140",
+        "highway": "bus_stop",
+        "name": "Collège Germillac",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3181326,
+          44.3927585
+        ]
+      },
+      "id": "node/1074080140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1074080452",
+        "highway": "bus_stop",
+        "name": "Cimetière",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3191788,
+          44.3940225
+        ]
+      },
+      "id": "node/1074080452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1074080619",
+        "highway": "bus_stop",
+        "name": "Gare SNCF",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3135055,
+          44.3927703
+        ]
+      },
+      "id": "node/1074080619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1076207679",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3223278,
+          44.3951521
+        ]
+      },
+      "id": "node/1076207679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1076207758",
+        "highway": "bus_stop",
+        "name": "Bel Air",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3230888,
+          44.3938616
+        ]
+      },
+      "id": "node/1076207758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1076207769",
+        "highway": "bus_stop",
+        "name": "Soleil Levant",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3247668,
+          44.3926638
+        ]
+      },
+      "id": "node/1076207769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1079133233",
+        "highway": "bus_stop",
+        "name": "Route de Laparade",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3173147,
+          44.3913601
+        ]
+      },
+      "id": "node/1079133233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1227888288",
+        "bench": "no",
+        "bus": "yes",
+        "description": "ligne 510",
+        "highway": "bus_stop",
+        "name": "La Vigne",
+        "network": "TransGironde",
+        "public_transport": "stop_position",
+        "ref:FR:TransGironde": "11573",
+        "shelter": "no",
+        "source": "Conseil général de la Gironde - 03/2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0268179,
+          44.560492
+        ]
+      },
+      "id": "node/1227888288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1227888511",
+        "bench": "yes",
+        "bus": "yes",
+        "description": "ligne 510",
+        "highway": "bus_stop",
+        "name": "La Vigne",
+        "network": "TransGironde",
+        "public_transport": "stop_position",
+        "ref:FR:TransGironde": "11573",
+        "shelter": "yes",
+        "source": "Conseil général de la Gironde - 03/2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0266236,
+          44.5602151
+        ]
+      },
+      "id": "node/1227888511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1228544554",
+        "bench": "no",
+        "bus": "yes",
+        "description": "Ligne 510",
+        "highway": "bus_stop",
+        "name": "Lycée Jean Renou",
+        "network": "TransGironde",
+        "public_transport": "stop_position",
+        "ref:FR:TransGironde": "10368",
+        "shelter": "no",
+        "source": "Conseil général de la Gironde - 03/2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0386037,
+          44.5801019
+        ]
+      },
+      "id": "node/1228544554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236488746",
+        "bench": "no",
+        "highway": "bus_stop",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0548215,
+          44.5576392
+        ]
+      },
+      "id": "node/1236488746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1658007930",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3229221,
+          44.3969518
+        ]
+      },
+      "id": "node/1658007930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1658229745",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3241527,
+          44.3920227
+        ]
+      },
+      "id": "node/1658229745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1658230161",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3212265,
+          44.3900741
+        ]
+      },
+      "id": "node/1658230161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659070376",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.176361,
+          44.4907747
+        ]
+      },
+      "id": "node/1659070376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659070410",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1713907,
+          44.494658
+        ]
+      },
+      "id": "node/1659070410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659070758",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1829272,
+          44.4851408
+        ]
+      },
+      "id": "node/1659070758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659070841",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1718054,
+          44.4945629
+        ]
+      },
+      "id": "node/1659070841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699581854",
+        "highway": "bus_stop",
+        "line": "A",
+        "name": "Boulevard Meyniel",
+        "ref": "110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1623007,
+          44.5034839
+        ]
+      },
+      "id": "node/1699581854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699581855",
+        "highway": "bus_stop",
+        "line": "A",
+        "name": "Lestang",
+        "ref": "109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1594,
+          44.5021702
+        ]
+      },
+      "id": "node/1699581855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2123167199",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3041965,
+          44.3912499
+        ]
+      },
+      "id": "node/2123167199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3382680037",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Château",
+        "network": "TransGironde",
+        "public_transport": "stop_position",
+        "ref:FR:TransGironde": "12261",
+        "source": "Conseil général de la Gironde - 03/2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0007507,
+          44.6008825
+        ]
+      },
+      "id": "node/3382680037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4395815169",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3789947,
+          44.36086
+        ]
+      },
+      "id": "node/4395815169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443402214",
+        "name": "Ancienne gare de Bouglon",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1035407,
+          44.3878532
+        ]
+      },
+      "id": "node/4443402214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4686757292",
+        "highway": "bus_stop",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1684651,
+          44.4963528
+        ]
+      },
+      "id": "node/4686757292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5180401255",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Bouyssou",
+        "network": "Evalys - Ligne A",
+        "operator": "Evalys",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1714819,
+          44.4973504
+        ]
+      },
+      "id": "node/5180401255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5180401256",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Bouyssou",
+        "network": "Evalys - Ligne A",
+        "operator": "Evalys",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1716733,
+          44.4971864
+        ]
+      },
+      "id": "node/5180401256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5180401257",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Cinéma",
+        "network": "Evalys",
+        "operator": "Evalys",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1698317,
+          44.4977833
+        ]
+      },
+      "id": "node/5180401257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5180401258",
+        "highway": "bus_stop",
+        "name": "Cinéma",
+        "network": "Evalys",
+        "operator": "Evalys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1702122,
+          44.4977569
+        ]
+      },
+      "id": "node/5180401258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313691",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Caserne de Pompiers",
+        "network": "TransGironde",
+        "public_transport": "stop_position",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 8376609,
+            "reltags": {
+              "name": "Caserne de Pompiers",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0404951,
+          44.385056
+        ]
+      },
+      "id": "node/5685313691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313694",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Centre",
+        "network": "TransGironde",
+        "public_transport": "stop_position",
+        "tram": "no",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 8376610,
+            "reltags": {
+              "name": "Centre",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0449015,
+          44.3876299
+        ]
+      },
+      "id": "node/5685313694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313695",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Centre",
+        "network": "TransGironde",
+        "public_transport": "stop_position",
+        "tram": "no",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 8376610,
+            "reltags": {
+              "name": "Centre",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0448834,
+          44.3875991
+        ]
+      },
+      "id": "node/5685313695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313698",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "La Tuilerie",
+        "network": "TransGironde",
+        "public_transport": "stop_position",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 8376611,
+            "reltags": {
+              "name": "La Tuilerie",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0562839,
+          44.3887019
+        ]
+      },
+      "id": "node/5685313698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5849907290",
+        "addr:city": "Casteljaloux",
+        "addr:postcode": "47700",
+        "addr:street": "Avenue de Marmande",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "surface": "paved",
+        "wheelchair": "yes",
+        "wheelchair:description": "Passage pieton vers Intermarche sans marches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0945816,
+          44.3201307
+        ]
+      },
+      "id": "node/5849907290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6003266390",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1966031,
+          44.3093703
+        ]
+      },
+      "id": "node/6003266390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313696",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8376611,
+            "reltags": {
+              "name": "La Tuilerie",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0563291,
+          44.3886294
+        ]
+      },
+      "id": "node/5685313696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313697",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8376611,
+            "reltags": {
+              "name": "La Tuilerie",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0562567,
+          44.3887693
+        ]
+      },
+      "id": "node/5685313697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313689",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8376609,
+            "reltags": {
+              "name": "Caserne de Pompiers",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0404276,
+          44.3850996
+        ]
+      },
+      "id": "node/5685313689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313690",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8376609,
+            "reltags": {
+              "name": "Caserne de Pompiers",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.040547,
+          44.3850076
+        ]
+      },
+      "id": "node/5685313690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313692",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8376610,
+            "reltags": {
+              "name": "Centre",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0448311,
+          44.3876542
+        ]
+      },
+      "id": "node/5685313692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5685313693",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8376610,
+            "reltags": {
+              "name": "Centre",
+              "network": "TransGironde",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0449478,
+          44.3875857
+        ]
+      },
+      "id": "node/5685313693"
+    }
+  ]
+}

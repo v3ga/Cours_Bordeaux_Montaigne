@@ -1,0 +1,39 @@
+float xb = 250;
+float yb = 250;
+float vxb = random(-5,5);
+float vyb = random(-3,3);
+
+void setup()
+{
+  size(500, 500);
+  background(0);
+  stroke(255,100);
+  noFill();
+}
+
+void draw()
+{
+
+    xb = xb + vxb;
+    yb = yb + vyb;
+
+    ellipse(xb,yb,50,50);
+
+    if ( xb >= 500)
+    {
+      vxb = - vxb;
+    }
+    if ( xb <= 0)
+    {
+      vxb = - vxb;
+    }
+    if ( yb <= 0)
+    {
+      vyb = - vyb;
+    }
+    if ( yb >= 500)
+    {
+      vyb = - vyb;
+    }
+
+}

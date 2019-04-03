@@ -1,0 +1,49 @@
+body,html,header,h1{
+  margin:0px;
+  padding:0px
+}
+
+body{
+font-family: 'Work Sans', sans-serif;
+}
+
+header,body,html{
+  width:100%;
+  height: 100%;
+}
+
+
+header{
+  background-image:linear-gradient(to right,#0052d4,#4364f7,#6fb1fc);
+  color: white;
+}
+
+.wrapper{
+  display: table;
+  width: 100%;
+  height: 100%
+}
+
+.content{
+  display: table-cell;
+  text-align: left;
+  vertical-align: middle;
+}
+
+h1{
+  font-size: 55px;
+  font-weight: 100;
+  margin-left: 200px;
+}
+
+.subtitle{
+  font-size: 25px;
+  margin-left: 200px;
+}
+
+img{
+  width: 55px;
+  position: relative;
+  top: 180px;
+  margin-left: 200px;
+}

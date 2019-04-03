@@ -1,0 +1,156 @@
+<html>
+<head>
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+<style type="text/css">
+*
+{
+    border: 0px;
+}
+
+#prez
+
+{
+    width: 100%;
+    background-color: rgb(15,15,156);
+    color: rgb(255,255,255);
+    font-family :Arial;
+    padding : 15px 15px;
+    
+
+
+}
+#map
+{
+    width:  70%;
+    height:  800px;
+    float: left;
+}
+
+#infos
+{
+    background-color :  #FFF;
+    font-size:          25px;
+    font-family:        Arial;
+    width:               30%;
+    float: left;
+}
+
+</style>
+</head>
+<body>
+    <div id=prez>
+        
+        <h1>Données Val de Garonne Magasins et Fermes</h1>
+<p>Ci-dessous, une map regroupant les données des fermes et magasins autour de Marmande
+<ul> Rouge : Ecoles</ul>
+    <ul>Vert : Fermes</ul>
+    <ul>Bleu : Magasins</ul>
+    </p>
+
+    <h3>Cliquer sur zone donne sa dénomination</h3>
+    </div>
+<div id='map'>
+    
+
+</div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZGlldWVzdG1vbmRyb2l0IiwiYSI6ImNqbmZ6aDI2ZDB2cTUza280NGVjMXVkdDAifQ.NFCzuHcJU6_V8g5lNvYg3Q';
+var map = new mapboxgl.Map
+(
+	{
+		container: 'map',
+		style: 'mapbox://styles/mapbox/light-v9', // https://github.com/mapbox/mapbox-gl-styles#styles
+    	center: [0.1700,44.46],
+    	zoom : 11.5
+	}
+);
+
+map.on('load', function () {
+
+	map.addSource('data', { type: 'geojson', data: 'export.geojson' });
+    map.addSource('data_shop', {type: 'geojson', data: 'shop.geojson'});
+    map.addSource('data_farm', {type: 'geojson', data: 'farm.geojson'});
+
+    // Pour les options à passer à la fonction addLayer : 
+    // https://www.mapbox.com/mapbox-gl-js/style-spec/#layers
+	map.addLayer(
+    {
+            "id": "ecoles",
+            "type": "fill",
+            "source": "data",
+            "paint": 
+            {
+                "fill-color": "#ff0000",
+                "fill-opacity": 0.5
+            }
+    });
+map.addLayer(
+    {
+            "id": "shop",
+            "type": "fill",
+            "source": "data_shop",
+            "paint": 
+            {
+                "fill-color": "#0000ff",
+                "fill-opacity": 0.7
+            }
+    });
+
+map.addLayer(
+    {
+            "id": "farm",
+            "type": "fill",
+            "source": "data_farm",
+            "paint": 
+            {
+                "fill-color": "#00ff00",
+                "fill-opacity": 0.6
+            }
+    });
+
+
+    // Interactivité
+    map.on("click", "ecoles", function (e) 
+    {
+        // Imprime sur la console les informations liées à l'élément cliqué.
+        console.log(e.features);
+
+        // Associe à la variable divInfos la «div» dont l'id est «infos»
+        var divInfos = document.getElementById("infos")
+        // Change le contenu grace à la propriété «innerHTML»
+        // Si le nom est défini, on l'affiche sinon on affiche «nom pas disponible»
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+
+    });
+
+        map.on("click", "shop", function (e) 
+    {
+        // Imprime sur la console les informations liées à l'élément cliqué.
+        console.log(e.features);
+
+        // Associe à la variable divInfos la «div» dont l'id est «infos»
+        var divInfos = document.getElementById("infos")
+        // Change le contenu grace à la propriété «innerHTML»
+        // Si le nom est défini, on l'affiche sinon on affiche «nom pas disponible»
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+
+    });
+
+});
+
+
+
+</script>
+<div id="infos">
+    INFOS
+
+</div>
+</body>
+</html>

@@ -1,0 +1,130 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Si-nergie</title>
+    <link rel="icon" type="images/png" href="assets/images/f1.ico" />
+    <link rel="stylesheet" href="assets/css/main.css">
+    
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+
+    <!-- typo -->
+     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+<div id="presentation"> 
+
+    <h1><a href="index.html" class="lien">si-nergie</a></h1>
+
+    <h1>Vos déplacements </br> dans le Val de Garonne</h1>
+
+    <p> Cette carte vous permet de visualiser les parkings et les mairies en Val de Garonne. </br> Vous pouvez identifier les places de parking vous permettant de stationner. De plus, vous avez accès à la visualisation des mairies qui sont équipées, à proximité, d’arrêt navette. Les navettes vous permettront d’utiliser l’intermodalité, donc de faire des économies mais aussi un geste écologique. </br> Pour plus d’informations vous pouvez vous diriger vers les mairies, sensibilisées au sujet, elles pourront, davantage, vous guider.</p> 
+        <div id="infos">Cliquez sur la carte ci-contre</div>
+</div>
+
+<div id='map'></div>
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1Ijoibm9lbWllYW50b2luZSIsImEiOiJjam9vY2o4emYxYmttM3ZvNG42enVpbnliIn0.GDW9eSVBV4wa1c_7pqCxjA';
+    var map = new mapboxgl.Map
+    (
+        {
+            container: 'map',
+            style: 'mapbox://styles/mapbox/basic-v8', // https://github.com/mapbox/mapbox-gl-styles#styles
+            center: [0.1667,44.5],
+            zoom : 13
+
+
+        }
+    );
+
+    map.on('load', function () {
+
+        //map.addSource('data_bicycle', { type: 'geojson', data: 'export_bicycle.geojson' });
+        map.addSource('data_mairie', { type: 'geojson', data: 'export_mairie.geojson' });
+        map.addSource('data_car', { type: 'geojson', data: 'export_car.geojson' });
+
+        // Pour les options à passer à la fonction addLayer : 
+        // https://www.mapbox.com/mapbox-gl-js/style-spec/#layers
+
+        map.addLayer(
+        {
+                "id": "parking",
+                "type": "fill",
+                "source": "data_car",
+                "paint": 
+                {
+                    "fill-color": "#e57b2c",
+                    "fill-opacity": 0.5
+                }
+        });
+
+
+       /*   map.addLayer(
+        {
+                "id": "mairie",
+                "type": "fill",
+                "source": "data_mairie",
+                "paint": 
+                {
+                    "fill-color": "#ff0000",
+                    "fill-opacity": 0.8
+                }
+        }); */
+
+      
+        map.addLayer(
+        {
+                "id": "mairie",
+                "type": "symbol",
+                "source": "data_mairie",
+                "layout": 
+                {
+                    "icon-image": "school-15",
+                }
+        });
+
+
+        // Interactivité MAIRIE
+        map.on("click", "mairie", function (e) 
+        {
+            // Imprime sur la console les informations liées à l'élément cliqué.
+            console.log(e.features);
+
+            // Associe à la variable divInfos la «div» dont l'id est «infos»
+            var divInfos = document.getElementById("infos")
+            // Change le contenu grace à la propriété «innerHTML»
+            // Si le nom est défini, on l'affiche sinon on affiche «nom pas disponible»
+            if (e.features[0].properties.name)
+                divInfos.innerHTML = e.features[0].properties.name;
+            else
+                divInfos.innerHTML = "nom pas disponible";
+
+        });
+
+            // Interactivité VOITURE
+        map.on("click", "parking", function (e) 
+        {
+            // Imprime sur la console les informations liées à l'élément cliqué.
+            console.log(e.features);
+
+            // Associe à la variable divInfos la «div» dont l'id est «infos»
+            var divInfos = document.getElementById("infos")
+            // Change le contenu grace à la propriété «innerHTML»
+            // Si le nom est défini, on l'affiche sinon on affiche «nom pas disponible»
+            if (e.features[0].properties.name)
+                divInfos.innerHTML = e.features[0].properties.name;
+            else
+                divInfos.innerHTML = "nom pas disponible";
+
+        });
+
+    });
+   </script>
+
+    <!-- page transition -->
+</body>
+    
+</html>

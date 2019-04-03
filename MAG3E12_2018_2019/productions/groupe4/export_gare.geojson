@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-26T14:20:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/232372368",
+        "name": "Marmande",
+        "operator": "SNCF",
+        "railway": "station",
+        "railway:ref:DB": "XFMMD",
+        "source": "SNCF - 06/2013",
+        "uic_ref": "8758654",
+        "wikidata": "Q3096984",
+        "wikipedia": "fr:Gare de Marmande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1682457,
+          44.5032132
+        ]
+      },
+      "id": "node/232372368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339141865",
+        "name": "Sainte-Bazeille",
+        "railway": "station",
+        "uic_ref": "8758647",
+        "wikidata": "Q3097645",
+        "wikipedia": "fr:Gare de Sainte-Bazeille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0931108,
+          44.532705
+        ]
+      },
+      "id": "node/339141865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514380602",
+        "name": "Sainte-Bazeille",
+        "railway": "station",
+        "uic_ref": "8758647",
+        "wikidata": "Q3097645",
+        "wikipedia": "fr:Gare de Sainte-Bazeille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0931553,
+          44.5327131
+        ]
+      },
+      "id": "node/4514380602"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset="utf-8" />
+    <script src="p5.js"></script>
+    <script src="p5.dom.js"></script>
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="tracking-min.js"></script>
+    <script src="sketch.js"></script>
+    <style type="text/css">
+    *
+    {
+        margin:   0;
+        padding:  0;
+    }
+
+    .screen
+    {
+      position:   fixed;
+      top:        0;
+      left:       0;
+      width:      100%;
+      height:     100%;
+      background-repeat:    no-repeat;
+      background-position:  center; 
+      background-size:      cover;
+    }
+
+    #accueil
+    {
+      background-image: url(images/Accueil.jpg);
+      z-index:0;
+    }
+
+    #bleu
+    {
+      background-image: url(images/Bleu.jpg);
+      z-index:1;
+    }
+
+    #jaune
+    {
+      background-image: url(images/Jaune.jpg);
+      z-index:2;
+    }
+
+    #rouge
+    {
+      background-image: url(images/Rouge.jpg);
+      z-index:3;
+    }
+
+    #orange
+    {
+      background-image: url(images/Orange.jpg);
+      z-index:4;
+    }
+
+    #p5
+    {
+      position:absolute;
+      top:0;
+      left:0;
+      z-index:10;
+    }
+
+    .hidden
+    {
+      display:none;
+    }
+
+    </style>
+  </head>
+  <body>
+  <div id="accueil" class="screen"></div>
+  <div id="bleu" class="color screen hidden"></div>
+  <div id="jaune" class="color screen hidden"></div>
+  <div id="rouge" class="color screen hidden"></div>
+  <div id="orange" class="color screen hidden"></div>
+  <div id="p5"></div>
+  </body>
+</html>

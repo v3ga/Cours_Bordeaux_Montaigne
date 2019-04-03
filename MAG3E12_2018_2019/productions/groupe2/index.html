@@ -1,0 +1,241 @@
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+  <link href="assets/noun_Arrow_2.png" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Fullsize background</title>
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+<style type="text/css">
+*
+{
+    border: 0px;
+}
+
+#map
+{
+    width:  100%;
+    height:  600px;
+}
+
+#infos
+{
+    background-color :  #DDD;
+    font-size:          25px;
+    font-family:        Arial;
+    width:              800px;
+}
+
+</style>
+</head>
+<body>
+
+  <header>
+    <div class="wrapper">
+      <div class="content">
+        <h1>Bienvenue à Val de Garonne !</h1>
+        <p class="subtitle">Scrollez pour découvrir notre carte touristique intéractive.</p>
+        <img class="arrow" src="assets/noun_Arrow_2.png">
+      </div>
+    </div>
+  </header>
+
+  <main>
+<div id='map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoidjNnYSIsImEiOiJjam5mc3dtaW8xN2RyM2tzZnRqbDR5M2tqIn0.FMyH4EIszatdYQEcZIYyZA';
+var map = new mapboxgl.Map
+(
+	{
+		container: 'map',
+		style: 'mapbox://styles/mapbox/basic-v8', // https://github.com/mapbox/mapbox-gl-styles#styles
+    	center: [0.1667,44.5],
+    	zoom : 12
+	}
+);
+
+map.on('load', function () {
+
+	map.addSource('dataAccomodation', { type: 'geojson', data: 'MapAccomodation.geojson' });
+    map.addSource('dataLeisure', { type: 'geojson', data: 'MapLeisureAndActivities.geojson' });
+    map.addSource('dataTransport', { type: 'geojson', data: 'MapTransport.geojson' });
+    map.addSource('dataHistorical', { type: 'geojson', data: 'MapHistoricalObjects.geojson' });
+    map.addSource('dataFood', { type: 'geojson', data: 'MapFoodAndDrink.geojson' });
+    map.addSource('dataShop', { type: 'geojson', data: 'MapShop.geojson' });
+    map.addSource('dataTrain', { type: 'geojson', data: 'MapTrainStation.geojson' });
+
+
+    // Pour les options à passer à la fonction addLayer :
+    // https://www.mapbox.com/mapbox-gl-js/style-spec/#layers
+
+    //=============================================================
+    // To put an incon on the location of each categories
+
+
+    map.addLayer(
+    {
+            "id": "idAccomodation",
+            "type": "symbol",
+            "source": "dataAccomodation",
+            "layout": {
+                "icon-image": "lodging-15"
+            }
+    });
+
+    map.addLayer(
+    {
+            "id": "idLeisure",
+            "type": "symbol",
+            "source": "dataLeisure",
+            "layout": {
+                "icon-image": "theatre-15"
+            }
+    });
+
+	map.addLayer(
+	{
+    	    "id": "idTransport",
+        	"type": "symbol",
+        	"source": "dataTransport",
+            "layout": {
+                "icon-image": "bus-15"
+            }
+  	});
+
+    map.addLayer(
+    {
+            "id": "idHistorical",
+            "type": "symbol",
+            "source": "dataHistorical",
+            "layout": {
+                "icon-image": "town-hall-15"
+            }
+    });
+
+    map.addLayer(
+    {
+            "id": "idFood",
+            "type": "symbol",
+            "source": "dataFood",
+            "layout": {
+                "icon-image": "restaurant-15"
+            }
+    });
+
+    map.addLayer(
+    {
+            "id": "idShop",
+            "type": "symbol",
+            "source": "dataShop",
+            "layout": {
+                "icon-image": "shop-15"
+            }
+    });
+
+    map.addLayer(
+    {
+            "id": "idTrain",
+            "type": "symbol",
+            "source": "dataTrain",
+            "layout": {
+                "icon-image": "rail-metro-15"
+            }
+    });
+
+    //=============================================================
+
+
+    // Interactivité
+    map.on("click", "idTransport" , function (e)
+    {
+        // Imprime sur la console les informations liées à l'élément cliqué.
+        console.log(e.features);
+
+        // Associe à la variable divInfos la «div» dont l'id est «infos»
+        var divInfos = document.getElementById("infos")
+        // Change le contenu grace à la propriété «innerHTML»
+        // Si le nom est défini, on l'affiche sinon on affiche «nom pas disponible»
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+    });
+
+     map.on("click", "idAccomodation" , function (e)
+    {
+        console.log(e.features);
+
+        var divInfos = document.getElementById("infos")
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+    });
+
+    map.on("click", "idLeisure" , function (e)
+    {
+        console.log(e.features);
+
+        var divInfos = document.getElementById("infos")
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+    });
+
+    map.on("click", "idFood" , function (e)
+    {
+        console.log(e.features);
+
+        var divInfos = document.getElementById("infos")
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+    });
+
+
+     map.on("click", "idHistorical" , function (e)
+    {
+        console.log(e.features);
+
+        var divInfos = document.getElementById("infos")
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+    });
+
+      map.on("click", "idShop" , function (e)
+    {
+        console.log(e.features);
+
+        var divInfos = document.getElementById("infos")
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+    });
+
+      map.on("click", "idTrain" , function (e)
+    {
+        console.log(e.features);
+
+        var divInfos = document.getElementById("infos")
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+    });
+
+
+});
+
+
+
+</script>
+<div id="infos">
+</div>
+</main>
+</body>
+</html>

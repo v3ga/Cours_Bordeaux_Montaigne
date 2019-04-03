@@ -1,0 +1,49 @@
+<html>
+<head>
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+</head>
+<body>
+<div id='map' style='width: 800px; height: 800px;'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoidjNnYSIsImEiOiJjam5mc3dtaW8xN2RyM2tzZnRqbDR5M2tqIn0.FMyH4EIszatdYQEcZIYyZA';
+var map = new mapboxgl.Map
+(
+	{
+		container: 'map',
+		style: 'mapbox://styles/mapbox/light-v9', // https://github.com/mapbox/mapbox-gl-styles#styles
+    	center: [0.1667,44.5],
+    	zoom : 10
+	}
+);
+
+map.on('load', function () {
+
+	map.addSource('data', { type: 'geojson', data: 'export.geojson' });
+	map.addLayer(
+	{
+    	    "id": "écoles contour",
+        	"type": "line",
+        	"source": "data"/*,
+        	"layout": {
+            	"icon-image": "school-15"
+        	}*/
+  	});
+
+	map.addLayer(
+	{
+    	    "id": "écoles",
+        	"type": "symbol",
+        	"source": "data",
+        	"layout": {
+            	"icon-image": "school-15"
+        	}
+  	});
+
+});
+
+
+
+</script>
+</body>
+</html>

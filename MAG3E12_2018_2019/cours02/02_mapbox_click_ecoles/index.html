@@ -1,0 +1,94 @@
+<html>
+<head>
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+<style type="text/css">
+*
+{
+    border: 0px;
+}
+
+#map
+{
+    position:absolute;
+    width:  800px;
+    height:  800px;
+}
+
+#infos
+{
+    position:absolute;
+    left:810px;
+}
+
+</style>
+</head>
+<body>
+<div id='map' style='width: 800px; height: 800px;'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoidjNnYSIsImEiOiJjam5mc3dtaW8xN2RyM2tzZnRqbDR5M2tqIn0.FMyH4EIszatdYQEcZIYyZA';
+var map = new mapboxgl.Map
+(
+	{
+		container: 'map',
+		style: 'mapbox://styles/mapbox/light-v9', // https://github.com/mapbox/mapbox-gl-styles#styles
+    	center: [0.1667,44.5],
+    	zoom : 10
+	}
+);
+
+map.on('load', function () {
+
+	map.addSource('data', { type: 'geojson', data: 'export.geojson' });
+
+    // Pour les options à passer à la fonction addLayer : 
+    // https://www.mapbox.com/mapbox-gl-js/style-spec/#layers
+	map.addLayer(
+	{
+    	    "id": "ecoles",
+        	"type": "fill",
+        	"source": "data",
+            "paint": 
+            {
+                "fill-color": "#ff0000",
+                "fill-opacity": 0.5
+            }
+  	});
+
+    map.addLayer(
+    {
+            "id": "ecoles2",
+            "type": "line",
+            "source": "data",
+            "paint": 
+            {
+                "line-color": "#000000"
+            }
+    });
+
+
+    // Interactivité
+    map.on("click", "ecoles", function (e) 
+    {
+        // Imprime sur la console les informations liées à l'élément cliqué.
+        console.log(e.features);
+        // Associe à la variable divInfos la «div» dont l'id est «infos»
+        var divInfos = document.getElementById("infos")
+        // Change le contenu grace à la propriété «innerHTML»
+        // Si le nom est défini, on l'affiche sinon on affiche «nom pas disponible»
+        if (e.features[0].properties.name)
+            divInfos.innerHTML = e.features[0].properties.name;
+        else
+            divInfos.innerHTML = "nom pas disponible";
+
+    });
+
+});
+
+
+
+</script>
+<div id="infos">
+</div>
+</body>
+</html>

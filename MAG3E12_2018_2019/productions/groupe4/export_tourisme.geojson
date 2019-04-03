@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-26T15:46:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155712608",
+        "building": "yes",
+        "information": "office",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.165414,
+              44.498161
+            ],
+            [
+              0.165331,
+              44.498136
+            ],
+            [
+              0.165295,
+              44.498127
+            ],
+            [
+              0.165321,
+              44.498093
+            ],
+            [
+              0.165335,
+              44.498074
+            ],
+            [
+              0.165431,
+              44.497975
+            ],
+            [
+              0.1654731,
+              44.4979938
+            ],
+            [
+              0.165516,
+              44.498013
+            ],
+            [
+              0.165495,
+              44.498037
+            ],
+            [
+              0.165516,
+              44.498047
+            ],
+            [
+              0.16552,
+              44.498062
+            ],
+            [
+              0.165506,
+              44.498075
+            ],
+            [
+              0.165486,
+              44.498075
+            ],
+            [
+              0.16547,
+              44.498066
+            ],
+            [
+              0.165438,
+              44.498102
+            ],
+            [
+              0.165457,
+              44.498118
+            ],
+            [
+              0.165588,
+              44.4981363
+            ],
+            [
+              0.165622,
+              44.498141
+            ],
+            [
+              0.16561,
+              44.498189
+            ],
+            [
+              0.165414,
+              44.498161
+            ]
+          ]
+        ]
+      },
+      "id": "way/155712608"
+    }
+  ]
+}

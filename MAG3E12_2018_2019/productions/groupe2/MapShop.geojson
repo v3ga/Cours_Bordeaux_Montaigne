@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-24T14:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124390278",
+        "building": "yes",
+        "name": "Empreintes",
+        "shop": "shoes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.308697,
+              44.389931
+            ],
+            [
+              0.308515,
+              44.389952
+            ],
+            [
+              0.308501,
+              44.389934
+            ],
+            [
+              0.308531,
+              44.389924
+            ],
+            [
+              0.30851,
+              44.389895
+            ],
+            [
+              0.308586,
+              44.389877
+            ],
+            [
+              0.308566,
+              44.38985
+            ],
+            [
+              0.308592,
+              44.389844
+            ],
+            [
+              0.308615,
+              44.389836
+            ],
+            [
+              0.308629,
+              44.389832
+            ],
+            [
+              0.308697,
+              44.389931
+            ]
+          ]
+        ]
+      },
+      "id": "way/124390278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124390650",
+        "building": "yes",
+        "name": "Central' avenue",
+        "shop": "clothes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.30723,
+              44.38881
+            ],
+            [
+              0.307216,
+              44.388792
+            ],
+            [
+              0.307191,
+              44.38876
+            ],
+            [
+              0.307161,
+              44.388707
+            ],
+            [
+              0.307237,
+              44.38869
+            ],
+            [
+              0.307283,
+              44.388786
+            ],
+            [
+              0.307278,
+              44.388787
+            ],
+            [
+              0.307313,
+              44.388837
+            ],
+            [
+              0.307387,
+              44.388922
+            ],
+            [
+              0.307385,
+              44.388936
+            ],
+            [
+              0.307344,
+              44.388954
+            ],
+            [
+              0.30723,
+              44.38881
+            ]
+          ]
+        ]
+      },
+      "id": "way/124390650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124405496",
+        "building": "yes",
+        "shop": "clothes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.308447,
+              44.390158
+            ],
+            [
+              0.308312,
+              44.390215
+            ],
+            [
+              0.30828,
+              44.390228
+            ],
+            [
+              0.30826,
+              44.390204
+            ],
+            [
+              0.30829,
+              44.390189
+            ],
+            [
+              0.308303,
+              44.390178
+            ],
+            [
+              0.308329,
+              44.390153
+            ],
+            [
+              0.308419,
+              44.390123
+            ],
+            [
+              0.308421,
+              44.390125
+            ],
+            [
+              0.308447,
+              44.390158
+            ]
+          ]
+        ]
+      },
+      "id": "way/124405496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131734916",
+        "building": "retail",
+        "shop": "kiosk",
+        "source": "Direction générale des finances publiques - année 2011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.4952625,
+              44.3977135
+            ],
+            [
+              0.4952344,
+              44.3976685
+            ],
+            [
+              0.4953453,
+              44.3976214
+            ],
+            [
+              0.4953502,
+              44.3976301
+            ],
+            [
+              0.4953719,
+              44.3976687
+            ],
+            [
+              0.4952625,
+              44.3977135
+            ]
+          ]
+        ]
+      },
+      "id": "way/131734916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/502105425",
+        "building": "yes",
+        "name": "Distri Center",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.2976636,
+              44.3995187
+            ],
+            [
+              0.2974544,
+              44.3993769
+            ],
+            [
+              0.297567,
+              44.3992964
+            ],
+            [
+              0.2974839,
+              44.3992293
+            ],
+            [
+              0.297787,
+              44.3988863
+            ],
+            [
+              0.2980954,
+              44.3991124
+            ],
+            [
+              0.2978782,
+              44.3992964
+            ],
+            [
+              0.2979747,
+              44.399304
+            ],
+            [
+              0.2976636,
+              44.3995187
+            ]
+          ]
+        ]
+      },
+      "id": "way/502105425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5136352921",
+        "addr:postcode": "47200",
+        "addr:street": "Lieu dit « Les Perrinots\"",
+        "name": "Jep",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1806303,
+          44.4896812
+        ]
+      },
+      "id": "node/5136352921"
+    }
+  ]
+}

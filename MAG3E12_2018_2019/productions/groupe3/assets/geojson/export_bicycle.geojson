@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-19T16:40:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155837560",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "covered": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.181114,
+              44.499282
+            ],
+            [
+              0.181086,
+              44.49924
+            ],
+            [
+              0.18128,
+              44.499176
+            ],
+            [
+              0.181307,
+              44.499219
+            ],
+            [
+              0.181114,
+              44.499282
+            ]
+          ]
+        ]
+      },
+      "id": "way/155837560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155838719",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.181145,
+              44.499331
+            ],
+            [
+              0.181118,
+              44.499289
+            ],
+            [
+              0.181312,
+              44.499225
+            ],
+            [
+              0.181339,
+              44.499268
+            ],
+            [
+              0.181145,
+              44.499331
+            ]
+          ]
+        ]
+      },
+      "id": "way/155838719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155838923",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "covered": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.181177,
+              44.49938
+            ],
+            [
+              0.18115,
+              44.499338
+            ],
+            [
+              0.181343,
+              44.499274
+            ],
+            [
+              0.18137,
+              44.499316
+            ],
+            [
+              0.181177,
+              44.49938
+            ]
+          ]
+        ]
+      },
+      "id": "way/155838923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659070444",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1643091,
+          44.4969276
+        ]
+      },
+      "id": "node/1659070444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659070484",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1608258,
+          44.4974709
+        ]
+      },
+      "id": "node/1659070484"
+    }
+  ]
+}

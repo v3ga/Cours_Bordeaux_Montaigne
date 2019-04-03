@@ -1,0 +1,7743 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-18T21:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157690682",
+        "amenity": "school",
+        "area": "yes",
+        "name": "Cité scolaire Val de Garonne"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.1564177,
+              44.5044995
+            ],
+            [
+              0.1563618,
+              44.5043582
+            ],
+            [
+              0.1569361,
+              44.50405
+            ],
+            [
+              0.1576884,
+              44.5036731
+            ],
+            [
+              0.158291,
+              44.504273
+            ],
+            [
+              0.158402,
+              44.504236
+            ],
+            [
+              0.1585499,
+              44.5041733
+            ],
+            [
+              0.1588597,
+              44.5045074
+            ],
+            [
+              0.15889,
+              44.50454
+            ],
+            [
+              0.159034,
+              44.504732
+            ],
+            [
+              0.159121,
+              44.50482
+            ],
+            [
+              0.158919,
+              44.504929
+            ],
+            [
+              0.1592767,
+              44.5053876
+            ],
+            [
+              0.159581,
+              44.505763
+            ],
+            [
+              0.1594215,
+              44.5058407
+            ],
+            [
+              0.1593199,
+              44.5058081
+            ],
+            [
+              0.1592335,
+              44.5058589
+            ],
+            [
+              0.1590658,
+              44.5058879
+            ],
+            [
+              0.1590353,
+              44.5058552
+            ],
+            [
+              0.158034,
+              44.5060945
+            ],
+            [
+              0.157949,
+              44.505987
+            ],
+            [
+              0.1576121,
+              44.5061779
+            ],
+            [
+              0.157118,
+              44.506252
+            ],
+            [
+              0.1567328,
+              44.5063373
+            ],
+            [
+              0.1565244,
+              44.5064171
+            ],
+            [
+              0.1564279,
+              44.506457
+            ],
+            [
+              0.1561483,
+              44.5061634
+            ],
+            [
+              0.155939,
+              44.506273
+            ],
+            [
+              0.155859,
+              44.506311
+            ],
+            [
+              0.154835,
+              44.506801
+            ],
+            [
+              0.154682,
+              44.5068666
+            ],
+            [
+              0.1539348,
+              44.5061271
+            ],
+            [
+              0.1544482,
+              44.505848
+            ],
+            [
+              0.1545651,
+              44.5058299
+            ],
+            [
+              0.1566235,
+              44.5046953
+            ],
+            [
+              0.1564177,
+              44.5044995
+            ]
+          ]
+        ]
+      },
+      "id": "way/157690682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254329508",
+        "amenity": "school",
+        "source": "Bing ; DGFiP - Cadastre 2013"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.161797,
+              44.498115
+            ],
+            [
+              0.161834,
+              44.498101
+            ],
+            [
+              0.162223,
+              44.497972
+            ],
+            [
+              0.16238,
+              44.497918
+            ],
+            [
+              0.162518,
+              44.49787
+            ],
+            [
+              0.16259,
+              44.497849
+            ],
+            [
+              0.16296,
+              44.498408
+            ],
+            [
+              0.162942,
+              44.498438
+            ],
+            [
+              0.162802,
+              44.498518
+            ],
+            [
+              0.162596,
+              44.498631
+            ],
+            [
+              0.162417,
+              44.498729
+            ],
+            [
+              0.16225,
+              44.498536
+            ],
+            [
+              0.162165,
+              44.498441
+            ],
+            [
+              0.162147,
+              44.498425
+            ],
+            [
+              0.161881,
+              44.498189
+            ],
+            [
+              0.161797,
+              44.498115
+            ]
+          ]
+        ]
+      },
+      "id": "way/254329508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27596122",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "importance": "national",
+        "maxspeed": "160",
+        "name": "Chemin de fer de Bordeaux à Sète",
+        "operator": "SNCF",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1580571,
+            44.5080727
+          ],
+          [
+            0.1575597,
+            44.5082644
+          ],
+          [
+            0.156255,
+            44.5087483
+          ],
+          [
+            0.1552726,
+            44.5091073
+          ],
+          [
+            0.1542459,
+            44.5094599
+          ],
+          [
+            0.1541726,
+            44.5094892
+          ],
+          [
+            0.1518732,
+            44.5103148
+          ],
+          [
+            0.1477352,
+            44.5118158
+          ],
+          [
+            0.1436668,
+            44.5132913
+          ],
+          [
+            0.1362357,
+            44.5159777
+          ],
+          [
+            0.1344104,
+            44.5166361
+          ],
+          [
+            0.1280935,
+            44.5189374
+          ],
+          [
+            0.1237928,
+            44.5205602
+          ],
+          [
+            0.1236214,
+            44.5206258
+          ],
+          [
+            0.1218787,
+            44.5212515
+          ],
+          [
+            0.1099944,
+            44.5255431
+          ],
+          [
+            0.0987766,
+            44.5296082
+          ],
+          [
+            0.0975822,
+            44.5300735
+          ],
+          [
+            0.096432,
+            44.5306
+          ],
+          [
+            0.0958905,
+            44.5308615
+          ],
+          [
+            0.0954005,
+            44.5311298
+          ],
+          [
+            0.0949221,
+            44.5314134
+          ],
+          [
+            0.0943963,
+            44.5317331
+          ],
+          [
+            0.0931108,
+            44.532705
+          ],
+          [
+            0.0917946,
+            44.5338692
+          ],
+          [
+            0.08983,
+            44.5362731
+          ]
+        ]
+      },
+      "id": "way/27596122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30646273",
+        "highway": "residential",
+        "name": "Rue Richard Strauss",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1661178,
+            44.50572
+          ],
+          [
+            0.1667382,
+            44.5064636
+          ],
+          [
+            0.1668178,
+            44.506559
+          ],
+          [
+            0.1670495,
+            44.5068368
+          ],
+          [
+            0.1672596,
+            44.5070398
+          ]
+        ]
+      },
+      "id": "way/30646273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30646274",
+        "highway": "residential",
+        "name": "Rue Beethoven",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1672596,
+            44.5070398
+          ],
+          [
+            0.1692657,
+            44.5063282
+          ]
+        ]
+      },
+      "id": "way/30646274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30646276",
+        "highway": "residential",
+        "name": "Rue Richard Strauss",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1660761,
+            44.5071942
+          ],
+          [
+            0.1670495,
+            44.5068368
+          ]
+        ]
+      },
+      "id": "way/30646276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30646277",
+        "highway": "residential",
+        "name": "Rue Robert Creuzet",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1647034,
+            44.5061817
+          ],
+          [
+            0.1652876,
+            44.5082089
+          ],
+          [
+            0.1654562,
+            44.5087424
+          ],
+          [
+            0.1661513,
+            44.5099298
+          ],
+          [
+            0.1662573,
+            44.5101109
+          ],
+          [
+            0.166608,
+            44.5107449
+          ],
+          [
+            0.1670747,
+            44.5115455
+          ],
+          [
+            0.1673815,
+            44.5120783
+          ],
+          [
+            0.1677094,
+            44.5127643
+          ]
+        ]
+      },
+      "id": "way/30646277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30646278",
+        "highway": "residential",
+        "maxspeed:type": "FR:urban",
+        "name": "Rue de Tombeloly",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1611832,
+            44.5077328
+          ],
+          [
+            0.1615304,
+            44.5080365
+          ],
+          [
+            0.1617485,
+            44.5082472
+          ],
+          [
+            0.1618555,
+            44.5083525
+          ],
+          [
+            0.1622104,
+            44.5087694
+          ],
+          [
+            0.1626757,
+            44.5097776
+          ],
+          [
+            0.1628254,
+            44.5100745
+          ],
+          [
+            0.1628949,
+            44.510233
+          ],
+          [
+            0.1632218,
+            44.5106299
+          ],
+          [
+            0.1636728,
+            44.5112073
+          ],
+          [
+            0.1637821,
+            44.5113977
+          ],
+          [
+            0.1640058,
+            44.5117645
+          ],
+          [
+            0.1641851,
+            44.5120442
+          ],
+          [
+            0.164358,
+            44.5123116
+          ],
+          [
+            0.1646556,
+            44.5127714
+          ],
+          [
+            0.1652036,
+            44.5135933
+          ],
+          [
+            0.1653654,
+            44.5139004
+          ],
+          [
+            0.1655696,
+            44.5142193
+          ],
+          [
+            0.1662835,
+            44.5153965
+          ],
+          [
+            0.1663094,
+            44.5155036
+          ],
+          [
+            0.1663062,
+            44.5155889
+          ],
+          [
+            0.166255,
+            44.5158107
+          ],
+          [
+            0.1662377,
+            44.5159194
+          ],
+          [
+            0.1662637,
+            44.5160241
+          ],
+          [
+            0.166381,
+            44.5162334
+          ],
+          [
+            0.1664965,
+            44.5164395
+          ],
+          [
+            0.166927,
+            44.5172051
+          ],
+          [
+            0.1672697,
+            44.5178466
+          ],
+          [
+            0.1679579,
+            44.5191679
+          ],
+          [
+            0.1683211,
+            44.5198654
+          ],
+          [
+            0.1684249,
+            44.5199375
+          ]
+        ]
+      },
+      "id": "way/30646278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30646279",
+        "highway": "residential",
+        "name": "Impasse de Broglie",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1617485,
+            44.5082472
+          ],
+          [
+            0.1619726,
+            44.5081287
+          ],
+          [
+            0.1617527,
+            44.5077951
+          ],
+          [
+            0.1619491,
+            44.5076297
+          ]
+        ]
+      },
+      "id": "way/30646279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648806",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Allée Paul Bourillon",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1685978,
+            44.4989948
+          ],
+          [
+            0.1685704,
+            44.4982847
+          ],
+          [
+            0.16855,
+            44.4982319
+          ]
+        ]
+      },
+      "id": "way/30648806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648808",
+        "highway": "residential",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1640421,
+            44.5038512
+          ],
+          [
+            0.1640992,
+            44.5039022
+          ],
+          [
+            0.1641172,
+            44.5039816
+          ],
+          [
+            0.1641449,
+            44.5040893
+          ],
+          [
+            0.1640919,
+            44.5041445
+          ]
+        ]
+      },
+      "id": "way/30648808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648809",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue du Fougard",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1640421,
+            44.5038512
+          ],
+          [
+            0.1639927,
+            44.5035841
+          ],
+          [
+            0.1639791,
+            44.5035315
+          ],
+          [
+            0.1639137,
+            44.5032119
+          ],
+          [
+            0.1638284,
+            44.5027356
+          ],
+          [
+            0.1637686,
+            44.5025233
+          ]
+        ]
+      },
+      "id": "way/30648809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648810",
+        "highway": "residential",
+        "name": "Rue Talèze",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1639137,
+            44.5032119
+          ],
+          [
+            0.1646306,
+            44.5030138
+          ],
+          [
+            0.164299,
+            44.5023808
+          ]
+        ]
+      },
+      "id": "way/30648810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648815",
+        "highway": "residential",
+        "name": "Rue Albert Solleville",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1655401,
+            44.5018459
+          ],
+          [
+            0.166153,
+            44.5023002
+          ],
+          [
+            0.1666543,
+            44.5025885
+          ],
+          [
+            0.1671568,
+            44.5028711
+          ]
+        ]
+      },
+      "id": "way/30648815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648817",
+        "highway": "residential",
+        "name": "Rue du Pin",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1659425,
+            44.5024365
+          ],
+          [
+            0.166153,
+            44.5023002
+          ],
+          [
+            0.166346,
+            44.5021336
+          ],
+          [
+            0.1666506,
+            44.5017634
+          ],
+          [
+            0.1668368,
+            44.5013565
+          ]
+        ]
+      },
+      "id": "way/30648817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648821",
+        "highway": "residential",
+        "name": "Rue Martignac",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1679921,
+            44.5018136
+          ],
+          [
+            0.1675376,
+            44.5016028
+          ],
+          [
+            0.1668803,
+            44.5013038
+          ]
+        ]
+      },
+      "id": "way/30648821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648823",
+        "highway": "residential",
+        "name": "Rue d'Onzac",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.165014,
+            44.5020721
+          ],
+          [
+            0.1647706,
+            44.5018161
+          ],
+          [
+            0.1646657,
+            44.5017012
+          ],
+          [
+            0.1646292,
+            44.5016408
+          ]
+        ]
+      },
+      "id": "way/30648823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648825",
+        "highway": "residential",
+        "name": "Rue Pierre Bérégovoy",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1633525,
+            44.5007559
+          ],
+          [
+            0.1634455,
+            44.5008581
+          ],
+          [
+            0.1634761,
+            44.5008917
+          ],
+          [
+            0.1635906,
+            44.501031
+          ],
+          [
+            0.1636557,
+            44.5011243
+          ],
+          [
+            0.163758,
+            44.5012708
+          ],
+          [
+            0.1637698,
+            44.5013577
+          ]
+        ]
+      },
+      "id": "way/30648825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648829",
+        "highway": "residential",
+        "junction": "roundabout",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1646606,
+            44.5002336
+          ],
+          [
+            0.164625,
+            44.500204
+          ],
+          [
+            0.1646391,
+            44.5001558
+          ],
+          [
+            0.1647299,
+            44.5001113
+          ],
+          [
+            0.1648302,
+            44.5001298
+          ],
+          [
+            0.1649141,
+            44.5001419
+          ],
+          [
+            0.1649487,
+            44.5001625
+          ],
+          [
+            0.1649418,
+            44.5002034
+          ],
+          [
+            0.1649415,
+            44.5002376
+          ],
+          [
+            0.1647873,
+            44.5002359
+          ],
+          [
+            0.1646606,
+            44.5002336
+          ]
+        ]
+      },
+      "id": "way/30648829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648830",
+        "highway": "residential",
+        "name": "Place des 9 Fontaines",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1649415,
+            44.5002376
+          ],
+          [
+            0.1649878,
+            44.5002813
+          ],
+          [
+            0.1650581,
+            44.5003477
+          ]
+        ]
+      },
+      "id": "way/30648830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648832",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue des Adouberies",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1624805,
+            44.4991016
+          ],
+          [
+            0.1631635,
+            44.499688
+          ],
+          [
+            0.1633513,
+            44.4997719
+          ],
+          [
+            0.1637203,
+            44.4999065
+          ],
+          [
+            0.1641482,
+            44.5000213
+          ],
+          [
+            0.1645118,
+            44.5000729
+          ],
+          [
+            0.1646066,
+            44.5001177
+          ],
+          [
+            0.1646391,
+            44.5001558
+          ]
+        ]
+      },
+      "id": "way/30648832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648834",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Pierre Bérégovoy",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.164625,
+            44.500204
+          ],
+          [
+            0.1641719,
+            44.5003269
+          ],
+          [
+            0.1639312,
+            44.5004609
+          ],
+          [
+            0.1637334,
+            44.5005548
+          ]
+        ]
+      },
+      "id": "way/30648834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648836",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Pasteur",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1594611,
+            44.5011786
+          ],
+          [
+            0.1597654,
+            44.5013736
+          ],
+          [
+            0.1602552,
+            44.5015264
+          ],
+          [
+            0.1611982,
+            44.5018184
+          ],
+          [
+            0.1622319,
+            44.5020964
+          ],
+          [
+            0.162785,
+            44.5022482
+          ],
+          [
+            0.1629353,
+            44.5022894
+          ],
+          [
+            0.1635622,
+            44.502461
+          ],
+          [
+            0.1637625,
+            44.5024619
+          ]
+        ]
+      },
+      "id": "way/30648836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648837",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Victor Schloelcher",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1636587,
+            44.5005941
+          ],
+          [
+            0.1628694,
+            44.5000564
+          ],
+          [
+            0.1627952,
+            44.4999982
+          ],
+          [
+            0.1627741,
+            44.4999607
+          ]
+        ]
+      },
+      "id": "way/30648837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648838",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "sign",
+        "name": "Rue de la Rose",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1622753,
+            44.5003589
+          ],
+          [
+            0.1616921,
+            44.500997
+          ],
+          [
+            0.1616553,
+            44.5010378
+          ],
+          [
+            0.1613824,
+            44.5013458
+          ],
+          [
+            0.1611982,
+            44.5018184
+          ]
+        ]
+      },
+      "id": "way/30648838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648839",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Passage Saint-Georges",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1627051,
+            44.5012597
+          ],
+          [
+            0.1616921,
+            44.500997
+          ]
+        ]
+      },
+      "id": "way/30648839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648840",
+        "highway": "residential",
+        "name": "Rue Paul Gérard",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1597654,
+            44.5013736
+          ],
+          [
+            0.1596904,
+            44.5014567
+          ],
+          [
+            0.1607379,
+            44.5023361
+          ],
+          [
+            0.1620864,
+            44.5027606
+          ],
+          [
+            0.1625137,
+            44.5026114
+          ],
+          [
+            0.1626614,
+            44.502761
+          ],
+          [
+            0.1633172,
+            44.5034973
+          ]
+        ]
+      },
+      "id": "way/30648840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648841",
+        "highway": "residential",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1639927,
+            44.5035841
+          ],
+          [
+            0.1634429,
+            44.5036554
+          ]
+        ]
+      },
+      "id": "way/30648841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648843",
+        "highway": "residential",
+        "name": "Rue du Port Saint-Louis",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1625137,
+            44.5026114
+          ],
+          [
+            0.162785,
+            44.5022482
+          ]
+        ]
+      },
+      "id": "way/30648843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648846",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue du Général Duport",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1630049,
+            44.5009134
+          ],
+          [
+            0.1626647,
+            44.5006289
+          ],
+          [
+            0.1623425,
+            44.500393
+          ],
+          [
+            0.1622753,
+            44.5003589
+          ],
+          [
+            0.1615532,
+            44.499812
+          ],
+          [
+            0.1615416,
+            44.4997929
+          ],
+          [
+            0.1615407,
+            44.4997711
+          ]
+        ]
+      },
+      "id": "way/30648846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648848",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Touratte",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1605573,
+            44.4991706
+          ],
+          [
+            0.1604473,
+            44.4992554
+          ],
+          [
+            0.1602674,
+            44.4993459
+          ],
+          [
+            0.1599755,
+            44.4994928
+          ],
+          [
+            0.1596203,
+            44.4996715
+          ],
+          [
+            0.1593043,
+            44.4998305
+          ],
+          [
+            0.1590486,
+            44.4999592
+          ],
+          [
+            0.1591643,
+            44.5002469
+          ],
+          [
+            0.159263,
+            44.5004924
+          ],
+          [
+            0.1593579,
+            44.5007284
+          ],
+          [
+            0.1596219,
+            44.5010794
+          ]
+        ]
+      },
+      "id": "way/30648848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648849",
+        "highway": "residential",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Chemin de Ronde Porte de la Grave",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.157933,
+            44.4991126
+          ],
+          [
+            0.1585096,
+            44.4999928
+          ],
+          [
+            0.1590945,
+            44.5007681
+          ],
+          [
+            0.1592096,
+            44.5009273
+          ],
+          [
+            0.1594175,
+            44.5011962
+          ]
+        ]
+      },
+      "id": "way/30648849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648850",
+        "highway": "residential",
+        "name": "Rue de la Garonne",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1579905,
+            44.5018098
+          ],
+          [
+            0.157114,
+            44.5011935
+          ],
+          [
+            0.1567938,
+            44.500976
+          ],
+          [
+            0.1565448,
+            44.5008455
+          ],
+          [
+            0.1563085,
+            44.5007612
+          ],
+          [
+            0.1561087,
+            44.5007293
+          ],
+          [
+            0.1559999,
+            44.5007168
+          ],
+          [
+            0.1558919,
+            44.5007275
+          ],
+          [
+            0.1557916,
+            44.5007501
+          ],
+          [
+            0.155614,
+            44.5008355
+          ],
+          [
+            0.1554804,
+            44.5008135
+          ]
+        ]
+      },
+      "id": "way/30648850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648852",
+        "highway": "residential",
+        "name": "Rue du Stade",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1620925,
+            44.5032783
+          ],
+          [
+            0.1615045,
+            44.504029
+          ],
+          [
+            0.1611383,
+            44.5043566
+          ]
+        ]
+      },
+      "id": "way/30648852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648853",
+        "highway": "residential",
+        "name": "Avenue Deluns-Montaud",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1647921,
+            44.5061579
+          ],
+          [
+            0.1646122,
+            44.505607
+          ]
+        ]
+      },
+      "id": "way/30648853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648854",
+        "highway": "residential",
+        "layer": "-1",
+        "maxheight": "3.3",
+        "name": "Avenue Deluns-Montaud",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1646122,
+            44.505607
+          ],
+          [
+            0.1644664,
+            44.5052394
+          ]
+        ]
+      },
+      "id": "way/30648854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648855",
+        "highway": "residential",
+        "name": "Avenue Deluns-Montaud",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1644664,
+            44.5052394
+          ],
+          [
+            0.1642796,
+            44.5046961
+          ],
+          [
+            0.1641231,
+            44.5042363
+          ],
+          [
+            0.1641175,
+            44.5042197
+          ],
+          [
+            0.1640919,
+            44.5041445
+          ]
+        ]
+      },
+      "id": "way/30648855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648856",
+        "highway": "residential",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1637699,
+            44.5040341
+          ],
+          [
+            0.1637517,
+            44.5041725
+          ],
+          [
+            0.163744,
+            44.5042238
+          ],
+          [
+            0.1637248,
+            44.5042451
+          ],
+          [
+            0.1636294,
+            44.5043511
+          ]
+        ]
+      },
+      "id": "way/30648856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648857",
+        "highway": "residential",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1636294,
+            44.5043511
+          ],
+          [
+            0.1635488,
+            44.5042867
+          ],
+          [
+            0.1634335,
+            44.5041944
+          ],
+          [
+            0.1633162,
+            44.5041006
+          ]
+        ]
+      },
+      "id": "way/30648857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648858",
+        "highway": "residential",
+        "name": "Avenue Rondereau",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1600624,
+            44.5071208
+          ],
+          [
+            0.1602058,
+            44.5071181
+          ],
+          [
+            0.160457,
+            44.5070503
+          ],
+          [
+            0.1614869,
+            44.5066696
+          ],
+          [
+            0.1619071,
+            44.5065211
+          ],
+          [
+            0.1621091,
+            44.5064255
+          ],
+          [
+            0.1622606,
+            44.5062527
+          ],
+          [
+            0.1636294,
+            44.5043511
+          ]
+        ]
+      },
+      "id": "way/30648858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648916",
+        "highway": "residential",
+        "name": "Rue Sauvestre",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1663133,
+            44.4982605
+          ],
+          [
+            0.1665016,
+            44.498095
+          ],
+          [
+            0.166663,
+            44.4980356
+          ],
+          [
+            0.1670554,
+            44.4978853
+          ],
+          [
+            0.1673409,
+            44.4977526
+          ]
+        ]
+      },
+      "id": "way/30648916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648918",
+        "highway": "residential",
+        "name": "Allée Paul Bourillon",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.16855,
+            44.4982319
+          ],
+          [
+            0.1685088,
+            44.4981746
+          ],
+          [
+            0.1683634,
+            44.4980126
+          ],
+          [
+            0.1677431,
+            44.4974195
+          ],
+          [
+            0.1674455,
+            44.4971445
+          ],
+          [
+            0.1672518,
+            44.4969429
+          ]
+        ]
+      },
+      "id": "way/30648918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648921",
+        "highway": "residential",
+        "name": "Rue Barthe",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1670554,
+            44.4978853
+          ],
+          [
+            0.1673017,
+            44.4981891
+          ],
+          [
+            0.1674524,
+            44.4984959
+          ],
+          [
+            0.1675514,
+            44.49859
+          ]
+        ]
+      },
+      "id": "way/30648921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648927",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue de la Libération",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1615407,
+            44.4997711
+          ],
+          [
+            0.1615905,
+            44.4997379
+          ],
+          [
+            0.1619535,
+            44.4994747
+          ],
+          [
+            0.1620978,
+            44.4993754
+          ],
+          [
+            0.1624033,
+            44.499146
+          ],
+          [
+            0.1624805,
+            44.4991016
+          ],
+          [
+            0.1627241,
+            44.4989292
+          ],
+          [
+            0.1629983,
+            44.4987594
+          ],
+          [
+            0.163032,
+            44.4987394
+          ],
+          [
+            0.1634742,
+            44.4984605
+          ]
+        ]
+      },
+      "id": "way/30648927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648933",
+        "highway": "residential",
+        "name": "Rue Daney",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1690958,
+            44.4990087
+          ],
+          [
+            0.1685978,
+            44.4989948
+          ],
+          [
+            0.167478,
+            44.4987694
+          ]
+        ]
+      },
+      "id": "way/30648933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648935",
+        "highway": "residential",
+        "name": "Rue Portasse",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1686287,
+            44.4997123
+          ],
+          [
+            0.1685472,
+            44.499696
+          ],
+          [
+            0.1681541,
+            44.4995261
+          ],
+          [
+            0.1670989,
+            44.4995138
+          ]
+        ]
+      },
+      "id": "way/30648935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648936",
+        "highway": "residential",
+        "name": "Rue Parreau",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1674557,
+            44.5003685
+          ],
+          [
+            0.167617,
+            44.500144
+          ],
+          [
+            0.1679057,
+            44.4998521
+          ],
+          [
+            0.1681541,
+            44.4995261
+          ]
+        ]
+      },
+      "id": "way/30648936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648937",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Allée Albert Cambon",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1584654,
+            44.5010011
+          ],
+          [
+            0.1585467,
+            44.5009371
+          ],
+          [
+            0.1585859,
+            44.500888
+          ],
+          [
+            0.1586121,
+            44.5008552
+          ],
+          [
+            0.158654,
+            44.5007817
+          ]
+        ]
+      },
+      "id": "way/30648937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648944",
+        "highway": "residential",
+        "name": "Rue Lespinasse",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1655183,
+            44.4985298
+          ],
+          [
+            0.1657477,
+            44.4986358
+          ],
+          [
+            0.1654485,
+            44.498975
+          ],
+          [
+            0.1651772,
+            44.4993476
+          ]
+        ]
+      },
+      "id": "way/30648944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648945",
+        "highway": "residential",
+        "name": "Rue Victor Fourton",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1655768,
+            44.4984388
+          ],
+          [
+            0.1649628,
+            44.4983369
+          ],
+          [
+            0.1649187,
+            44.4983215
+          ],
+          [
+            0.1648171,
+            44.4982859
+          ]
+        ]
+      },
+      "id": "way/30648945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648946",
+        "highway": "residential",
+        "name": "Rue Cazeaux",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1644644,
+            44.4990743
+          ],
+          [
+            0.1647613,
+            44.4985946
+          ],
+          [
+            0.1649628,
+            44.4983369
+          ]
+        ]
+      },
+      "id": "way/30648946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648947",
+        "highway": "residential",
+        "name": "Rue Sauvestre",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1647613,
+            44.4985946
+          ],
+          [
+            0.1644854,
+            44.4984914
+          ],
+          [
+            0.1641729,
+            44.4983195
+          ],
+          [
+            0.163922,
+            44.4981701
+          ]
+        ]
+      },
+      "id": "way/30648947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648948",
+        "highway": "residential",
+        "name": "Rue D'Enghien",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1636986,
+            44.4986278
+          ],
+          [
+            0.1641729,
+            44.4983195
+          ]
+        ]
+      },
+      "id": "way/30648948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648949",
+        "highway": "residential",
+        "name": "Rue Neuvil",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.163032,
+            44.4987394
+          ],
+          [
+            0.1632716,
+            44.4989168
+          ],
+          [
+            0.1636291,
+            44.4991642
+          ],
+          [
+            0.1637406,
+            44.4992498
+          ],
+          [
+            0.1638064,
+            44.4993003
+          ],
+          [
+            0.1639034,
+            44.4993767
+          ],
+          [
+            0.1641977,
+            44.499541
+          ],
+          [
+            0.1644162,
+            44.49969
+          ]
+        ]
+      },
+      "id": "way/30648949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648950",
+        "highway": "residential",
+        "name": "Rue Paul Vergnes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1627241,
+            44.4989292
+          ],
+          [
+            0.1628131,
+            44.4989619
+          ],
+          [
+            0.1633868,
+            44.4993384
+          ],
+          [
+            0.1636026,
+            44.499452
+          ],
+          [
+            0.1639701,
+            44.49964
+          ],
+          [
+            0.1642343,
+            44.49969
+          ],
+          [
+            0.1644162,
+            44.49969
+          ],
+          [
+            0.1647797,
+            44.4997038
+          ],
+          [
+            0.1651772,
+            44.4993476
+          ]
+        ]
+      },
+      "id": "way/30648950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648951",
+        "highway": "residential",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1638064,
+            44.4993003
+          ],
+          [
+            0.1636026,
+            44.499452
+          ]
+        ]
+      },
+      "id": "way/30648951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648952",
+        "highway": "residential",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Laffiteau",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1627241,
+            44.4989292
+          ],
+          [
+            0.1624045,
+            44.4987647
+          ],
+          [
+            0.1623887,
+            44.4987472
+          ],
+          [
+            0.1621181,
+            44.4984338
+          ],
+          [
+            0.1617298,
+            44.4980965
+          ]
+        ]
+      },
+      "id": "way/30648952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648955",
+        "highway": "residential",
+        "name": "Rue des Religieuses",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1629897,
+            44.4984203
+          ],
+          [
+            0.1628179,
+            44.4985334
+          ],
+          [
+            0.1624045,
+            44.4987647
+          ]
+        ]
+      },
+      "id": "way/30648955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30648956",
+        "highway": "residential",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1628179,
+            44.4985334
+          ],
+          [
+            0.163032,
+            44.4987394
+          ]
+        ]
+      },
+      "id": "way/30648956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649368",
+        "highway": "residential",
+        "name": "Rue des Isserts",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1680403,
+            44.5047551
+          ],
+          [
+            0.1691764,
+            44.5062624
+          ],
+          [
+            0.1692657,
+            44.5063282
+          ],
+          [
+            0.1694385,
+            44.506676
+          ],
+          [
+            0.1699501,
+            44.5075739
+          ],
+          [
+            0.1702946,
+            44.50816
+          ],
+          [
+            0.1706252,
+            44.5087737
+          ]
+        ]
+      },
+      "id": "way/30649368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649375",
+        "highway": "residential",
+        "name": "Impasse Honoré Daumier",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1699501,
+            44.5075739
+          ],
+          [
+            0.1691037,
+            44.5078251
+          ],
+          [
+            0.1686641,
+            44.5078714
+          ],
+          [
+            0.1683449,
+            44.5079817
+          ],
+          [
+            0.1680698,
+            44.5080644
+          ],
+          [
+            0.1679399,
+            44.5080617
+          ]
+        ]
+      },
+      "id": "way/30649375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649376",
+        "highway": "residential",
+        "name": "Impasse Camille Corot",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1683447,
+            44.5083473
+          ],
+          [
+            0.1685396,
+            44.5082851
+          ],
+          [
+            0.1686636,
+            44.5082465
+          ]
+        ]
+      },
+      "id": "way/30649376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649377",
+        "highway": "residential",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1685396,
+            44.5082851
+          ],
+          [
+            0.1683449,
+            44.5079817
+          ]
+        ]
+      },
+      "id": "way/30649377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649380",
+        "highway": "residential",
+        "name": "Rue Rousset",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1656341,
+            44.5059057
+          ],
+          [
+            0.1660761,
+            44.5071942
+          ],
+          [
+            0.1662985,
+            44.5080262
+          ],
+          [
+            0.1652876,
+            44.5082089
+          ]
+        ]
+      },
+      "id": "way/30649380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649382",
+        "highway": "residential",
+        "name": "Rue Mozart",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1672596,
+            44.5070398
+          ],
+          [
+            0.167251,
+            44.5071444
+          ],
+          [
+            0.1679399,
+            44.5080617
+          ]
+        ]
+      },
+      "id": "way/30649382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649383",
+        "highway": "residential",
+        "name": "Allée des Cèdres",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1662573,
+            44.5101109
+          ],
+          [
+            0.1671404,
+            44.5098777
+          ],
+          [
+            0.1674026,
+            44.5097338
+          ],
+          [
+            0.1679001,
+            44.5094864
+          ],
+          [
+            0.1684995,
+            44.5093687
+          ],
+          [
+            0.1688654,
+            44.5093424
+          ],
+          [
+            0.1694357,
+            44.5091727
+          ],
+          [
+            0.1695444,
+            44.5091012
+          ]
+        ]
+      },
+      "id": "way/30649383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649384",
+        "highway": "residential",
+        "name": "Impasse Fragonard",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1684995,
+            44.5093687
+          ],
+          [
+            0.1685959,
+            44.5100237
+          ],
+          [
+            0.1680545,
+            44.5101943
+          ]
+        ]
+      },
+      "id": "way/30649384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649385",
+        "highway": "residential",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1684995,
+            44.5093687
+          ],
+          [
+            0.1683501,
+            44.5090098
+          ],
+          [
+            0.167623,
+            44.5081248
+          ]
+        ]
+      },
+      "id": "way/30649385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30649387",
+        "highway": "residential",
+        "name": "Rue Lacépède",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1654562,
+            44.5087424
+          ],
+          [
+            0.1640696,
+            44.5091986
+          ],
+          [
+            0.1639796,
+            44.5092431
+          ]
+        ]
+      },
+      "id": "way/30649387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30664041",
+        "highway": "residential",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1610361,
+            44.5089102
+          ],
+          [
+            0.1602932,
+            44.5091521
+          ],
+          [
+            0.1602204,
+            44.509141
+          ]
+        ]
+      },
+      "id": "way/30664041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30664045",
+        "highway": "residential",
+        "name": "Rue Montesquieu",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1570778,
+            44.5096284
+          ],
+          [
+            0.1573699,
+            44.5094854
+          ],
+          [
+            0.1582159,
+            44.5091908
+          ],
+          [
+            0.1585534,
+            44.509662
+          ]
+        ]
+      },
+      "id": "way/30664045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30664193",
+        "highway": "residential",
+        "name": "Rue Portogruaro",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.159948,
+            44.5057586
+          ],
+          [
+            0.159779,
+            44.505776
+          ],
+          [
+            0.1596233,
+            44.5058064
+          ],
+          [
+            0.1593079,
+            44.5059198
+          ],
+          [
+            0.158976,
+            44.5059984
+          ],
+          [
+            0.1577642,
+            44.5062858
+          ],
+          [
+            0.1574673,
+            44.5063192
+          ],
+          [
+            0.1573605,
+            44.5063301
+          ],
+          [
+            0.1571166,
+            44.5063663
+          ],
+          [
+            0.1568283,
+            44.5064487
+          ],
+          [
+            0.1565473,
+            44.506544
+          ],
+          [
+            0.1560046,
+            44.5068238
+          ],
+          [
+            0.1558436,
+            44.5069082
+          ],
+          [
+            0.1551202,
+            44.5072642
+          ],
+          [
+            0.1550943,
+            44.5072726
+          ],
+          [
+            0.1548786,
+            44.5073431
+          ],
+          [
+            0.1545923,
+            44.5074366
+          ],
+          [
+            0.1544155,
+            44.5074943
+          ],
+          [
+            0.1542857,
+            44.5075367
+          ],
+          [
+            0.1539821,
+            44.5075639
+          ],
+          [
+            0.1536124,
+            44.5075603
+          ],
+          [
+            0.1532609,
+            44.5076573
+          ],
+          [
+            0.1521095,
+            44.5081265
+          ],
+          [
+            0.1516886,
+            44.5082915
+          ],
+          [
+            0.1513785,
+            44.5084214
+          ]
+        ]
+      },
+      "id": "way/30664193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30665773",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Square de Verdun",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1620978,
+            44.4993754
+          ],
+          [
+            0.1622219,
+            44.4994693
+          ],
+          [
+            0.162264,
+            44.4995218
+          ],
+          [
+            0.1622955,
+            44.4995706
+          ],
+          [
+            0.1626004,
+            44.4997717
+          ],
+          [
+            0.1626326,
+            44.4997929
+          ],
+          [
+            0.1626886,
+            44.4998299
+          ]
+        ]
+      },
+      "id": "way/30665773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30665973",
+        "highway": "residential",
+        "name": "Rue Georges Braque",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1573598,
+            44.5105667
+          ],
+          [
+            0.1565183,
+            44.5095946
+          ],
+          [
+            0.1561903,
+            44.5092005
+          ],
+          [
+            0.1550494,
+            44.5096083
+          ],
+          [
+            0.1553834,
+            44.5100349
+          ],
+          [
+            0.1556238,
+            44.5099578
+          ],
+          [
+            0.1564424,
+            44.5109048
+          ]
+        ]
+      },
+      "id": "way/30665973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51052342",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "importance": "national",
+        "maxspeed": "160",
+        "name": "Chemin de fer de Bordeaux à Sète",
+        "operator": "SNCF",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+        "usage": "main",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1682431,
+            44.5032318
+          ],
+          [
+            0.1685618,
+            44.5030374
+          ],
+          [
+            0.1691124,
+            44.5027046
+          ],
+          [
+            0.1696214,
+            44.5023905
+          ],
+          [
+            0.1703093,
+            44.5019598
+          ],
+          [
+            0.1708419,
+            44.5016433
+          ],
+          [
+            0.1710116,
+            44.5015341
+          ],
+          [
+            0.1717813,
+            44.5010726
+          ],
+          [
+            0.1722852,
+            44.5007695
+          ],
+          [
+            0.1732976,
+            44.5001557
+          ],
+          [
+            0.1744195,
+            44.4994775
+          ],
+          [
+            0.1755435,
+            44.4987956
+          ],
+          [
+            0.1764933,
+            44.4982149
+          ],
+          [
+            0.1774238,
+            44.4976375
+          ]
+        ]
+      },
+      "id": "way/51052342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105142739",
+        "highway": "residential",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Leris-Lhermitte",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1624033,
+            44.499146
+          ],
+          [
+            0.1618802,
+            44.4987841
+          ],
+          [
+            0.1614726,
+            44.4985067
+          ],
+          [
+            0.1614191,
+            44.4984703
+          ],
+          [
+            0.1612757,
+            44.4983727
+          ],
+          [
+            0.1611396,
+            44.4982801
+          ],
+          [
+            0.1610889,
+            44.4981267
+          ]
+        ]
+      },
+      "id": "way/105142739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105152066",
+        "highway": "residential",
+        "name": "Rue des Carmes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1637686,
+            44.5025233
+          ],
+          [
+            0.1637625,
+            44.5024619
+          ],
+          [
+            0.1637843,
+            44.5019105
+          ],
+          [
+            0.1637698,
+            44.5013577
+          ]
+        ]
+      },
+      "id": "way/105152066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105152156",
+        "highway": "residential",
+        "name": "Rue Henri Dunant",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1666543,
+            44.5025885
+          ],
+          [
+            0.1663115,
+            44.5027946
+          ],
+          [
+            0.1639791,
+            44.5035315
+          ]
+        ]
+      },
+      "id": "way/105152156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105152455",
+        "highway": "residential",
+        "name": "Rue de l'Observance",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1615407,
+            44.4997711
+          ],
+          [
+            0.1614895,
+            44.499733
+          ],
+          [
+            0.1611359,
+            44.4994893
+          ],
+          [
+            0.1608379,
+            44.4993341
+          ],
+          [
+            0.1606088,
+            44.499222
+          ],
+          [
+            0.1605573,
+            44.4991706
+          ],
+          [
+            0.1604994,
+            44.499093
+          ],
+          [
+            0.1603797,
+            44.4989206
+          ],
+          [
+            0.1602593,
+            44.4987243
+          ],
+          [
+            0.1602449,
+            44.4985527
+          ],
+          [
+            0.1598154,
+            44.4983545
+          ]
+        ]
+      },
+      "id": "way/105152455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105155361",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue de la Cale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1577796,
+            44.4994802
+          ],
+          [
+            0.1582128,
+            44.5001131
+          ],
+          [
+            0.1584394,
+            44.5004379
+          ]
+        ]
+      },
+      "id": "way/105155361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105155364",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Place Clemenceau",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1661248,
+            44.4998302
+          ],
+          [
+            0.1659089,
+            44.4996742
+          ],
+          [
+            0.1658899,
+            44.4996605
+          ],
+          [
+            0.1656182,
+            44.4995266
+          ]
+        ]
+      },
+      "id": "way/105155364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105155367",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Leopold Faye",
+        "ref": "D 933",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1634742,
+            44.4984605
+          ],
+          [
+            0.1636986,
+            44.4986278
+          ],
+          [
+            0.1641,
+            44.4989176
+          ],
+          [
+            0.164114,
+            44.4989277
+          ],
+          [
+            0.1642998,
+            44.4990203
+          ],
+          [
+            0.1644644,
+            44.4990743
+          ],
+          [
+            0.1649394,
+            44.4992565
+          ],
+          [
+            0.1651772,
+            44.4993476
+          ],
+          [
+            0.165362,
+            44.499413
+          ],
+          [
+            0.1655566,
+            44.4995
+          ],
+          [
+            0.1656182,
+            44.4995266
+          ]
+        ]
+      },
+      "id": "way/105155367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105156660",
+        "highway": "residential",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Petite Rue Touratte",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1590486,
+            44.4999592
+          ],
+          [
+            0.1590434,
+            44.499908
+          ],
+          [
+            0.1589894,
+            44.4998677
+          ],
+          [
+            0.1589382,
+            44.4998361
+          ],
+          [
+            0.1585096,
+            44.4999928
+          ],
+          [
+            0.1582128,
+            44.5001131
+          ],
+          [
+            0.1581521,
+            44.500135
+          ],
+          [
+            0.1580223,
+            44.500182
+          ]
+        ]
+      },
+      "id": "way/105156660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105166952",
+        "fixme": "sens circulation vers Sud (au moins au débouché sur rue De Gaulle)",
+        "highway": "residential",
+        "name": "Rue Lagauzère",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1675483,
+            44.5004063
+          ],
+          [
+            0.1671062,
+            44.5009916
+          ],
+          [
+            0.1668803,
+            44.5013038
+          ],
+          [
+            0.1668368,
+            44.5013565
+          ]
+        ]
+      },
+      "id": "way/105166952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105176406",
+        "highway": "residential",
+        "name": "Rue Bayle de Seyches",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1672488,
+            44.4992345
+          ],
+          [
+            0.167478,
+            44.4987694
+          ],
+          [
+            0.1675514,
+            44.49859
+          ],
+          [
+            0.1679596,
+            44.4983985
+          ],
+          [
+            0.1684875,
+            44.4982495
+          ],
+          [
+            0.16855,
+            44.4982319
+          ]
+        ]
+      },
+      "id": "way/105176406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105177745",
+        "highway": "residential",
+        "name": "Rue du Palais",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1662545,
+            44.4987782
+          ],
+          [
+            0.1663079,
+            44.4988031
+          ],
+          [
+            0.1672488,
+            44.4992345
+          ]
+        ]
+      },
+      "id": "way/105177745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105177748",
+        "highway": "residential",
+        "name": "Rue Monnereau",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1655768,
+            44.4984388
+          ],
+          [
+            0.1655183,
+            44.4985298
+          ],
+          [
+            0.1649394,
+            44.4992565
+          ]
+        ]
+      },
+      "id": "way/105177748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105180108",
+        "highway": "residential",
+        "name": "Chemin de Ronde Puygueraud",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1666543,
+            44.5025885
+          ],
+          [
+            0.1675376,
+            44.5016028
+          ],
+          [
+            0.1678335,
+            44.5012823
+          ],
+          [
+            0.1683051,
+            44.5007755
+          ],
+          [
+            0.1684913,
+            44.5005029
+          ],
+          [
+            0.1685251,
+            44.5004051
+          ],
+          [
+            0.1685636,
+            44.5002381
+          ],
+          [
+            0.1686287,
+            44.4997123
+          ]
+        ]
+      },
+      "id": "way/105180108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105180109",
+        "highway": "residential",
+        "name": "Rue Bayle de Seyches",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1672488,
+            44.4992345
+          ],
+          [
+            0.1670989,
+            44.4995138
+          ],
+          [
+            0.1667724,
+            44.5001161
+          ]
+        ]
+      },
+      "id": "way/105180109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105180719",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Truquet",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1611982,
+            44.5018184
+          ],
+          [
+            0.1607379,
+            44.5023361
+          ],
+          [
+            0.1604335,
+            44.5026538
+          ]
+        ]
+      },
+      "id": "way/105180719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105180720",
+        "highway": "residential",
+        "name": "Rue Roturier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1609342,
+            44.5028908
+          ],
+          [
+            0.1599575,
+            44.5034445
+          ],
+          [
+            0.1596735,
+            44.5036024
+          ]
+        ]
+      },
+      "id": "way/105180720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105180721",
+        "highway": "residential",
+        "name": "Rue Beaujardin",
+        "noexit": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1580219,
+            44.5038946
+          ],
+          [
+            0.1596488,
+            44.503421
+          ]
+        ]
+      },
+      "id": "way/105180721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150907956",
+        "highway": "residential",
+        "name": "Rue Abel Boyé",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.165914,
+            44.4991848
+          ],
+          [
+            0.1662545,
+            44.4987782
+          ]
+        ]
+      },
+      "id": "way/150907956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150909964",
+        "highway": "residential",
+        "name": "Rue des 9 Fontaines",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1650581,
+            44.5003477
+          ],
+          [
+            0.1651293,
+            44.5002891
+          ],
+          [
+            0.1652397,
+            44.5002042
+          ],
+          [
+            0.1653113,
+            44.5001477
+          ],
+          [
+            0.1655542,
+            44.4999241
+          ],
+          [
+            0.1655978,
+            44.499909
+          ]
+        ]
+      },
+      "id": "way/150909964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150913630",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Victor Fourton",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1644126,
+            44.4979295
+          ],
+          [
+            0.1645132,
+            44.4980773
+          ],
+          [
+            0.1645698,
+            44.4981531
+          ],
+          [
+            0.1646331,
+            44.4982215
+          ],
+          [
+            0.1647743,
+            44.4982687
+          ],
+          [
+            0.1648171,
+            44.4982859
+          ]
+        ]
+      },
+      "id": "way/150913630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150913631",
+        "highway": "residential",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1649241,
+            44.498059
+          ],
+          [
+            0.1649254,
+            44.4981121
+          ],
+          [
+            0.1648171,
+            44.4982859
+          ]
+        ]
+      },
+      "id": "way/150913631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153192428",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Place du Moulin",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1611396,
+            44.4982801
+          ],
+          [
+            0.1608097,
+            44.4983806
+          ],
+          [
+            0.1602449,
+            44.4985527
+          ]
+        ]
+      },
+      "id": "way/153192428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155584596",
+        "highway": "residential",
+        "name": "Rue du Pas Saint-Georges",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1637698,
+            44.5013577
+          ],
+          [
+            0.1638912,
+            44.5013662
+          ],
+          [
+            0.1640602,
+            44.5014022
+          ],
+          [
+            0.1641464,
+            44.5014348
+          ],
+          [
+            0.1642203,
+            44.5014685
+          ],
+          [
+            0.1643378,
+            44.5015381
+          ],
+          [
+            0.164362,
+            44.5015479
+          ],
+          [
+            0.164501,
+            44.5016041
+          ],
+          [
+            0.1646292,
+            44.5016408
+          ]
+        ]
+      },
+      "id": "way/155584596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155584598",
+        "highway": "residential",
+        "name": "Rue d'Onzac",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1646292,
+            44.5016408
+          ],
+          [
+            0.1646151,
+            44.5015956
+          ],
+          [
+            0.1646197,
+            44.5015361
+          ],
+          [
+            0.1646284,
+            44.5015006
+          ],
+          [
+            0.1646326,
+            44.5014811
+          ],
+          [
+            0.1646611,
+            44.5013971
+          ],
+          [
+            0.1646967,
+            44.5012951
+          ],
+          [
+            0.1648102,
+            44.5010099
+          ],
+          [
+            0.1648643,
+            44.5007368
+          ],
+          [
+            0.164936,
+            44.5004777
+          ],
+          [
+            0.1649992,
+            44.5003947
+          ],
+          [
+            0.1650581,
+            44.5003477
+          ]
+        ]
+      },
+      "id": "way/155584598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157692544",
+        "highway": "residential",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue de la Libération",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1589948,
+            44.5013867
+          ],
+          [
+            0.1591687,
+            44.5013083
+          ],
+          [
+            0.1591959,
+            44.5012961
+          ],
+          [
+            0.1594175,
+            44.5011962
+          ],
+          [
+            0.1594611,
+            44.5011786
+          ]
+        ]
+      },
+      "id": "way/157692544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157692548",
+        "access": "destination",
+        "highway": "residential",
+        "maxspeed": "10",
+        "name": "Impasse Guillemot",
+        "noexit": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1597617,
+            44.5042849
+          ],
+          [
+            0.1593453,
+            44.5043849
+          ],
+          [
+            0.1590511,
+            44.5044555
+          ],
+          [
+            0.1588597,
+            44.5045074
+          ]
+        ]
+      },
+      "id": "way/157692548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157692552",
+        "highway": "residential",
+        "name": "Rue Émile Zola",
+        "noexit": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1597175,
+            44.5039084
+          ],
+          [
+            0.159282,
+            44.5040438
+          ],
+          [
+            0.1590988,
+            44.5041008
+          ]
+        ]
+      },
+      "id": "way/157692552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157692554",
+        "highway": "residential",
+        "name": "Rue du 20e de Ligne"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.158771,
+            44.5024007
+          ],
+          [
+            0.1591496,
+            44.5028574
+          ]
+        ]
+      },
+      "id": "way/157692554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157692555",
+        "highway": "residential",
+        "name": "Rue Ejea de Los Caballeros",
+        "old_name": "Rue du 20e de Ligne"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1558188,
+            44.5045952
+          ],
+          [
+            0.1562981,
+            44.504337
+          ],
+          [
+            0.1569746,
+            44.5039511
+          ],
+          [
+            0.1591496,
+            44.5028574
+          ],
+          [
+            0.1592945,
+            44.5027958
+          ],
+          [
+            0.1593961,
+            44.5027704
+          ],
+          [
+            0.1595232,
+            44.5027559
+          ]
+        ]
+      },
+      "id": "way/157692555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157692556",
+        "highway": "residential",
+        "name": "Rue du Commandant Mouchotte"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.153236,
+            44.5048765
+          ],
+          [
+            0.1533427,
+            44.5049164
+          ],
+          [
+            0.1535104,
+            44.5048947
+          ],
+          [
+            0.1535968,
+            44.5049128
+          ],
+          [
+            0.1536629,
+            44.5049599
+          ],
+          [
+            0.1539069,
+            44.5051991
+          ],
+          [
+            0.1545066,
+            44.5057936
+          ],
+          [
+            0.155208,
+            44.5054203
+          ],
+          [
+            0.1561385,
+            44.5049129
+          ]
+        ]
+      },
+      "id": "way/157692556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157696182",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Victor Schloelcher",
+        "oneway": "yes",
+        "source": "mise à jour : 2007;cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.162811,
+            44.4999345
+          ],
+          [
+            0.1629557,
+            44.5000172
+          ],
+          [
+            0.1637334,
+            44.5005548
+          ]
+        ]
+      },
+      "id": "way/157696182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157696183",
+        "covered": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Square de Verdun",
+        "oneway": "yes",
+        "source": "mise à jour : 2007;cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1627741,
+            44.4999607
+          ],
+          [
+            0.1626189,
+            44.4998834
+          ]
+        ]
+      },
+      "id": "way/157696183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157696184",
+        "covered": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Square de Verdun",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1626886,
+            44.4998299
+          ],
+          [
+            0.162811,
+            44.4999345
+          ]
+        ]
+      },
+      "id": "way/157696184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157696187",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Square de Verdun",
+        "oneway": "yes",
+        "source": "mise à jour : 2007;cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1626189,
+            44.4998834
+          ],
+          [
+            0.1625278,
+            44.4998235
+          ],
+          [
+            0.1622061,
+            44.4996118
+          ],
+          [
+            0.1621699,
+            44.4995946
+          ],
+          [
+            0.162143,
+            44.4995818
+          ],
+          [
+            0.1619535,
+            44.4994747
+          ]
+        ]
+      },
+      "id": "way/157696187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157700068",
+        "highway": "residential",
+        "name": "Rue du 20e de Ligne",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1581867,
+            44.5017209
+          ],
+          [
+            0.158771,
+            44.5024007
+          ]
+        ]
+      },
+      "id": "way/157700068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157700071",
+        "highway": "residential",
+        "name": "Rue du Stade",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1611383,
+            44.5043566
+          ],
+          [
+            0.1603605,
+            44.5050201
+          ],
+          [
+            0.1601816,
+            44.5051727
+          ],
+          [
+            0.1600477,
+            44.5052884
+          ],
+          [
+            0.1599133,
+            44.5053652
+          ]
+        ]
+      },
+      "id": "way/157700071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157700079",
+        "highway": "residential",
+        "name": "Rue du Port Saint-Louis",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1626614,
+            44.502761
+          ],
+          [
+            0.16215,
+            44.5032237
+          ]
+        ]
+      },
+      "id": "way/157700079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157703996",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue du Général Brun",
+        "ref": "D 933",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1629163,
+            44.4976935
+          ],
+          [
+            0.1633882,
+            44.4983423
+          ],
+          [
+            0.1634742,
+            44.4984605
+          ]
+        ]
+      },
+      "id": "way/157703996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157703999",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1617298,
+            44.4980965
+          ],
+          [
+            0.1611396,
+            44.4982801
+          ]
+        ]
+      },
+      "id": "way/157703999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157730010",
+        "highway": "residential",
+        "name": "Rue Jean-Sébastien Bach"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1539069,
+            44.5051991
+          ],
+          [
+            0.1547862,
+            44.5047787
+          ],
+          [
+            0.1555693,
+            44.5043568
+          ]
+        ]
+      },
+      "id": "way/157730010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157730014",
+        "highway": "residential",
+        "name": "Rue du 8 Mai"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1561385,
+            44.5049129
+          ],
+          [
+            0.1558188,
+            44.5045952
+          ],
+          [
+            0.1555693,
+            44.5043568
+          ]
+        ]
+      },
+      "id": "way/157730014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157730016",
+        "highway": "residential",
+        "name": "Rue du Commandant Mouchotte"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.155208,
+            44.5054203
+          ],
+          [
+            0.155076,
+            44.5052831
+          ]
+        ]
+      },
+      "id": "way/157730016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244089734",
+        "highway": "residential",
+        "name": "Rue Toulouse Lautrec"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1616245,
+            44.5071606
+          ],
+          [
+            0.1621533,
+            44.5074005
+          ],
+          [
+            0.1628399,
+            44.5084564
+          ]
+        ]
+      },
+      "id": "way/244089734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254217991",
+        "highway": "residential",
+        "name": "Impasse Richard Wagner",
+        "source": "Bing ; DGFiP - Cadastre 2013"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1673639,
+            44.5063533
+          ],
+          [
+            0.1668178,
+            44.506559
+          ]
+        ]
+      },
+      "id": "way/254217991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254318176",
+        "highway": "residential",
+        "name": "Rue Abel Boyé",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1656182,
+            44.4995266
+          ],
+          [
+            0.165914,
+            44.4991848
+          ]
+        ]
+      },
+      "id": "way/254318176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254325662",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Mercadé",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1637334,
+            44.5005548
+          ],
+          [
+            0.1636587,
+            44.5005941
+          ],
+          [
+            0.1633525,
+            44.5007559
+          ]
+        ]
+      },
+      "id": "way/254325662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254325663",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Mercadé",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1627051,
+            44.5012597
+          ],
+          [
+            0.1624517,
+            44.5015604
+          ],
+          [
+            0.1622958,
+            44.5019038
+          ],
+          [
+            0.1622319,
+            44.5020964
+          ]
+        ]
+      },
+      "id": "way/254325663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254325664",
+        "highway": "residential",
+        "name": "Place Alfred Neuville",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1633525,
+            44.5007559
+          ],
+          [
+            0.1631787,
+            44.5008206
+          ],
+          [
+            0.1630049,
+            44.5009134
+          ],
+          [
+            0.1627051,
+            44.5012597
+          ]
+        ]
+      },
+      "id": "way/254325664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254325771",
+        "highway": "residential",
+        "name": "Rue Fortassié",
+        "source": "Bing ; DGFiP - Cadastre 2013",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1637406,
+            44.4992498
+          ],
+          [
+            0.1641,
+            44.4989176
+          ]
+        ]
+      },
+      "id": "way/254325771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254327873",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue de la République",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1634742,
+            44.4984605
+          ],
+          [
+            0.163922,
+            44.4981701
+          ],
+          [
+            0.1639748,
+            44.4981128
+          ],
+          [
+            0.1641168,
+            44.4980533
+          ],
+          [
+            0.1644126,
+            44.4979295
+          ],
+          [
+            0.1647646,
+            44.4977903
+          ],
+          [
+            0.1648341,
+            44.497726
+          ]
+        ]
+      },
+      "id": "way/254327873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254333226",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Charles De Gaulle",
+        "oneway": "yes",
+        "ref": "D 933",
+        "source": "Bing ; DGFiP - Cadastre 2013",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1667724,
+            44.5001161
+          ],
+          [
+            0.1662265,
+            44.4998921
+          ],
+          [
+            0.1661248,
+            44.4998302
+          ]
+        ]
+      },
+      "id": "way/254333226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254341011",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Bayle de Seyches",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.16855,
+            44.4982319
+          ],
+          [
+            0.1687848,
+            44.498169
+          ]
+        ]
+      },
+      "id": "way/254341011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254347234",
+        "highway": "residential",
+        "source": "Bing ; DGFiP - Cadastre 2013"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1684567,
+            44.5044695
+          ],
+          [
+            0.1690484,
+            44.5052976
+          ]
+        ]
+      },
+      "id": "way/254347234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254347707",
+        "highway": "residential",
+        "name": "Rue Olivier Missiaen",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1679399,
+            44.5080617
+          ],
+          [
+            0.167623,
+            44.5081248
+          ],
+          [
+            0.1664874,
+            44.5085117
+          ]
+        ]
+      },
+      "id": "way/254347707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254348003",
+        "highway": "residential",
+        "name": "Impasse Frédéric Chopin",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1662985,
+            44.5080262
+          ],
+          [
+            0.1664874,
+            44.5085117
+          ],
+          [
+            0.16667,
+            44.5089568
+          ],
+          [
+            0.1662469,
+            44.509096
+          ]
+        ]
+      },
+      "id": "way/254348003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254348129",
+        "highway": "residential",
+        "name": "Impasse Joachim du Bellay",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1637584,
+            44.5088836
+          ],
+          [
+            0.1638692,
+            44.5091081
+          ],
+          [
+            0.1639796,
+            44.5092431
+          ],
+          [
+            0.1639527,
+            44.5093277
+          ],
+          [
+            0.163942,
+            44.5095511
+          ],
+          [
+            0.1635876,
+            44.5096466
+          ],
+          [
+            0.1634592,
+            44.5098119
+          ],
+          [
+            0.1631607,
+            44.5099837
+          ],
+          [
+            0.1628254,
+            44.5100745
+          ]
+        ]
+      },
+      "id": "way/254348129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254360524",
+        "highway": "residential",
+        "name": "Impasse Jean Bouin",
+        "source": "Bing ; DGFiP - Cadastre 2013"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1558436,
+            44.5069082
+          ],
+          [
+            0.1563241,
+            44.5074288
+          ],
+          [
+            0.1564318,
+            44.5075454
+          ],
+          [
+            0.156772,
+            44.5074105
+          ],
+          [
+            0.1566815,
+            44.507288
+          ],
+          [
+            0.1563241,
+            44.5074288
+          ]
+        ]
+      },
+      "id": "way/254360524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539860",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "importance": "national",
+        "maxspeed": "160",
+        "name": "Chemin de fer de Bordeaux à Sète",
+        "operator": "SNCF",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+        "usage": "main",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1773958,
+            44.4976126
+          ],
+          [
+            0.1764621,
+            44.4981914
+          ],
+          [
+            0.1755189,
+            44.4987748
+          ],
+          [
+            0.1743988,
+            44.4994511
+          ],
+          [
+            0.1732724,
+            44.5001307
+          ],
+          [
+            0.1730731,
+            44.5002477
+          ],
+          [
+            0.1721009,
+            44.5008414
+          ],
+          [
+            0.171553,
+            44.5011726
+          ],
+          [
+            0.1707916,
+            44.5016279
+          ],
+          [
+            0.1700923,
+            44.5020448
+          ],
+          [
+            0.1694508,
+            44.5024199
+          ],
+          [
+            0.1689848,
+            44.5026938
+          ],
+          [
+            0.16853,
+            44.5029665
+          ],
+          [
+            0.1684995,
+            44.5029851
+          ],
+          [
+            0.1679219,
+            44.5033357
+          ],
+          [
+            0.1678937,
+            44.5033528
+          ],
+          [
+            0.1668942,
+            44.5039682
+          ],
+          [
+            0.1663253,
+            44.5043189
+          ],
+          [
+            0.1658947,
+            44.5045837
+          ],
+          [
+            0.1652182,
+            44.5049939
+          ],
+          [
+            0.1646895,
+            44.5053114
+          ],
+          [
+            0.1643183,
+            44.5055142
+          ],
+          [
+            0.1638555,
+            44.5057457
+          ],
+          [
+            0.1635421,
+            44.5059005
+          ],
+          [
+            0.1629267,
+            44.5061881
+          ],
+          [
+            0.162361,
+            44.5064414
+          ],
+          [
+            0.1617729,
+            44.5066924
+          ],
+          [
+            0.161278,
+            44.5068837
+          ],
+          [
+            0.1608339,
+            44.5070585
+          ],
+          [
+            0.1605045,
+            44.5071822
+          ],
+          [
+            0.1601799,
+            44.5073026
+          ],
+          [
+            0.1600794,
+            44.5073376
+          ],
+          [
+            0.1595789,
+            44.5075203
+          ],
+          [
+            0.1590389,
+            44.5077151
+          ],
+          [
+            0.1586211,
+            44.5078687
+          ],
+          [
+            0.1580571,
+            44.5080727
+          ]
+        ]
+      },
+      "id": "way/329539860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539865",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1667522,
+            44.5037633
+          ],
+          [
+            0.1662886,
+            44.5040502
+          ],
+          [
+            0.1660136,
+            44.5042134
+          ],
+          [
+            0.1657624,
+            44.5043714
+          ],
+          [
+            0.1655636,
+            44.5045286
+          ],
+          [
+            0.1653295,
+            44.5047328
+          ],
+          [
+            0.1650773,
+            44.5049322
+          ],
+          [
+            0.1648671,
+            44.5050845
+          ],
+          [
+            0.1647103,
+            44.5052012
+          ],
+          [
+            0.164466,
+            44.5053601
+          ]
+        ]
+      },
+      "id": "way/329539865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539866",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "railway": "rail",
+        "service": "yard",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1696694,
+            44.5027775
+          ],
+          [
+            0.1695005,
+            44.5029473
+          ],
+          [
+            0.169369,
+            44.5030567
+          ],
+          [
+            0.1691633,
+            44.5032091
+          ],
+          [
+            0.1686603,
+            44.503514
+          ],
+          [
+            0.1680609,
+            44.5038819
+          ],
+          [
+            0.1674503,
+            44.5042532
+          ],
+          [
+            0.1668059,
+            44.5046474
+          ],
+          [
+            0.1666276,
+            44.5047471
+          ],
+          [
+            0.166462,
+            44.5048239
+          ],
+          [
+            0.1662323,
+            44.5049271
+          ]
+        ]
+      },
+      "id": "way/329539866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539867",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1661011,
+            44.5038265
+          ],
+          [
+            0.1659,
+            44.5039546
+          ],
+          [
+            0.1657011,
+            44.5040753
+          ],
+          [
+            0.1655579,
+            44.5041726
+          ],
+          [
+            0.1654239,
+            44.5042747
+          ],
+          [
+            0.165258,
+            44.5044262
+          ],
+          [
+            0.1650898,
+            44.5046069
+          ],
+          [
+            0.1649853,
+            44.5047407
+          ],
+          [
+            0.1648955,
+            44.5048776
+          ],
+          [
+            0.1648239,
+            44.5049773
+          ],
+          [
+            0.1647307,
+            44.505094
+          ]
+        ]
+      },
+      "id": "way/329539867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539869",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1661249,
+            44.5038768
+          ],
+          [
+            0.1659181,
+            44.5040016
+          ],
+          [
+            0.1657307,
+            44.5041142
+          ],
+          [
+            0.1655761,
+            44.5042147
+          ],
+          [
+            0.1654409,
+            44.5043257
+          ],
+          [
+            0.1653364,
+            44.5044206
+          ],
+          [
+            0.1651671,
+            44.5046053
+          ],
+          [
+            0.1649841,
+            44.5048322
+          ],
+          [
+            0.1648807,
+            44.5049433
+          ],
+          [
+            0.1647307,
+            44.505094
+          ],
+          [
+            0.1645478,
+            44.5052717
+          ]
+        ]
+      },
+      "id": "way/329539869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539870",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1663,
+            44.5049301
+          ],
+          [
+            0.1665116,
+            44.5048539
+          ],
+          [
+            0.166682,
+            44.504792
+          ],
+          [
+            0.1669102,
+            44.5046786
+          ],
+          [
+            0.1672364,
+            44.504486
+          ],
+          [
+            0.1678245,
+            44.5041262
+          ],
+          [
+            0.1684335,
+            44.5037571
+          ],
+          [
+            0.1688385,
+            44.5035142
+          ],
+          [
+            0.1690394,
+            44.5033904
+          ],
+          [
+            0.1692242,
+            44.5032598
+          ],
+          [
+            0.1694138,
+            44.5030982
+          ],
+          [
+            0.1696019,
+            44.5028966
+          ]
+        ]
+      },
+      "id": "way/329539870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539871",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.166142,
+            44.5039165
+          ],
+          [
+            0.1660352,
+            44.5039838
+          ],
+          [
+            0.1658079,
+            44.5041199
+          ],
+          [
+            0.1656,
+            44.5042682
+          ],
+          [
+            0.1654443,
+            44.5044133
+          ],
+          [
+            0.1653455,
+            44.504521
+          ],
+          [
+            0.1651296,
+            44.5047698
+          ],
+          [
+            0.1650171,
+            44.5048876
+          ],
+          [
+            0.1648262,
+            44.5050489
+          ],
+          [
+            0.1645478,
+            44.5052717
+          ],
+          [
+            0.164429,
+            44.5053593
+          ],
+          [
+            0.1641024,
+            44.5055546
+          ]
+        ]
+      },
+      "id": "way/329539871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539872",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1690458,
+            44.5034351
+          ],
+          [
+            0.1687839,
+            44.5035967
+          ],
+          [
+            0.1681684,
+            44.5039703
+          ],
+          [
+            0.1675562,
+            44.5043462
+          ],
+          [
+            0.1671239,
+            44.5046029
+          ],
+          [
+            0.1669102,
+            44.5047187
+          ],
+          [
+            0.1666563,
+            44.5048356
+          ],
+          [
+            0.1664875,
+            44.5048975
+          ],
+          [
+            0.1662176,
+            44.5049972
+          ],
+          [
+            0.1658528,
+            44.5051221
+          ],
+          [
+            0.1655491,
+            44.5052172
+          ],
+          [
+            0.1652716,
+            44.5053106
+          ]
+        ]
+      },
+      "id": "way/329539872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539873",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "railway": "rail",
+        "service": "yard",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1696373,
+            44.5027392
+          ],
+          [
+            0.1694333,
+            44.5029352
+          ],
+          [
+            0.169324,
+            44.5030303
+          ],
+          [
+            0.1691199,
+            44.5031759
+          ],
+          [
+            0.1686234,
+            44.503483
+          ],
+          [
+            0.1680192,
+            44.5038486
+          ],
+          [
+            0.1674133,
+            44.5042154
+          ],
+          [
+            0.1667641,
+            44.5046165
+          ],
+          [
+            0.166589,
+            44.5047208
+          ],
+          [
+            0.1663978,
+            44.5048342
+          ],
+          [
+            0.1662323,
+            44.5049271
+          ],
+          [
+            0.1661214,
+            44.5049786
+          ],
+          [
+            0.1658662,
+            44.5050837
+          ]
+        ]
+      },
+      "id": "way/329539873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539876",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "railway": "rail",
+        "service": "yard",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1698511,
+            44.5025375
+          ],
+          [
+            0.1696373,
+            44.5027392
+          ],
+          [
+            0.1694461,
+            44.5028951
+          ],
+          [
+            0.1692951,
+            44.503004
+          ],
+          [
+            0.1688885,
+            44.503263
+          ],
+          [
+            0.1682891,
+            44.5036251
+          ],
+          [
+            0.1676817,
+            44.5039953
+          ],
+          [
+            0.167063,
+            44.5043724
+          ],
+          [
+            0.1666709,
+            44.5046165
+          ],
+          [
+            0.1663206,
+            44.5048182
+          ],
+          [
+            0.166025,
+            44.5049729
+          ],
+          [
+            0.1658835,
+            44.5050405
+          ],
+          [
+            0.165718,
+            44.5051081
+          ],
+          [
+            0.1655638,
+            44.5051643
+          ],
+          [
+            0.1652826,
+            44.5052812
+          ]
+        ]
+      },
+      "id": "way/329539876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539879",
+        "railway": "rail",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.166298,
+            44.5054054
+          ],
+          [
+            0.1663687,
+            44.5053309
+          ],
+          [
+            0.1665037,
+            44.5051956
+          ],
+          [
+            0.1666451,
+            44.5050673
+          ],
+          [
+            0.1667785,
+            44.5049481
+          ],
+          [
+            0.1669135,
+            44.5048427
+          ],
+          [
+            0.167034,
+            44.5047601
+          ],
+          [
+            0.1672172,
+            44.5046627
+          ],
+          [
+            0.1673907,
+            44.5045733
+          ],
+          [
+            0.1676028,
+            44.5044461
+          ],
+          [
+            0.168109,
+            44.5041321
+          ],
+          [
+            0.1685156,
+            44.5038697
+          ],
+          [
+            0.1687984,
+            44.5036817
+          ],
+          [
+            0.1689414,
+            44.5035694
+          ],
+          [
+            0.1691487,
+            44.5034066
+          ]
+        ]
+      },
+      "id": "way/329539879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539882",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "railway": "rail",
+        "service": "yard",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1700166,
+            44.5023415
+          ],
+          [
+            0.1697948,
+            44.5025226
+          ],
+          [
+            0.169557,
+            44.5027037
+          ],
+          [
+            0.1692051,
+            44.5029489
+          ],
+          [
+            0.1688082,
+            44.5031965
+          ],
+          [
+            0.1682248,
+            44.5035598
+          ],
+          [
+            0.1676239,
+            44.5039231
+          ],
+          [
+            0.1670084,
+            44.5043013
+          ],
+          [
+            0.1667047,
+            44.5044858
+          ],
+          [
+            0.1662451,
+            44.5047563
+          ],
+          [
+            0.165853,
+            44.5049603
+          ],
+          [
+            0.1653709,
+            44.5051987
+          ],
+          [
+            0.1648374,
+            44.5054519
+          ],
+          [
+            0.1646671,
+            44.5055287
+          ],
+          [
+            0.1644392,
+            44.5056223
+          ]
+        ]
+      },
+      "id": "way/329539882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539885",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "railway": "rail",
+        "service": "yard",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1700987,
+            44.5022958
+          ],
+          [
+            0.1698511,
+            44.5025375
+          ],
+          [
+            0.1695409,
+            44.5027713
+          ],
+          [
+            0.1692581,
+            44.502973
+          ],
+          [
+            0.1688564,
+            44.5032252
+          ],
+          [
+            0.168257,
+            44.503593
+          ],
+          [
+            0.1676528,
+            44.5039609
+          ],
+          [
+            0.1670373,
+            44.504338
+          ],
+          [
+            0.1665247,
+            44.5046474
+          ],
+          [
+            0.1662837,
+            44.5047849
+          ],
+          [
+            0.1660121,
+            44.5049271
+          ],
+          [
+            0.165755,
+            44.5050531
+          ],
+          [
+            0.1655365,
+            44.5051608
+          ],
+          [
+            0.1652826,
+            44.5052812
+          ],
+          [
+            0.1650305,
+            44.5054046
+          ]
+        ]
+      },
+      "id": "way/329539885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539888",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "railway": "rail",
+        "service": "yard",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1702401,
+            44.5021468
+          ],
+          [
+            0.1700166,
+            44.5023415
+          ],
+          [
+            0.1697386,
+            44.5025386
+          ],
+          [
+            0.1693304,
+            44.5028114
+          ],
+          [
+            0.168964,
+            44.5030464
+          ],
+          [
+            0.1684675,
+            44.5033558
+          ],
+          [
+            0.1678569,
+            44.5037237
+          ],
+          [
+            0.1672543,
+            44.5040881
+          ],
+          [
+            0.1666501,
+            44.504456
+          ],
+          [
+            0.1661969,
+            44.5047265
+          ],
+          [
+            0.16598,
+            44.5048445
+          ],
+          [
+            0.1656763,
+            44.5050015
+          ],
+          [
+            0.1653372,
+            44.5051712
+          ],
+          [
+            0.1648069,
+            44.5054199
+          ],
+          [
+            0.1643859,
+            44.5056181
+          ],
+          [
+            0.1640937,
+            44.505761
+          ]
+        ]
+      },
+      "id": "way/329539888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539891",
+        "railway": "rail",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1662273,
+            44.5051865
+          ],
+          [
+            0.1664764,
+            44.5050363
+          ],
+          [
+            0.1666628,
+            44.5049275
+          ],
+          [
+            0.1668845,
+            44.5048094
+          ],
+          [
+            0.167087,
+            44.5046902
+          ],
+          [
+            0.1673939,
+            44.5045034
+          ],
+          [
+            0.1674839,
+            44.5044438
+          ],
+          [
+            0.167733,
+            44.5042948
+          ],
+          [
+            0.1681042,
+            44.5040633
+          ],
+          [
+            0.1684304,
+            44.5038616
+          ],
+          [
+            0.1687438,
+            44.5036702
+          ],
+          [
+            0.1689478,
+            44.5035465
+          ],
+          [
+            0.1691487,
+            44.5034066
+          ],
+          [
+            0.1692339,
+            44.5033344
+          ],
+          [
+            0.1693351,
+            44.503237
+          ],
+          [
+            0.1694139,
+            44.5031522
+          ],
+          [
+            0.1694894,
+            44.5030502
+          ],
+          [
+            0.1696019,
+            44.5028966
+          ],
+          [
+            0.1696717,
+            44.5028065
+          ],
+          [
+            0.1698067,
+            44.5026345
+          ]
+        ]
+      },
+      "id": "way/329539891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539892",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "importance": "regional",
+        "railway": "rail",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1703093,
+            44.5019598
+          ],
+          [
+            0.1701003,
+            44.5020999
+          ],
+          [
+            0.1700233,
+            44.5021555
+          ],
+          [
+            0.1699012,
+            44.5022518
+          ],
+          [
+            0.1697806,
+            44.5023469
+          ],
+          [
+            0.1695685,
+            44.5024878
+          ],
+          [
+            0.1693677,
+            44.5026162
+          ],
+          [
+            0.1691957,
+            44.5027148
+          ],
+          [
+            0.1689081,
+            44.5028832
+          ],
+          [
+            0.1685983,
+            44.5030682
+          ],
+          [
+            0.1680173,
+            44.5034151
+          ],
+          [
+            0.1680002,
+            44.5034253
+          ],
+          [
+            0.166991,
+            44.5040477
+          ],
+          [
+            0.1661891,
+            44.5045416
+          ],
+          [
+            0.1659465,
+            44.5046917
+          ],
+          [
+            0.1657746,
+            44.5047949
+          ],
+          [
+            0.1655801,
+            44.5049084
+          ],
+          [
+            0.1654339,
+            44.5049932
+          ],
+          [
+            0.1652105,
+            44.505102
+          ],
+          [
+            0.1649968,
+            44.5052052
+          ],
+          [
+            0.164519,
+            44.505447
+          ]
+        ]
+      },
+      "id": "way/329539892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539893",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1674805,
+            44.5035035
+          ],
+          [
+            0.167335,
+            44.5035959
+          ],
+          [
+            0.1667294,
+            44.5039686
+          ],
+          [
+            0.1661397,
+            44.5043244
+          ],
+          [
+            0.1658386,
+            44.5045156
+          ],
+          [
+            0.1656397,
+            44.504651
+          ],
+          [
+            0.1654261,
+            44.5048058
+          ],
+          [
+            0.1651614,
+            44.504967
+          ],
+          [
+            0.1649352,
+            44.5050951
+          ],
+          [
+            0.1647205,
+            44.5052191
+          ],
+          [
+            0.164466,
+            44.5053601
+          ],
+          [
+            0.1644182,
+            44.5053852
+          ],
+          [
+            0.1641024,
+            44.5055546
+          ],
+          [
+            0.1635013,
+            44.5058544
+          ],
+          [
+            0.1628911,
+            44.5061542
+          ],
+          [
+            0.1623366,
+            44.5064095
+          ],
+          [
+            0.1617991,
+            44.5066356
+          ],
+          [
+            0.1614855,
+            44.5067555
+          ],
+          [
+            0.161248,
+            44.506843
+          ],
+          [
+            0.1608924,
+            44.5069784
+          ],
+          [
+            0.1607504,
+            44.507044
+          ],
+          [
+            0.1605992,
+            44.5071177
+          ],
+          [
+            0.1604322,
+            44.5071955
+          ],
+          [
+            0.1601799,
+            44.5073026
+          ]
+        ]
+      },
+      "id": "way/329539893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539894",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "railway": "rail",
+        "service": "yard",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1601861,
+            44.5073402
+          ],
+          [
+            0.1604502,
+            44.5072444
+          ],
+          [
+            0.160609,
+            44.5071942
+          ],
+          [
+            0.1607503,
+            44.5071513
+          ],
+          [
+            0.1609689,
+            44.5070848
+          ],
+          [
+            0.1611826,
+            44.5070149
+          ],
+          [
+            0.1613835,
+            44.5069393
+          ],
+          [
+            0.1617065,
+            44.5068052
+          ],
+          [
+            0.1619732,
+            44.5066952
+          ],
+          [
+            0.1624071,
+            44.5065015
+          ],
+          [
+            0.1629695,
+            44.5062414
+          ],
+          [
+            0.1637248,
+            44.5058827
+          ],
+          [
+            0.1642213,
+            44.5056477
+          ],
+          [
+            0.1647725,
+            44.5053864
+          ],
+          [
+            0.1652963,
+            44.5051354
+          ],
+          [
+            0.1656225,
+            44.5049773
+          ],
+          [
+            0.1660179,
+            44.5047504
+          ],
+          [
+            0.1670672,
+            44.5041155
+          ],
+          [
+            0.1675718,
+            44.5038026
+          ],
+          [
+            0.1680828,
+            44.5034897
+          ],
+          [
+            0.1687046,
+            44.5031149
+          ],
+          [
+            0.1691433,
+            44.5028502
+          ],
+          [
+            0.1694599,
+            44.5026485
+          ],
+          [
+            0.1696768,
+            44.5024937
+          ],
+          [
+            0.1699388,
+            44.502292
+          ],
+          [
+            0.1701461,
+            44.5021327
+          ],
+          [
+            0.1703084,
+            44.5020284
+          ],
+          [
+            0.1704626,
+            44.5019276
+          ],
+          [
+            0.1707174,
+            44.501764
+          ]
+        ]
+      },
+      "id": "way/329539894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539895",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1604902,
+            44.5072845
+          ],
+          [
+            0.160802,
+            44.5071618
+          ],
+          [
+            0.1611826,
+            44.5070149
+          ]
+        ]
+      },
+      "id": "way/329539895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539896",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1658592,
+            44.5052046
+          ],
+          [
+            0.166081,
+            44.505082
+          ],
+          [
+            0.1662513,
+            44.5050006
+          ],
+          [
+            0.1664875,
+            44.5048975
+          ]
+        ]
+      },
+      "id": "way/329539896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539898",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "railway": "rail",
+        "service": "yard",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1613835,
+            44.5069393
+          ],
+          [
+            0.1616743,
+            44.5068373
+          ],
+          [
+            0.161872,
+            44.5067731
+          ],
+          [
+            0.1621194,
+            44.5066768
+          ],
+          [
+            0.162436,
+            44.506537
+          ],
+          [
+            0.1626426,
+            44.506444
+          ],
+          [
+            0.1631006,
+            44.5062263
+          ],
+          [
+            0.163504,
+            44.5060383
+          ],
+          [
+            0.1637836,
+            44.5059054
+          ],
+          [
+            0.1640937,
+            44.505761
+          ],
+          [
+            0.1642753,
+            44.5056831
+          ],
+          [
+            0.1644392,
+            44.5056223
+          ],
+          [
+            0.164759,
+            44.5055112
+          ],
+          [
+            0.1650305,
+            44.5054046
+          ],
+          [
+            0.1652716,
+            44.5053106
+          ],
+          [
+            0.1655865,
+            44.505188
+          ],
+          [
+            0.1658662,
+            44.5050837
+          ],
+          [
+            0.1661088,
+            44.5049977
+          ],
+          [
+            0.1663,
+            44.5049301
+          ],
+          [
+            0.1665539,
+            44.504819
+          ],
+          [
+            0.166676,
+            44.5047639
+          ],
+          [
+            0.1668624,
+            44.5046642
+          ],
+          [
+            0.1671212,
+            44.5045072
+          ],
+          [
+            0.1675968,
+            44.5042138
+          ],
+          [
+            0.1681625,
+            44.5038712
+          ],
+          [
+            0.1688358,
+            44.5034597
+          ],
+          [
+            0.1691507,
+            44.5032683
+          ],
+          [
+            0.1693259,
+            44.5031434
+          ],
+          [
+            0.1694368,
+            44.5030334
+          ],
+          [
+            0.1695717,
+            44.5028869
+          ],
+          [
+            0.1696694,
+            44.5027775
+          ],
+          [
+            0.1698067,
+            44.5026345
+          ],
+          [
+            0.1699256,
+            44.5024867
+          ],
+          [
+            0.1700987,
+            44.5022958
+          ],
+          [
+            0.1702401,
+            44.5021468
+          ],
+          [
+            0.1703445,
+            44.5020482
+          ],
+          [
+            0.1705309,
+            44.50189
+          ],
+          [
+            0.1707174,
+            44.501764
+          ],
+          [
+            0.1708878,
+            44.5016584
+          ],
+          [
+            0.1709857,
+            44.5015955
+          ],
+          [
+            0.17131,
+            44.5013818
+          ],
+          [
+            0.1715349,
+            44.5012277
+          ],
+          [
+            0.1717813,
+            44.5010726
+          ]
+        ]
+      },
+      "id": "way/329539898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539899",
+        "railway": "rail",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1673939,
+            44.5045034
+          ],
+          [
+            0.1671544,
+            44.5046339
+          ],
+          [
+            0.1670082,
+            44.5047004
+          ],
+          [
+            0.1668411,
+            44.5047668
+          ],
+          [
+            0.1666563,
+            44.5048356
+          ]
+        ]
+      },
+      "id": "way/329539899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539900",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "railway": "rail",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1598833,
+            44.5074503
+          ],
+          [
+            0.159644,
+            44.5075255
+          ],
+          [
+            0.1594873,
+            44.5075719
+          ],
+          [
+            0.1592768,
+            44.5076361
+          ],
+          [
+            0.1590389,
+            44.5077151
+          ]
+        ]
+      },
+      "id": "way/329539900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539901",
+        "railway": "rail",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1602379,
+            44.5074277
+          ],
+          [
+            0.1606461,
+            44.5072799
+          ],
+          [
+            0.161096,
+            44.5071103
+          ],
+          [
+            0.1613387,
+            44.507014
+          ],
+          [
+            0.1617565,
+            44.5068329
+          ],
+          [
+            0.1621194,
+            44.5066768
+          ]
+        ]
+      },
+      "id": "way/329539901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329539903",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1587659,
+            44.5090569
+          ],
+          [
+            0.1589398,
+            44.5090175
+          ],
+          [
+            0.1590551,
+            44.5089862
+          ],
+          [
+            0.1594256,
+            44.5088993
+          ],
+          [
+            0.159515,
+            44.5088807
+          ],
+          [
+            0.1595734,
+            44.5088784
+          ],
+          [
+            0.1596433,
+            44.5089062
+          ],
+          [
+            0.1598513,
+            44.5090105
+          ],
+          [
+            0.1599163,
+            44.5090464
+          ],
+          [
+            0.1599775,
+            44.5090634
+          ]
+        ]
+      },
+      "id": "way/329539903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330146990",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Boulevard Richard Coeur de Lion",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1626271,
+            44.4976465
+          ],
+          [
+            0.1623006,
+            44.4977918
+          ],
+          [
+            0.161913,
+            44.4979306
+          ],
+          [
+            0.1615774,
+            44.4980206
+          ],
+          [
+            0.1612045,
+            44.4981057
+          ],
+          [
+            0.1610889,
+            44.4981267
+          ],
+          [
+            0.1598154,
+            44.4983545
+          ],
+          [
+            0.1586156,
+            44.4986496
+          ],
+          [
+            0.1582438,
+            44.4987633
+          ],
+          [
+            0.1579473,
+            44.4988645
+          ]
+        ]
+      },
+      "id": "way/330146990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330146993",
+        "highway": "residential",
+        "name": "Boulevard Richard Coeur de Lion",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1579473,
+            44.4988645
+          ],
+          [
+            0.1578109,
+            44.498941
+          ],
+          [
+            0.1576885,
+            44.4990407
+          ],
+          [
+            0.1576232,
+            44.4991439
+          ],
+          [
+            0.1575915,
+            44.4992567
+          ],
+          [
+            0.1576051,
+            44.4993049
+          ],
+          [
+            0.1576139,
+            44.4993363
+          ],
+          [
+            0.1577013,
+            44.4994122
+          ],
+          [
+            0.1577796,
+            44.4994802
+          ]
+        ]
+      },
+      "id": "way/330146993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330146998",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Charles De Gaulle",
+        "oneway": "yes",
+        "ref": "D 933",
+        "source": "Bing ; DGFiP - Cadastre 2013",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.168682,
+            44.5009487
+          ],
+          [
+            0.1683568,
+            44.5007987
+          ],
+          [
+            0.1683051,
+            44.5007755
+          ],
+          [
+            0.1678846,
+            44.5005542
+          ],
+          [
+            0.1675483,
+            44.5004063
+          ],
+          [
+            0.1674557,
+            44.5003685
+          ],
+          [
+            0.1674097,
+            44.5003501
+          ],
+          [
+            0.1667724,
+            44.5001161
+          ]
+        ]
+      },
+      "id": "way/330146998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404097626",
+        "highway": "residential",
+        "name": "Rue Lozes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1656695,
+            44.4982009
+          ],
+          [
+            0.1655768,
+            44.4984388
+          ]
+        ]
+      },
+      "id": "way/404097626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/454960413",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "importance": "national",
+        "maxspeed": "160",
+        "name": "Chemin de fer de Bordeaux à Sète",
+        "operator": "SNCF",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0898745,
+            44.5362812
+          ],
+          [
+            0.0918391,
+            44.5338773
+          ],
+          [
+            0.0931553,
+            44.5327131
+          ],
+          [
+            0.0944408,
+            44.5317412
+          ],
+          [
+            0.0949504,
+            44.5314332
+          ],
+          [
+            0.095445,
+            44.5311379
+          ],
+          [
+            0.095935,
+            44.5308696
+          ],
+          [
+            0.0964765,
+            44.5306081
+          ],
+          [
+            0.0976267,
+            44.5300816
+          ],
+          [
+            0.0988211,
+            44.5296163
+          ],
+          [
+            0.1100389,
+            44.5255512
+          ],
+          [
+            0.1219232,
+            44.5212596
+          ],
+          [
+            0.1236359,
+            44.520641
+          ],
+          [
+            0.1238373,
+            44.5205683
+          ],
+          [
+            0.1281135,
+            44.5189577
+          ],
+          [
+            0.1344303,
+            44.5166583
+          ],
+          [
+            0.1362802,
+            44.5159858
+          ],
+          [
+            0.1436838,
+            44.5133112
+          ],
+          [
+            0.1477797,
+            44.5118239
+          ],
+          [
+            0.1519177,
+            44.5103229
+          ],
+          [
+            0.1541956,
+            44.5095165
+          ],
+          [
+            0.154269,
+            44.5094852
+          ],
+          [
+            0.1552903,
+            44.5091297
+          ],
+          [
+            0.1562767,
+            44.5087736
+          ],
+          [
+            0.1575774,
+            44.5082898
+          ],
+          [
+            0.158072,
+            44.5081172
+          ]
+        ]
+      },
+      "id": "way/454960413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/454960415",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "importance": "national",
+        "name": "Chemin de fer de Bordeaux à Sète",
+        "operator": "SNCF",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.158072,
+            44.5081172
+          ],
+          [
+            0.1588812,
+            44.5078212
+          ],
+          [
+            0.1598833,
+            44.5074503
+          ],
+          [
+            0.160079,
+            44.5073799
+          ],
+          [
+            0.1601861,
+            44.5073402
+          ],
+          [
+            0.1608355,
+            44.5070966
+          ],
+          [
+            0.1612859,
+            44.5069185
+          ],
+          [
+            0.1617765,
+            44.5067229
+          ],
+          [
+            0.1623609,
+            44.5064794
+          ],
+          [
+            0.1629292,
+            44.5062168
+          ],
+          [
+            0.1635519,
+            44.5059334
+          ],
+          [
+            0.1641588,
+            44.5056309
+          ],
+          [
+            0.164519,
+            44.505447
+          ],
+          [
+            0.1652385,
+            44.5050468
+          ],
+          [
+            0.1658111,
+            44.5047166
+          ],
+          [
+            0.1669392,
+            44.5040336
+          ],
+          [
+            0.1679467,
+            44.5034124
+          ],
+          [
+            0.1679683,
+            44.5033992
+          ],
+          [
+            0.1682431,
+            44.5032318
+          ]
+        ]
+      },
+      "id": "way/454960415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/459572238",
+        "highway": "residential",
+        "name": "Rue du 8 Mai",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1555693,
+            44.5043568
+          ],
+          [
+            0.1544753,
+            44.5033894
+          ]
+        ]
+      },
+      "id": "way/459572238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474762228",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue de la Libération",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1594611,
+            44.5011786
+          ],
+          [
+            0.1596219,
+            44.5010794
+          ],
+          [
+            0.1601418,
+            44.5007659
+          ],
+          [
+            0.1603142,
+            44.5006293
+          ],
+          [
+            0.1603563,
+            44.5005998
+          ],
+          [
+            0.1605173,
+            44.5004868
+          ],
+          [
+            0.1605484,
+            44.500465
+          ],
+          [
+            0.1615416,
+            44.4997929
+          ]
+        ]
+      },
+      "id": "way/474762228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474764978",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue de la Cale",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007",
+        "surface": "asphalt",
+        "turn:lanes": "left|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.158654,
+            44.5007817
+          ],
+          [
+            0.1586779,
+            44.500818
+          ],
+          [
+            0.1587064,
+            44.5009128
+          ],
+          [
+            0.1586768,
+            44.5009717
+          ],
+          [
+            0.1586696,
+            44.5009859
+          ],
+          [
+            0.1585806,
+            44.5010845
+          ]
+        ]
+      },
+      "id": "way/474764978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474764981",
+        "highway": "residential",
+        "lanes": "3",
+        "lanes:forward": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue de la Cale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1584394,
+            44.5004379
+          ],
+          [
+            0.158654,
+            44.5007817
+          ]
+        ]
+      },
+      "id": "way/474764981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474777095",
+        "highway": "residential",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1640919,
+            44.5041445
+          ],
+          [
+            0.16403,
+            44.5041227
+          ],
+          [
+            0.1639934,
+            44.5040132
+          ],
+          [
+            0.1640096,
+            44.5039238
+          ],
+          [
+            0.1640421,
+            44.5038512
+          ]
+        ]
+      },
+      "id": "way/474777095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474777096",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Place du 14 Juillet",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1629279,
+            44.5037464
+          ],
+          [
+            0.1629987,
+            44.5037034
+          ],
+          [
+            0.1633172,
+            44.5034973
+          ]
+        ]
+      },
+      "id": "way/474777096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474777097",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Place du 14 Juillet",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1633172,
+            44.5034973
+          ],
+          [
+            0.1634139,
+            44.5036185
+          ],
+          [
+            0.1634429,
+            44.5036554
+          ]
+        ]
+      },
+      "id": "way/474777097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474791742",
+        "highway": "residential",
+        "name": "Allées Gambetta",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1688241,
+            44.5016246
+          ],
+          [
+            0.1687731,
+            44.5016811
+          ],
+          [
+            0.1684058,
+            44.5019378
+          ],
+          [
+            0.1679985,
+            44.5022225
+          ],
+          [
+            0.1679678,
+            44.5022439
+          ],
+          [
+            0.1678909,
+            44.5022977
+          ]
+        ]
+      },
+      "id": "way/474791742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474804265",
+        "highway": "residential",
+        "name": "Rue Labat",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2007",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1668096,
+            44.4971932
+          ],
+          [
+            0.1672607,
+            44.4976753
+          ],
+          [
+            0.1673409,
+            44.4977526
+          ],
+          [
+            0.1679596,
+            44.4983985
+          ]
+        ]
+      },
+      "id": "way/474804265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/493618178",
+        "highway": "residential",
+        "maxheight": "2.8",
+        "name": "Rue des 9 Fontaines",
+        "oneway": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1655978,
+            44.499909
+          ],
+          [
+            0.1659089,
+            44.4996742
+          ]
+        ]
+      },
+      "id": "way/493618178"
+    }
+  ]
+}
