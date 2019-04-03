@@ -161,7 +161,7 @@ Je vous demande donc pour la semaine prochaine de revoir ce que nous avons fait 
 
 
 #### À faire pour le lundi 8 avril prochain
-Pour ces deux derniers cours de l'année l'objectif sera de produire des graphismes générés qui seront imprimés sur le plotter [Axidraw](https://www.axidraw.com/) que j'amènerai pour la dernière séance le 15 avril. Comme l'impression prend un certain temps (fonction de la complexité du motif produit auquel il faut rajouter le temps de préparation du plotter), je vous demanderai **de former des groupes de 2 personnes** ( soit 15 groupes en tout ) pour travailler lors de ces deux derniers cours. 
+Pour ces deux derniers cours de l'année l'objectif sera de produire des graphismes générés qui seront imprimés sur le plotter [Axidraw](https://www.axidraw.com/) que j'amènerai pour la dernière séance le 15 avril. Comme l'impression prend un certain temps (fonction de la complexité du motif produit auquel il faut rajouter le temps de préparation du plotter), je vous demanderai **de former des groupes de 2 personnes** ( soit 15 groupes en tout ) pour travailler lors de ces deux derniers cours, et de réflechir à ce que vous voulez imprimer. Nous consacrerons le cours #11 à la production du fichier à imprimer.
 
 Les contraintes seront : 
 * Processing / une seule couleur possible pour le motif, avec contour et pas de remplissage. Il sera bien entendu possible de reprendre vos travaux / exercices des cours précédents. 
