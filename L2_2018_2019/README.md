@@ -155,9 +155,9 @@ Je vous demande donc pour la semaine prochaine de revoir ce que nous avons fait 
 * Exemple simple avec le paramètrage des propriétés d'une ellipse (position, taille). 
 * Fonction [noise](https://processing.org/reference/noise_.html) 1D, 2D, 3D dans Processing : application à la vitesse d'un ensemble de particules.
 
-![Processing](cours06/images/sketch_190401_controlP5_UI.png)
-![Processing](cours06/images/sketch_190401_noise.png)
-![Processing](cours06/images/sketch_180401_noise_particles.png)
+![Processing](cours10/images/sketch_190401_controlP5_UI.png)
+![Processing](cours10/images/sketch_190401_noise.png)
+![Processing](cours10/images/sketch_180401_noise_particles.png)
 
 
 #### À faire pour le lundi 8 avril prochain
