@@ -168,8 +168,16 @@ Les contraintes seront :
 * Axidraw / format final A4 au format SVG, il sera possible d'imprimer deux motifs sur une feuille avec une mise en page adéquate qui sera faite sur Inkscape.
 * Axidraw / impression sur papier noir avec feutre blanc (0.5 mm) ou sur papier blanc avec feutre noir (0.01 à 0.5 mm pour les pointes) 
 
-
 ## Cours #11 — 8 avril
+* Transformation du repère de dessin avec les fonctions [translate](https://www.processing.org/reference/translate_.html) et [rotate](https://www.processing.org/reference/rotate_.html), cette dernière en paramètre prenant des angles exprimés en [radians](https://www.processing.org/reference/radians_.html). 
+
+J'ai mis en ligne le sketch que nous avons étudiés en cours avec en prime l'ajout d'une interface graphique qui permet de jouer avec les paramètres de ce sketch. 
+
+![Processing](cours11/images/sketch_190408_transformations_01.jpg)
+![Processing](cours11/images/sketch_190408_transformations_02.jpg)
+
+### Références
+* [Les transformations dans Processing](https://fr.flossmanuals.net/processing/les-transformations/)
 
 ## Cours #12 — 15 avril
 
