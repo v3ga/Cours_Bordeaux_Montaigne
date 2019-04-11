@@ -8,6 +8,8 @@ float x=0;
 float y=0;
 // Variable qui va stocker pour chaque cellule (i,j) le nombre de points tiré au hasard 
 int nbPoints = 0;
+int nbPointsMin = 3;
+int nbPointsMax = 30;
 
 // ------------------------------------------
 void setup()
@@ -31,7 +33,7 @@ void draw()
     {
       x = i*taille;
       y = j*taille;
-      nbPoints = int(random(3, 20));
+      nbPoints = int(random(nbPointsMin, nbPointsMax));
 
       beginShape();
       for (int n=0; n<nbPoints; n++)
