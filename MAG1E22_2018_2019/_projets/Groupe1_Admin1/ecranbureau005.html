@@ -1,0 +1,119 @@
+.<!DOCTYPE html>
+<html>
+<head>
+	<title>écran Bureau 005</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+
+	<script type="text/javascript">
+
+
+	</script>
+		
+	
+
+</head>
+
+
+<body>
+ 	
+ 	<header class="header"> 
+ 		<a href="interfaceadmin.html"><img src ="images/logoblanc.png" class="accueil"> </a>
+ 		<span class="mail">administrateur-a32@orange.fr</span>
+ 		
+	</header>
+
+ 	<div class="actions">		
+		<div class="menuGauche">
+			<div class="option1">
+				<img src="images/bureau005fond.svg" width="200px">
+				<h1> BUREAU 005</h1>
+			</div>
+
+			<div class="option2">
+				<img src="images/occupants.svg" width="100px">
+				<p>
+					<br>Valérie Dupont<br>
+					<br>Jean Bouvier</br>
+					<br>Lisa Dubois</br>
+				</p>
+
+			</div>
+
+			<div class="option3">
+				<a href="https://app.iqspot.fr/admin/comfort"> <img src="images/logoIqspot.png" width="70px"></a>
+			</div>
+	</div>
+
+	<div class="menu droit">
+				
+					<table class="tableau">
+					<tr>
+					    <th>Jour</th>
+					    <th>Confort</th>
+					    <th>Kw utilisées</th>
+					    <th>Economies</th>
+					  </tr>
+
+					  <tr>
+					    <td>14/03/2019</td>
+					    <td>Electricité</td>
+					    <td>100kw</td>
+					    <td>Vous avec économisée 30 min de lumière</td>
+					  </tr>
+
+					  <tr>
+					    <td>25/03/2019</td>
+					    <td>Chaufage</td>
+					    <td>50kw</td>
+					    <td>Vous avez économisé ..... </td>
+					  </tr>
+
+			</table>
+
+			<input type="button" value="Ajouter" onclick="addRow(document.getElementById('tableau'), document.getElementById('rowText').value);" />
+			<input type="text" id="rowText" />
+
+
+
+
+			
+			<div class="bas">
+					<div class="message" >
+						<FORM  class="message">
+							<h1>Envoyer une alerte</h1>
+							<TEXTAREA NAME="name" ROWS=10 COLS=80;>envoyer une alerte</TEXTAREA>
+							<INPUT TYPE="button" NAME="bouton" VALUE="Envoyer" onClick="controle(form1)">
+						</FORM>
+
+					</div>
+				
+					<div class="messagerie">
+						<h1>Messagerie</h1>
+						<fieldset>
+	    					<legend><img src="images/conversation.svg" width="70px"></legend>
+	    					<div class="container">
+	    						<img src="images/conversationUser.svg" alt="Administrateur" width="20px">
+								  <p>Question</p>
+								  <span class="time-right">11:00</span>
+								
+
+								 
+								  <img src="images/conversationAdmin.svg" alt="Bureau 005" width="20px">
+								  <p>Reponse </p>
+								  <span class="time-right">11:00</span>
+
+								  <p class="envoyerchat">envoyer</p>
+								 
+							</div>
+
+						</fieldset>
+					</div>
+			</div>
+	</div>
+
+	<!--<div class="footer">footer</div> -->
+
+</body>
+</html>
