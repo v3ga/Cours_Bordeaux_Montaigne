@@ -138,6 +138,7 @@ Quelques exemples à regarder :
 * [Vera Molnar](http://www.veramolnar.com/)
 * [Frider Nake](http://dada.compart-bremen.de/item/agent/68) 
 * [Recode project](http://recodeproject.com/)
+* [Multiscale truchet patterns](https://christophercarlson.com/portfolio/multi-scale-truchet-patterns/)
 
 ## Cours #08 — Bis repetita — 18 mars
 *Message du 11/03 — nous reverrons les aspects de ce principe de répétition la semaine prochaine (le 18/03) pendant la première heure de cours et je vous laisserai ensuite travailler une heure en autonomie sur cet exercice qui sera à rendre du coup pour la semaine suivante (le 25/03). Je pourrai vous accompagner sur cette création.
