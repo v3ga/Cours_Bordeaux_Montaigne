@@ -176,6 +176,7 @@ J'ai mis en ligne le sketch que nous avons étudiés en cours avec en prime l'aj
 ![Processing](cours11/images/sketch_190408_transformations_01.jpg)
 ![Processing](cours11/images/sketch_190408_transformations_02.jpg)
 ![Processing](cours11/images/sketch_190411_grid_random_points.png)
+![Processing](cours11/images/sketch_190411_portrait_noise.png)
 
 ### Références
 * [Les transformations dans Processing](https://fr.flossmanuals.net/processing/les-transformations/)
