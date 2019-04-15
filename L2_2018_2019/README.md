@@ -185,6 +185,10 @@ J'ai mis en ligne le sketch que nous avons étudiés en cours avec en prime l'aj
 ## Cours #12 — 15 avril
 * [Axidraw](https://www.axidraw.com/) !! Impressions de créations avec le traceur Axidraw.
 
+### Références
+* [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw)<br />*Processing app to create an SVG based on the brightness of an image transformed into sine waves.*
+
+
 ![Axidraw](cours12/images/190415_axidraw_L2_01.jpg)
 ![Axidraw](cours12/images/190415_axidraw_L2_02.jpg)
 ![Axidraw](cours12/images/190415_axidraw_L2_03.jpg)
