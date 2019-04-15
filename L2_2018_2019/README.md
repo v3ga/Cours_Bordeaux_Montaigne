@@ -183,4 +183,9 @@ J'ai mis en ligne le sketch que nous avons étudiés en cours avec en prime l'aj
 * [Les transformations dans Processing](https://fr.flossmanuals.net/processing/les-transformations/)
 
 ## Cours #12 — 15 avril
+* [Axidraw](https://www.axidraw.com/) !! Impressions de créations avec le traceur Axidraw.
+
+![Axidraw](cours12/images/190415_axidraw_L2_01.jpg)
+![Axidraw](cours12/images/190415_axidraw_L2_02.jpg)
+![Axidraw](cours12/images/190415_axidraw_L2_03.jpg)
 
