@@ -1,0 +1,30 @@
+/* On travaille sur la balise body, donc sur TOUTE la page*/
+#page-veille
+{
+    position:absolute;
+    width:1080px;
+    height:1080px;
+    background-color: #0B0B0B; /* Le fond de la page sera noir */
+    animation-name: Veille;
+    animation-duration: 440s;
+    animation-timing-function: ease-in-out ;
+    animation-delay: 1s;
+    animation-direction: normal;
+    animation-iteration-count: infinite;
+}
+
+@keyframes Veille {
+  0%   	{background-image: url(IMAGES/1.jpg);}
+  10%  	{background-image: url(IMAGES/2.jpg);}
+  20%  	{background-image: url(IMAGES/3.jpg);}
+  30% 	{background-image: url(IMAGES/4.jpg);}
+  40%   {background-image: url(IMAGES/5.jpg);}
+  50%   {background-image: url(IMAGES/6.jpg);}
+  60%   {background-image: url(IMAGES/7.jpg);}
+  70%   {background-image: url(IMAGES/8.jpg);}
+  80%   {background-image: url(IMAGES/9.jpg);}
+  90%   {background-image: url(IMAGES/10.jpg);}
+  100%  {background-image: url(IMAGES/11.jpg);}
+}
+
+

@@ -1,0 +1,58 @@
+		*
+		{
+			margin:		0;
+			padding:	0;
+		}
+
+		img{
+			display:	inline;
+		}
+
+		#Fond
+		{
+			position:	absolute;
+			min-width: 100%;
+
+		}
+
+		#Bureau005   /* changer taille maison???*/
+		{
+			position:	absolute;
+			max-width: 130px;
+
+			top:		-20px;
+			left:		370px;
+		}
+		
+		/* Responsive Mobile*/
+		@media (max-width: 580px){
+
+			#Fond{
+				 width: 100%
+				}
+
+			#Bureau005
+				{
+				max-width: 100%;
+				position: center;
+
+				top: 30px;
+				left: 270;
+			
+				}
+
+		
+		@media (max-width: 850px){
+			#Fond{
+				 width: 100%
+				}
+
+			#Bureau005
+				{
+				max-width: 100%;
+				
+				}
+			
+
+		}
+

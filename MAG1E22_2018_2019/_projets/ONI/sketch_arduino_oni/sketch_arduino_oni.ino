@@ -1,6 +1,10 @@
 // ----------------------------------------------
+#include <SPI.h>
+#include <SD.h>
 #include <Adafruit_ILI9341.h>
 #include <Adafruit_STMPE610.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_ImageReader.h>
 #include "arrow_next.h"
 
 
@@ -9,8 +13,11 @@
 #define STMPE_CS 8
 #define TFT_DC 9
 #define TFT_CS 10
+#define SD_CS   4 // SD card select pin
+
 Adafruit_STMPE610 ts = Adafruit_STMPE610(STMPE_CS);
 Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC);
+Adafruit_ImageReader reader; // Class w/image-reading functions
 
 // ----------------------------------------------
 #define SCREEN_W 320
@@ -28,6 +35,10 @@ int xTouched = 0, yTouched = 0;
 bool bButtonNextHit = false, bIconHit = false;
 
 // ----------------------------------------------
+ImageReturnCode stat;
+String imgName = "";
+
+// ----------------------------------------------
 uint16_t page = 0; // 0 = selection des modes, 1 = satisfaction
 uint16_t mode = 0;
 uint16_t nbModes = 4;
@@ -39,6 +50,12 @@ void setup()
   Serial.println("Oni project");
 
   tft.begin();
+ if (!SD.begin(SD_CS)) {
+   Serial.println(F("SD CARD  failed! >.<"));
+   for (;;); // Loop here forever
+ }
+ Serial.println(F("SD CARD OK! -_-"));
+
   if (!ts.begin()) {
     Serial.println("Unable to start touchscreen.");
   }
@@ -66,6 +83,11 @@ void loop()
       {
         bButtonNextHit = isButtonNextHit(xTouched, yTouched);
       }
+
+      if (bButtonNextHit == false)
+      {
+        // bIconHit = true;
+      }    
     }
 
     // Page 1
@@ -73,11 +95,6 @@ void loop()
     {
 
     }
-
-
-
-
-
   }
   else
   {
@@ -94,6 +111,10 @@ void loop()
     if (bIconHit)
     {
       bIconHit = false;
+      page = 1;
+
+      drawUserChoiceFrame(1);
+
       delay(500);
     }
 
@@ -112,14 +133,46 @@ String modeToString()
 }
 
 // ----------------------------------------------
-void drawModeFrame()
+void drawUserChoiceFrame(int iFilled)
 {
   tft.fillScreen(ILI9341_BLACK);
+  int r = 25;
+  int padding = 5;
+  int w = 5*2*r + 4*padding;
+  int x = (SCREEN_W-w)/2;
+  for (int i=0; i<5;i++)
+  {
+    if (i<=iFilled)
+      tft.fillCircle(x,SCREEN_H/2,r,ILI9341_WHITE);
+    else
+      tft.drawCircle(x,SCREEN_H/2,r,ILI9341_WHITE);
+    x+=2*r+padding;
+  }
+}
+
+// ----------------------------------------------
+void drawModeFrame()
+{
+  // CLS
+  tft.fillScreen(ILI9341_BLACK);
+
+  // PICTO
+  if (mode == 0)
+    imgName = "/beee.bmp";
+  else if (mode == 1)
+    imgName = "/cloud.bmp";
+  else if (mode == 2)
+    imgName = "/sun.bmp";
+  else if (mode == 3)
+    imgName = "/temp.bmp";
+  stat = reader.drawBMP(imgName.c_str(), tft, 0, (SCREEN_H-140)/2); 
+  // reader.printStatus(stat);
+  // ARROW
   drawArrowNext(ARROWNEXT_X, ARROWNEXT_Y);
-  tft.setCursor(10 , ARROWNEXT_Y);
-  tft.setTextColor(ILI9341_WHITE);
-  tft.setTextSize(2);
-  tft.println(modeToString());
+//  tft.setCursor(10 , ARROWNEXT_Y);
+//  tft.setTextColor(ILI9341_WHITE);
+//  tft.setTextSize(2);
+//  tft.println(modeToString());
 }
 
 // ----------------------------------------------

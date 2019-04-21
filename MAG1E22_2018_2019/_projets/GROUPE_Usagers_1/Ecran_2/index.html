@@ -1,0 +1,148 @@
+<html>
+<head>
+	<title>Écran 2</title>
+	<style type="text/css">
+	*
+	{
+		margin:			0;
+		padding:		0;
+	}
+
+	@font-face
+	{
+		font-family: 	Raleway;
+		src: 			url("Data/Fonts/Raleway-Regular.ttf") ;
+	}
+
+	body
+	{
+		font-family: 	Raleway;
+		font-size:		52px;
+	}
+
+	.container
+	{
+		position:		absolute;		
+		width:			1200px;
+		height:			1920px;
+	}
+
+	.top
+	{
+		position:		absolute;		
+		width:			1200px;
+		height:			1280px;
+	} 
+
+	.top .arbre
+	{
+		position:		absolute;		
+		width:			1200px;
+		height:			1280px;
+		background-size:cover;
+	} 	
+
+	.bottom
+	{
+		position:		absolute;		
+		top:			1280px;
+		width:			1200px;
+		height:			640px;
+	} 
+
+	.bottom .tableau
+	{
+		position:		absolute;		
+		width:			1200px;
+		height:			640px;
+	}
+
+	.bottom #seuil_mois_precedent
+	{
+		position:		absolute;		
+	}
+
+	#mode_manuel
+	{
+		position:		absolute;
+		display:		none;
+		z-index: 		1000;
+	}
+
+	.transposition
+	{
+		position:		absolute;
+		color:			white;
+	}
+
+	#transposition_km_voiture
+	{
+		left:			56px;
+		top:			calc(1814px - 52px);		
+	}
+
+	#transposition_temps_ampoule
+	{
+		left:			66px;
+		top:			calc(1537px - 52px);		
+	}
+
+	#transposition_temps_chauffage
+	{
+		left:			885px;
+		top:			calc(1537px - 52px);		
+	}
+
+	#transposition_depense
+	{
+		left:			885px;
+		top:			calc(1814px - 52px);		
+	}
+
+	#consommation_en_cours
+	{
+		position:		absolute;
+		color:			black;				
+		top:			calc(1669px - 52px);
+		left:			461px;
+	}
+
+	#consommation_mois_precedent_meme_jour
+	{
+		position:		absolute;
+		color:			black;				
+		top:			calc(1352px - 52px);
+		left:			81px;
+	}
+
+	</style>
+	<script type="text/javascript" src="Data/Js/jquery.min.js"></script>
+	<script type="text/javascript" src="Data/Js/jquery.cycle2.js"></script>
+	<script type="text/javascript" src="Data/Js/application.js"></script>
+</head>
+<body>
+	<div class="container">
+
+		<div class="top">
+			<div class="arbre" style="background-image:url(Data/Images/Arbre/1.png)"></div>			
+			<div class="arbre" style="background-image:url(Data/Images/Arbre/2.png)"></div>			
+			<div class="arbre" style="background-image:url(Data/Images/Arbre/3.png)"></div>			
+			<div class="arbre" style="background-image:url(Data/Images/Arbre/4.png)"></div>			
+			<div class="arbre" style="background-image:url(Data/Images/Arbre/5.png)"></div>			
+		</div> 	
+
+		<div class="bottom">
+			<div class="tableau" style="background-image:url(Data/Images/Tableau_Conversions/Tableau_Conversion_Sans_Unites.png)"></div>			
+		</div>
+
+		<div id="consommation_mois_precedent_meme_jour"></div>
+		<div id="consommation_en_cours"></div>
+		<div class="transposition" id="transposition_km_voiture"></div>
+		<div class="transposition" id="transposition_temps_ampoule"></div>
+		<div class="transposition" id="transposition_temps_chauffage"></div>
+		<div class="transposition" id="transposition_depense"></div>
+
+	</div>
+	<div id="mode_manuel">Mode manuel</div>
+</body>
+</html>

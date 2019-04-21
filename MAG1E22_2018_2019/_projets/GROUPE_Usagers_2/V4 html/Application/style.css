@@ -1,0 +1,128 @@
+html{
+	border-color: #EBEBEB;
+    border-style: solid; 
+}
+
+
+/* On travaille sur la balise body, donc sur TOUTE la page*/
+body{
+	text-align:center;
+	color: #EBEBEB;
+    background-color: #0B0B0B; /* Le fond de la page sera noir */
+    height: 1864px;
+
+}
+
+.page
+{
+	position:	absolute;
+}
+
+.hidden
+{
+	display:	none;
+}
+
+/*
+
+Page computer-vision
+
+*/
+
+
+
+
+/*
+
+Page Menu
+
+*/
+
+h2
+{
+ font-family: Raleway, sans-serif;
+ font-size :50px;
+ color: #EBEBEB;
+}
+
+
+
+#slogan
+{
+	position:	absolute;
+	top:		1700px;
+	left:300px;
+	text-align:center;
+}
+
+#brain
+{
+	position:	absolute;
+	top:		688px;
+	left:		303px;
+	text-align:center;
+
+}
+
+#menu_haut
+{
+	position:	absolute;
+
+}
+
+.menu-item
+{
+	position:	absolute
+}
+
+.menu-item img
+{
+	width:		180px;
+
+	/*taille icone menu principale*/
+}
+
+#menu_haut
+{
+height:30px;
+position:relative;
+ }
+
+#img_hautgauche /*co2*/
+ {
+position:	absolute;
+	top:		420px;
+	left:		120px;
+
+	text-align:center;
+}
+
+#img_hautdroite /*hum*/
+ {
+position:	absolute;
+	top:		400px;
+	left:		720px;
+	text-align:center;
+ } 
+
+#img_basgauche /*lum*/
+ {
+position:	absolute;
+	top:		800px;
+	left:		115px;
+	text-align:center;
+ } 
+
+#img_basdroite /*tem*/
+ {
+position:	absolute;
+	top:		800px;
+	left:		700px;
+	text-align:center;
+ }
+
+/*
+
+Page Humidité
+
+*/

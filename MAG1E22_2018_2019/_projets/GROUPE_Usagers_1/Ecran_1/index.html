@@ -1,0 +1,46 @@
+<html>
+<head>
+	<title>Écran 1</title>
+	<style type="text/css">
+	*
+	{
+		margin:			0;
+		padding:		0;
+	}
+	.gallery, .gallery-item
+	{
+		position:		absolute;		
+		width:			1200px;
+		height:			1920px;
+	} 
+	
+	.gallery-item
+	{
+		background-size: cover;
+	}
+
+	
+	</style>
+	<script type="text/javascript" src="Data/Js/jquery.min.js"></script>
+	<script type="text/javascript" src="Data/Js/jquery.cycle2.js"></script>
+	<script type="text/javascript">
+	$(document).on("ready", function()
+	{
+		console.log("document.load");
+		$(".gallery").cycle({ slides : ".gallery-item" });
+	});
+	</script>	
+</head>
+<body>
+	<div class="gallery">
+		<div class="gallery-item" style="background-image:url(Data/Images/ECRAN_1_Cartographie.png)"></div>			
+		<div class="gallery-item" style="background-image:url(Data/Images/ECRAN_1_Informations.jpg)"></div>			
+		<div class="gallery-item" style="background-image:url(Data/Images/ECRAN_1_Reunions.jpg)"></div>			
+		<!-- 
+		<div class="gallery-item">
+			
+		</div>			
+		-->
+	</div> 	
+</body>
+</html>

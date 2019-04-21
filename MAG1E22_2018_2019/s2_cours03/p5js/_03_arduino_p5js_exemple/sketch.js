@@ -17,6 +17,7 @@ function setup()
     createCanvas(500,500);
     // création de la communication avec arduino
     serial = new p5.SerialPort(); 
+    serial.on("list", printList);
     serial.open(portName);
 }
 

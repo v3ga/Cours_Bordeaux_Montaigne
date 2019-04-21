@@ -1,0 +1,110 @@
+
+
+#page-humidite #slogan
+{
+	position:	absolute;
+	top:		1700px;
+	left:350px;
+	text-align:center;
+}
+
+
+
+
+/*	changement de couleur des gouttes selon données satisfaisantes ou non 
+	Rouge/orange/Vert*/
+
+#page-humidite img
+{
+width: 250px;
+}
+
+
+#page-humidite #goutte1
+ {
+	position:	absolute;
+	top:		350px;
+	left:		20px;
+	text-align:center;
+ } 
+
+ #page-humidite #hgoutte1
+ {
+	position:	absolute;
+	top:		400px;
+	left:		50px;
+	text-align:center;
+ } 
+
+#page-humidite  #datagoutte1
+ {
+	position:	absolute;
+	top:		550px;
+	left:		120px;
+	text-align:center;
+ } 
+
+#page-humidite #goutte2
+ {
+position:	absolute;
+	top:		550px;
+	right: 		50px;
+	text-align:center;
+ } 
+
+#page-humidite  #hgoutte2
+ {
+	position:	absolute;
+	top:		600px;
+	right: 		220px;
+	text-align:center;
+ }
+
+#page-humidite #goutte3
+ {
+position:	absolute;
+	top:		630px;
+	left:		400px;
+	text-align:center;
+ } 
+
+#page-humidite #goutte4
+ {
+position:	absolute;
+	top:		1000px;
+	left:		650px;
+	text-align:center;
+ } 
+
+#page-humidite #goutte5
+ {
+position:	absolute;
+	top:		1250px;
+	left:		300px;
+	text-align:center;
+ } 
+
+#page-humidite  #goutte6
+ {
+position:	absolute;
+	top:		1400px;
+	left:		700px;
+	text-align:center;
+ } 
+
+#page-humidite  #goutte7  
+ {
+position:	absolute;
+	top:		1500px;
+	left:		80px;
+	text-align:center;
+ } 
+
+#page-humidite #goutteC
+ {
+position:	absolute;
+	top:		10px;
+	left:		500px;
+	text-align:center;
+ } 
+ 
