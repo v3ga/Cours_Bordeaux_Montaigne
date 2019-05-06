@@ -188,6 +188,8 @@ J'ai mis en ligne le sketch que nous avons étudiés en cours avec en prime l'aj
 ### Références
 * [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw)<br />*Processing app to create an SVG based on the brightness of an image transformed into sine waves.*
 
+Merci à [Maurine Lamotte](https://instagram.com/hortense_bayer) pour cette série de portraits ! 
+
 ![Axidraw](cours12/images/190415_axidraw_L2_04.jpg)
 ![Axidraw](cours12/images/190415_axidraw_L2_05.jpg)
 ![Axidraw](cours12/images/190415_axidraw_L2_06.jpg)
