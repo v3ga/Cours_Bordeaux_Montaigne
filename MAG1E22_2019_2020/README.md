@@ -1,7 +1,7 @@
 MAG1E22 — 2019
 ===============================================
 
-Ce cours (24h) aura pour but de se familiariser avec des enviromments de « creative coding » [p5.js]((https://p5js.org/)) et [arduino](https://www.arduino.cc/), et d'entrevoir les possibilités de réalisation / production d'outils dans le cadre de vos projets.
+Ce cours (24h) aura pour but de se familiariser avec des enviromments de « creative coding » [p5.js](https://p5js.org/) et [arduino](https://www.arduino.cc/), et d'entrevoir les possibilités de réalisation / production d'outils dans le cadre de vos projets.
 
 ## Outils
 * éditeur [sublime text](https://www.sublimetext.com/).
