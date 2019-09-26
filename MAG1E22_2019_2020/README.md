@@ -6,7 +6,7 @@ Ce cours (24h) aura pour but de se familiariser avec des enviromments de « crea
 ## Outils
 * éditeur [sublime text](https://www.sublimetext.com/).
 * navigateur [brave](https://brave.com/) ou [firefox](https://www.mozilla.org/fr/firefox/new/) recommandés pour travailler.
-* téléchargement [sketch vide](cours01/01-exemple-vide.zip) et renommer le dossier (pas les fichiers index.html et sketch.js)
+* téléchargement [sketch vide](s01_cours01/01-exemple-vide.zip) et renommer le dossier (pas les fichiers index.html et sketch.js)
 
 ## Cours #01 et #02 — jeudi 26 septembre et vendredi 27 septembre 2019 
 * Présentation du studio [2Roqs](http://www.2roqs.fr) 
