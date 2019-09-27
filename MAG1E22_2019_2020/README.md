@@ -30,3 +30,5 @@ Ce cours (24h) aura pour but de se familiariser avec des enviromments de « crea
 * [Javascript basics sur le wiki de p5.js](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 * [Cours en ligne en français](http://www.lyceelecorbusier.eu/p5js/)
 * [Debugging! p5.js](https://p5js.org/learn/debugging.html)
+* [Designing programs par Mark Webster](https://designingprograms.bitbucket.io)
+* [Computational Graphic Design Manual par Mark Webster](https://dpmanual.bitbucket.io)
