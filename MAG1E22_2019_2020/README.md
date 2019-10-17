@@ -32,3 +32,19 @@ Ce cours (24h) aura pour but de se familiariser avec des enviromments de « crea
 * [Debugging! p5.js](https://p5js.org/learn/debugging.html)
 * [Designing programs par Mark Webster](https://designingprograms.bitbucket.io)
 * [Computational Graphic Design Manual par Mark Webster](https://dpmanual.bitbucket.io)
+
+* Télécharger l'environnement Arduino (IDE) :point_right: https://www.arduino.cc/en/Main/Software
+* Archive .zip (~160 Mo) à télécharger pour ce cours :point_right: http://master.designbordeaux.fr/cours/jgachadoat/download/2018_2019/s2_cours03.zip
+
+## Cours #03 — vendredi 18 octobre 2019 
+* [Introduction à Arduino](
+http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html)
+  * [anatomie de la carte](http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html#arduino)
+  * [structure d'un programme / sketch](http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html#sketch)
+  * [méthode de travail](http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html#methode_travail)
+  * premiers montages : 
+    * [allumer une diode](http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html#allumer_diode) / sketch **arduino/_01_led_clignote**
+    * [capter la luminosité](http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html#capter_lumiere) / sketch **arduino/_02_capteur_lumiere**
+* **Arduino + p5js**
+  * envoi de données depuis un sketch vers arduino (référence [serial output from p5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/)) / sketch **arduino/_03_arduino_p5js_exemple** + **p5js/_03_arduino_p5js_exemple**
+  
