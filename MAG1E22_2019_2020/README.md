@@ -33,10 +33,11 @@ Ce cours (24h) aura pour but de se familiariser avec des enviromments de « crea
 * [Designing programs par Mark Webster](https://designingprograms.bitbucket.io)
 * [Computational Graphic Design Manual par Mark Webster](https://dpmanual.bitbucket.io)
 
+## Cours #03 — vendredi 18 octobre 2019 
+
 * Télécharger l'environnement Arduino (IDE) :point_right: https://www.arduino.cc/en/Main/Software
 * Archive .zip (~160 Mo) à télécharger pour ce cours :point_right: http://master.designbordeaux.fr/cours/jgachadoat/download/2018_2019/s2_cours03.zip
 
-## Cours #03 — vendredi 18 octobre 2019 
 * [Introduction à Arduino](
 http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html)
   * [anatomie de la carte](http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html#arduino)
