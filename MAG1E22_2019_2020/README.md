@@ -47,5 +47,9 @@ http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html)
     * [allumer une diode](http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html#allumer_diode) / sketch **arduino/_01_led_clignote**
     * [capter la luminosité](http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html#capter_lumiere) / sketch **arduino/_02_capteur_lumiere**
 * **Arduino + p5js**
-  * envoi de données depuis un sketch vers arduino (référence [serial output from p5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/)) / sketch **arduino/_03_arduino_p5js_exemple** + **p5js/_03_arduino_p5js_exemple**
+  * envoi de données depuis un sketch vers arduino (référence [serial output from p5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/))
+    * le sketch **_03_arduino_p5js_reception** permet d'envoyer des données depuis le sketch dans le navigateur vers Arduino.
+    * le sketch **_04_arduino_p5js_envoi** permet d'envoyer des données depuis Arduino vers le navigateur.
+    
+
   
