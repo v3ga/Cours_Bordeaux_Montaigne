@@ -36,7 +36,7 @@ Ce cours (24h) aura pour but de se familiariser avec des enviromments de « crea
 ## Cours #03 — vendredi 18 octobre 2019 
 
 * Télécharger l'environnement Arduino (IDE) :point_right: https://www.arduino.cc/en/Main/Software
-* Archive .zip (~160 Mo) à télécharger pour ce cours :point_right: http://master.designbordeaux.fr/cours/jgachadoat/download/2018_2019/s2_cours03.zip
+* Archive .zip (~109 Mo) à télécharger pour ce cours :point_right: http://master.designbordeaux.fr/cours/jgachadoat/download/2019_2020/MAG1E22_2019_2020_cours03.zip
 
 * [Introduction à Arduino](
 http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html)
