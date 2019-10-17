@@ -51,6 +51,10 @@ http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html)
     * le sketch **_03_arduino_p5js_reception** permet d'envoyer des données depuis le sketch dans le navigateur vers Arduino.
     * le sketch **_04_arduino_p5js_envoi** permet d'envoyer des données depuis Arduino vers le navigateur.
  
+ ### « Exercices » à réaliser en cours
+  * Reprendre le sketch **arduino/_01_led_clignote** et ajouter une ou plusieurs leds, programmer une séquence animée avec la fonction [delay](https://www.arduino.cc/reference/en/language/functions/time/delay/) pour temporiser.
+  * Reprendre le sketch **_04_arduino_p5js_envoi** en intégrant l'envoi de données depuis le capteur lumière (et non plus une valeur random)
+ 
  ### Références
  * [Projets créatifs avec Arduino](https://www.eyrolles.com/Informatique/Livre/projets-creatifs-avec-arduino-9782744026171/) / Bruno Affagard, Jean-Michel Géridan, Jean-Noël Lafargue
  * [Eniarof](http://www.eniarof.com/maintenance), la fête foraine revisitée.
