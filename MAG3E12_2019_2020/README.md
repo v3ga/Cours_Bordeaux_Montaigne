@@ -31,4 +31,5 @@ L'objectif de ce cours sera de donner des clés de compréhension de ce type d'a
 * [ml5.js // Friendly Machine Learning for the web](https://ml5js.org/)
 * [teachable machine](https://teachablemachine.withgoogle.com/)
 * [teachable machine + p5.js](https://github.com/yining1023/teachable-machine-p5)
+* [ml4a - Machine Learning 4 Artists](https://ml4a.github.io/)
 
