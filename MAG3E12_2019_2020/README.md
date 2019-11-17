@@ -1,24 +1,34 @@
 
-Intelligence artificielle et reconnaissance faciale
+Introduction « Machine Learning »
 ===============================================
-La [reconnaissance faciale](https://www.cnil.fr/fr/definition/reconnaissance-faciale) est une technique permettant à une machine d'identifier une personne sur une image ou une vidéo.
-La France se prépare à devenir le premier pays européen à utiliser cette technologie pour permettre aux citoyens d'accéder aux services publics par le biais d'[Alicem](https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Alicem-la-premiere-solution-d-identite-numerique-regalienne-securisee) « première solution d'identité numérique régalienne sécurisée ».
 
-En Chine, elle est déployée en masse pour surveiller les citoyens à qui est associé « un score de bonne conduite », ce qui conditionne leurs droits en société, comme obtenir un prêt à la banque ou prendre le train par exemple.
+Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/). Ces techniques sont utilisées dans le domaine de l'intelligence artificielle pour donner la capacité à une machine programmable la capacité « d'apprendre » à partir d'un ensemble de données afin de réaliser des tâches automatiques de classification ou de prédiction par exemple.
 
-À Hong-Kong, durant les protestations de l'été 2019, les manifestants ont développé des techniques de camouflage pour échapper à cette reconnaissance et éviter d'être identifier comme des fauteurs de trouble.   
+Donner des exemples : 
+* Reconnaissance faciale d'image sur Facebook
+
+L'objectif de ce cours sera de donner des clés de compréhension de ce type d'algorithme à travers la réalisation d'un mini-prototype utilisant la classification d'images.
 
 
+## Lundi 18 novembre
+* Révisions p5.js
+  * lancer un serveur local ( :point_right: [instructions](https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/MAG1E22_2018_2019#serveur-web-en-local)   )  
+  * [structure d'un programme](https://p5js.org/reference/#/p5/setup) p5.js avec gestionnaire de démarrage et boucle de dessin.
+  * chargement et affichage d'une image.
+  * [affichage d'un flux vidéo webcam](https://p5js.org/examples/dom-video-capture.html).
+* vue d'ensemble de la librairie [ml5.js]((https://ml5js.org/))
+  * classification d'une image simple en utilisant le modèle pre-entrainé « MobileNet ».
+  * application à un flux vidéo, classification en temps réel.
+  * 
 
-## Références
-* [The Telegraph // France to become first EU country to use nationwide facial recognition ID app](https://www.telegraph.co.uk/news/2019/10/03/france-become-first-eu-country-use-nationwide-facial-recognition/)
-* [Le Figaro // En Chine, le grand bond en avant de la reconnaissance faciale](https://www.lefigaro.fr/secteur/high-tech/2017/12/11/32001-20171211ARTFIG00240-en-chine-le-grand-bond-en-avant-de-la-reconnaissance-faciale.php)
-* [Le Monde // Nice va tester la reconnaissance faciale sur la voie publique](https://www.lemonde.fr/societe/article/2019/02/18/nice-va-tester-la-reconnaissance-faciale-sur-la-voie-publique_5425053_3224.html)
-* [Envoyé Spécial // Chine, tout est sous contrôle](https://www.francetvinfo.fr/monde/chine/video-chine-tout-est-sous-controle_3629697.html)
-* [Le Temps // À Hongkong, la bataille pour échapper à la reconnaissance faciale](https://www.letemps.ch/monde/hongkong-bataille-echapper-reconnaissance-faciale)
-* [Surveillance:// de Tristan Nitot](http://standblog.org/blog/pages/Surveillance) 
+
+## Jeudi 12 décembre
+
+## Vendredi 13 décembre
+
 
 ## Outils
 * [ml5.js // Friendly Machine Learning for the web](https://ml5js.org/)
 * [teachable machine](https://teachablemachine.withgoogle.com/)
+* [teachable machine + p5.js](https://github.com/yining1023/teachable-machine-p5)
 
