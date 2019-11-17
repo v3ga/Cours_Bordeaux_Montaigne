@@ -16,10 +16,12 @@ L'objectif de ce cours sera de donner des clés de compréhension de ce type d'a
   * [structure d'un programme](https://p5js.org/reference/#/p5/setup) p5.js avec gestionnaire de démarrage et boucle de dessin.
   * chargement et affichage d'une image.
   * [affichage d'un flux vidéo webcam](https://p5js.org/examples/dom-video-capture.html).
-* vue d'ensemble de la librairie [ml5.js]((https://ml5js.org/))
-  * classification d'une image simple en utilisant le modèle pre-entrainé « MobileNet ».
+* vue d'ensemble de la librairie [ml5.js](https://ml5js.org/)
+  * [classification](https://learn.ml5js.org/docs/#/reference/image-classifier?id=description) d'une image simple en utilisant le modèle pre-entrainé « MobileNet ».
   * application à un flux vidéo, classification en temps réel.
-  * 
+  * Le modèle n'est entrainé pour détecter que certains types d'objets (classes), comment faire pour l'entrainer à reconnaitre nos propres types d'images ? :point_right: Utilisation du « transfer learning » via le composant (« Feature Extractor »)[https://learn.ml5js.org/docs/#/reference/feature-extractor] de ml5.js
+
+### Références
 
 
 ## Jeudi 12 décembre
@@ -27,7 +29,7 @@ L'objectif de ce cours sera de donner des clés de compréhension de ce type d'a
 ## Vendredi 13 décembre
 
 
-## Outils
+## Outils & liens
 * [ml5.js // Friendly Machine Learning for the web](https://ml5js.org/)
 * [teachable machine](https://teachablemachine.withgoogle.com/)
 * [teachable machine + p5.js](https://github.com/yining1023/teachable-machine-p5)
