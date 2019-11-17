@@ -25,7 +25,7 @@ Ce cours est presque une transcription directe des vidéos en ligne de Daniel Sh
 * vue d'ensemble de la librairie [ml5.js](https://ml5js.org/)
   * [classification](https://learn.ml5js.org/docs/#/reference/image-classifier?id=description) d'une image simple en utilisant le modèle pre-entrainé « MobileNet ». Que veut dire modèle pré-entrainé ? 
   * application à un flux vidéo, classification en temps réel.
-  * Le modèle n'est entrainé pour détecter que certains types d'objets (classes), comment faire pour l'entrainer à reconnaitre nos propres types d'images ? :point_right: Utilisation du « transfer learning » via le composant (« Feature Extractor »)[https://learn.ml5js.org/docs/#/reference/feature-extractor] de ml5.js
+  * Le modèle n'est entrainé pour détecter que certains types d'objets (classes), comment faire pour l'entrainer à reconnaitre nos propres types d'images ? :point_right: Utilisation du « transfer learning » via le composant [« Feature Extractor »](https://learn.ml5js.org/docs/#/reference/feature-extractor) de ml5.js
 
 ### Références
 * [Daniel Shiffman / Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY)
