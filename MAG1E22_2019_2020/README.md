@@ -63,10 +63,19 @@ http://master.designbordeaux.fr/cours/jgachadoat/arduino/index.html)
  
  ## Cours #04 — lundi 2 décembre 2019 
 Nous travaillerons à la création des motifs génératifs qui seront imprimés sur vos cartes de visite avec le traceur [axidraw](https://axidraw.com/).
+
 L'idée sera d'inventer un système graphique qui fasse sens avec l'identité propre du master d'une part, et les centres d'intérêt relatifs au design de votre promotion d'autre part. Idéalement, cette identité pourrait aussi s'appliquer aux promotions suivantes avec des possibilités d'extension et de personnalisation.
+
 Cette création reposera sur des données qui font sens et nous éviterons une production « gratuite », simplement esthétique.  
 Nous utiliserons l'environnement [p5.js](https://p5js.org/) comme outil de production, avec les contraintes graphiques inhérentes au traceur, c'est à dire l'utilisation de lignes et de points comme briques de composition. 
 
+### Organisation du cours
+* Présentation de projets d'identité générative.
+* Présentation du traceur Axidraw.
+* Révision des bases de p5.js
+  * anatomie d'un sketch. 
+  * interface graphique via [p5.dom.js](https://p5js.org/reference/#group-DOM)
+* Libre cours aux idées, propositions, réflexions. 
 
 ### Références
 * [MIT Media Lab Identity 2011 / TheGreenEyl](https://vimeo.com/20250134) + [nouvelle idendité basée sur la même grille par Pentagram](https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_mit_media_lab_by_pentagram.php)
