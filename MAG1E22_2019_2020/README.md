@@ -85,3 +85,10 @@ Nous utiliserons l'environnement [p5.js](https://p5js.org/) comme outil de produ
 * [COP15 Identity / OKDeluxe](http://www.okdeluxe.co.uk/cop15/)
 * [Bordeaux Métropole / Ruedi Baur + Kubik](https://www.grapheine.com/actulogo/nouvelle-identite-visuelle-generative-bordeaux-metropole)
 
+### Démo en ligne (prototype)
+https://master.designbordeaux.fr/projets/2019-2020/cartes-visites/index.html
+
+![Prototype](images/191201_Master_DIIS_cartes_visites_early_proto.jpg)
+
+
+
