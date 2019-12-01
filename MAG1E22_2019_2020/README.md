@@ -75,6 +75,7 @@ Nous utiliserons l'environnement [p5.js](https://p5js.org/) comme outil de produ
 * Révision des bases de p5.js
   * anatomie d'un sketch. 
   * interface graphique via [p5.dom.js](https://p5js.org/reference/#group-DOM)
+  * exportation au format [SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) avec p5.svg.js
 * Libre cours aux idées, propositions, réflexions. 
 
 ### Références
