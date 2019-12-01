@@ -88,7 +88,7 @@ Nous utiliserons l'environnement [p5.js](https://p5js.org/) comme outil de produ
 ### Démo en ligne (prototype)
 https://master.designbordeaux.fr/projets/2019-2020/cartes-visites/index.html
 
-![Prototype](images/191201_Master_DIIS_cartes_visites_early_proto.jpg)
+![Prototype](s01_cours04/images/191201_Master_DIIS_cartes_visites_early_proto.jpg)
 
 
 
