@@ -67,5 +67,7 @@ Nous utiliserons l'environnement [p5.js](https://p5js.org/) comme outil de produ
 
 
 ### Références
-[Graphéine - Identités génératives](https://www.grapheine.com/actulogo/nouvelle-identite-visuelle-generative-bordeaux-metropole)
+* [Graphéine - Identités génératives](https://www.grapheine.com/actulogo/nouvelle-identite-visuelle-generative-bordeaux-metropole)
+ * [MIT Media Lab Identity 2011](https://vimeo.com/20250134) + [nouvelle idendité basée sur la même grille](https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_mit_media_lab_by_pentagram.php)
+ * 
 
