@@ -69,6 +69,9 @@ L'idée sera d'inventer un système graphique qui fasse sens avec l'identité pr
 Cette création reposera sur des données qui font sens et nous éviterons une production « gratuite », simplement esthétique.  
 Nous utiliserons l'environnement [p5.js](https://p5js.org/) comme outil de production, avec les contraintes graphiques inhérentes au traceur, c'est à dire l'utilisation de lignes et de points comme briques de composition. 
 
+### Sketches .zip
+[s01_cours04.zip](s01_cours04.zip)
+
 ### Organisation du cours
 * Présentation de projets d'identité générative.
 * Présentation du traceur Axidraw.
