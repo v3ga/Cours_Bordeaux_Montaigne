@@ -53,7 +53,7 @@ function draw()
 			push();
 			translate(xCell+margin, yCell+margin);
 			drawCell(i,j);
-			drawInfo();
+			//drawInfo();
 			pop();
 		}
 	}
@@ -73,6 +73,9 @@ function drawCell(i,j)
 	// Dessin d'un motif
 	// Pas de remplissage, contour noir
 	stroke(0);
+	fill(0);
+	ellipse(wCV/2,hCV/2,20,20);
+/*
 	noFill();
 
 	var nbFigures = 12;
@@ -89,9 +92,11 @@ function drawCell(i,j)
 	  rotate( map(mouseX,0,width,0,Math.PI) + i*Math.PI/5 + j*Math.PI/3 );
 	  rotate( map( sin(nbTours*n/nbFigures*2*Math.PI), -1, 1, -angleRotation, angleRotation) );
 	  drawCircle(nbPoints, map(n,0,nbFigures-1,radiusMin,radiusMax) );
-  
+
 	  pop();
 	}
+*/
+
 }
 
 // ----------------------------------------------
