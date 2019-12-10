@@ -2,7 +2,8 @@
 Introduction « Machine Learning »
 ===============================================
 
-Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/). Ces techniques sont utilisées dans le domaine de l'intelligence artificielle pour donner la capacité à une machine programmable « d'apprendre » à partir d'un ensemble de données afin de réaliser des tâches automatiques de classification ou de prédiction par exemple.
+Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/) et [teachable machine](https://teachablemachine.withgoogle.com/)
+Ces techniques sont utilisées dans le domaine de l'intelligence artificielle pour donner la capacité à une machine programmable « d'apprendre » à partir d'un ensemble de données afin de réaliser des tâches automatiques de classification ou de prédiction par exemple. Nous nous familiarisons avec les notions de réseaux de neurones, d'apprentissage supervisé, ... et d'autres termes que vous avez peut-être entendu ici ou là et qui paraissent obscurs.
 
 Quelques exemples : 
 * Détection de spams.
@@ -14,8 +15,10 @@ Quelques exemples :
 
 L'objectif de ce cours sera de donner des clés de compréhension de ce type d'algorithmes à travers la réalisation d'un mini-prototype utilisant la classification d'images.
 
+### Sketches
+
 ## Jeudi 11 décembre
-Ce cours est presque une transcription directe des vidéos en ligne de Daniel Shiffman sur le sujet. Je vous invite à consulter ces vidéos en ligne pour revoir les notions que nous allons voir aujourd'hui.
+Ce cours est presque une transcription directe des vidéos en ligne de Daniel Shiffman sur le sujet. Je vous invite à consulter ces vidéos en ligne pour (re)voir les notions que nous allons voir aujourd'hui.
 
 * Révisions p5.js
   * lancer un serveur local ( :point_right: [instructions](https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/MAG1E22_2018_2019#serveur-web-en-local)   )  
@@ -28,12 +31,34 @@ Ce cours est presque une transcription directe des vidéos en ligne de Daniel Sh
   * Le modèle n'est entrainé pour détecter que certains types d'objets (classes), comment faire pour l'entrainer à reconnaitre nos propres types d'images ? :point_right: Utilisation du « transfer learning » via le composant [« Feature Extractor »](https://learn.ml5js.org/docs/#/reference/feature-extractor) de ml5.js
 
 ### Références
+* [Kyle MacDonald / The limits of learning](https://www.youtube.com/watch?v=kWvHjp8vifM)
 * [Daniel Shiffman / Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY)
 * [Daniel Shiffman / Webcam Image Classification](https://www.youtube.com/watch?v=D9BoBSkLvFo)
 * [Daniel Shiffman / Transfer learning with Feature Extractor](https://www.youtube.com/watch?v=kRpZ5OqUY6Y)
 
+### Réseaux de neurones
+* [3blue1brown / Neural networks](https://www.3blue1brown.com/neural-networks)
 
-## Outils & liens
+### Modèles de réseaux de neurones
+Un réseau de neurones est construit et dédié à réaliser une tâche particulière : classer des images, détecter des objets dans une image, générer des images, du texte, ... Voici quelques modèles :  
+
+* Détection d'objets : 
+ * [YOLO](https://pjreddie.com/darknet/yolo/)
+* Classification d'images : 
+ * ResNet-50
+* Génération de texte : 
+ * [GPT-2]
+ * [Singe9]() *pas vraiment construit à l'aide d'un réseau de neurones mais bonne alternative au lorem ipsum*
+* Génération d'images : 
+ * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer/)
+* Génération de texte à partir d'image : 
+ * [AttnGAN](https://github.com/taoxugit/AttnGAN)
+
+### Services en ligne 
+* Machine learning for creators [Runway ML](https://runwayml.com/)
+ * [Runway ML + p5.js](https://learn.runwayml.com/#/networking/examples?id=p5js)
+
+### Outils & liens
 * [ml5.js // Friendly Machine Learning for the web](https://ml5js.org/), librairie basée sur [tensorflow.js](https://www.tensorflow.org/js/?hl=fr)
 * [teachable machine](https://teachablemachine.withgoogle.com/)
 * [teachable machine + p5.js](https://github.com/yining1023/teachable-machine-p5)
