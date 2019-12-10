@@ -47,8 +47,8 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
 * Classification d'images : 
   * ResNet-50
 * Génération de texte : 
-  * [GPT-2]
-  * [Singe9]() *pas vraiment construit à l'aide d'un réseau de neurones mais bonne alternative au lorem ipsum*
+  * [GPT-2](https://www.01net.com/actualites/gpt-2-cette-intelligence-artificielle-pourrait-devenir-l-arme-ultime-des-trolls-1802378.html)
+  * [Générateur de textes aléatoires](http://enneagon.org/phrases) *pas vraiment construit à l'aide d'un réseau de neurones mais bonne alternative au lorem ipsum*
 * Génération d'images : 
   * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer/)
 * Génération de texte à partir d'image : 
