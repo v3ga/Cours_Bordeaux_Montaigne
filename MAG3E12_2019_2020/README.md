@@ -14,7 +14,7 @@ Quelques exemples :
 
 L'objectif de ce cours sera de donner des clés de compréhension de ce type d'algorithmes à travers la réalisation d'un mini-prototype utilisant la classification d'images.
 
-## Lundi 18 novembre
+## Jeudi 11 décembre
 Ce cours est presque une transcription directe des vidéos en ligne de Daniel Shiffman sur le sujet. Je vous invite à consulter ces vidéos en ligne pour revoir les notions que nous allons voir aujourd'hui.
 
 * Révisions p5.js
@@ -31,10 +31,6 @@ Ce cours est presque une transcription directe des vidéos en ligne de Daniel Sh
 * [Daniel Shiffman / Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY)
 * [Daniel Shiffman / Webcam Image Classification](https://www.youtube.com/watch?v=D9BoBSkLvFo)
 * [Daniel Shiffman / Transfer learning with Feature Extractor](https://www.youtube.com/watch?v=kRpZ5OqUY6Y)
-
-## Jeudi 12 décembre
-
-## Vendredi 13 décembre
 
 
 ## Outils & liens
