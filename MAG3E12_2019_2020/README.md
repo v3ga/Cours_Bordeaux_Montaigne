@@ -3,6 +3,7 @@ Introduction « Machine Learning »
 ===============================================
 
 Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/) et [teachable machine](https://teachablemachine.withgoogle.com/)
+
 Ces techniques sont utilisées dans le domaine de l'intelligence artificielle pour donner la capacité à une machine programmable « d'apprendre » à partir d'un ensemble de données afin de réaliser des tâches automatiques de classification ou de prédiction par exemple. Nous nous familiarisons avec les notions de réseaux de neurones, d'apprentissage supervisé, ... et d'autres termes que vous avez peut-être entendu ici ou là et qui paraissent obscurs.
 
 Quelques exemples : 
@@ -51,7 +52,7 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
   * [Générateur de textes aléatoires](http://enneagon.org/phrases) *pas vraiment construit à l'aide d'un réseau de neurones mais bonne alternative au lorem ipsum*
 * Génération d'images : 
   * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer/)
-* Génération de texte à partir d'image : 
+* Génération d'image à partir de texte : 
   * [AttnGAN](https://github.com/taoxugit/AttnGAN)
 
 ### Services en ligne 
