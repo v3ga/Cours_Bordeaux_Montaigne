@@ -52,6 +52,7 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
   * [Générateur de textes aléatoires](http://enneagon.org/phrases) *pas vraiment construit à l'aide d'un réseau de neurones mais bonne alternative au lorem ipsum*
 * Génération d'images : 
   * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer/)
+  * [pix2pix](https://affinelayer.com/pixsrv/)
 * Génération d'image à partir de texte : 
   * [AttnGAN](https://github.com/taoxugit/AttnGAN)
 
