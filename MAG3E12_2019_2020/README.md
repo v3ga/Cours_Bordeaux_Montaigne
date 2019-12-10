@@ -43,16 +43,16 @@ Ce cours est presque une transcription directe des vidéos en ligne de Daniel Sh
 Un réseau de neurones est construit et dédié à réaliser une tâche particulière : classer des images, détecter des objets dans une image, générer des images, du texte, ... Voici quelques modèles :  
 
 * Détection d'objets : 
- * [YOLO](https://pjreddie.com/darknet/yolo/)
+  * [YOLO](https://pjreddie.com/darknet/yolo/)
 * Classification d'images : 
- * ResNet-50
+  * ResNet-50
 * Génération de texte : 
- * [GPT-2]
- * [Singe9]() *pas vraiment construit à l'aide d'un réseau de neurones mais bonne alternative au lorem ipsum*
+  * [GPT-2]
+  * [Singe9]() *pas vraiment construit à l'aide d'un réseau de neurones mais bonne alternative au lorem ipsum*
 * Génération d'images : 
- * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer/)
+  * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer/)
 * Génération de texte à partir d'image : 
- * [AttnGAN](https://github.com/taoxugit/AttnGAN)
+  * [AttnGAN](https://github.com/taoxugit/AttnGAN)
 
 ### Services en ligne 
 * Machine learning for creators [Runway ML](https://runwayml.com/)
