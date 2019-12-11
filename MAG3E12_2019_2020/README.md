@@ -71,3 +71,6 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
 * [Ctrl Shift Face](https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g) 
 * [Le Monde / Deepfake, faut-il avoir peur de ces vidéos trafiquées ? ](https://www.lemonde.fr/pixels/article/2019/11/24/deepfakes-faut-il-avoir-peur-de-ces-videos-trafiquees_6020333_4408996.html)
 
+### Images
+![Kyle McDonald](images/ML_examples_not_instructions.png)
+![ML_data_output_program_function.jpg](images/ML_data_output_program_function.jpg)
