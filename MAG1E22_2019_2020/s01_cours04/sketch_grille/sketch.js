@@ -9,6 +9,8 @@ var margin = 10; // espace en pixel autour des cases
 var wCell, hCell; // largeur et hauteur d'une case
 var wCV, hCV; // largeur et hauteur de la carte de visite à l'intérieur de la carte
 
+var subresx = 10;
+var subresy = 10;
 
 // ----------------------------------------------
 // Préchargement des médias
@@ -60,6 +62,18 @@ function draw()
 }
 
 // ----------------------------------------------
+function drawSubGrid(resx,resy,w,h)
+{
+	let wc = w/resx;
+	let hc = h/resy;
+
+	for (x=0;x<=w;x+=wc)
+		line(x,0,x,h);
+	for (y=0;y<=h;y+=hc)
+		line(0,y,w,y);
+}
+
+// ----------------------------------------------
 // Dessin d'une cellule
 function drawCell(i,j)
 {
@@ -70,13 +84,17 @@ function drawCell(i,j)
 	stroke(0,50);
 	rect(0,0,wCV,hCV);
 
+	drawSubGrid(subresx,subresy,wCV,hCV);
+
 	// Dessin d'un motif
 	// Pas de remplissage, contour noir
 	stroke(0);
 	fill(0);
 	ellipse(wCV/2,hCV/2,20,20);
-/*
-	noFill();
+
+
+
+/*	noFill();
 
 	var nbFigures = 12;
 	var nbTours = map(mouseX, 0, width, 1, 4);

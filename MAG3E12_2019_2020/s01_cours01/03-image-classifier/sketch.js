@@ -10,7 +10,7 @@ function setup()
 {
 	// Imprime dans la console la version de ml5.js
 	console.log("ml5 version : "+ml5.version)
-	// Création de l'élément canvas, taille 500 x 500 pixels
+	// Création de l'élément canvas, taille 540 x 480 pixels
 	createCanvas(540,480);
 	// Création du modèle
 	// Le deuxième paramètre est une fonction appelé lorsque le modèle est initialisé
