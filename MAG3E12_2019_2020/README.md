@@ -48,6 +48,7 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
   * [YOLO](https://pjreddie.com/darknet/yolo/)
 * Classification d'images : 
   * ResNet-50
+  * MobileNet, [liste des labels détectés](https://github.com/moxel/caffe-mobilenet/blob/master/labels.txt) 
 * Génération de texte : 
   * [GPT-2](https://www.01net.com/actualites/gpt-2-cette-intelligence-artificielle-pourrait-devenir-l-arme-ultime-des-trolls-1802378.html)
   * [Générateur de textes aléatoires](http://enneagon.org/phrases) *pas vraiment construit à l'aide d'un réseau de neurones mais bonne alternative au lorem ipsum*
@@ -70,6 +71,7 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
 ### Divers
 * [Ctrl Shift Face](https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g) 
 * [Le Monde / Deepfake, faut-il avoir peur de ces vidéos trafiquées ? ](https://www.lemonde.fr/pixels/article/2019/11/24/deepfakes-faut-il-avoir-peur-de-ces-videos-trafiquees_6020333_4408996.html)
+* [Le candidatron](https://twitter.com/LeCandidatron), basé sur [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
 
 ### Images
 ![Kyle McDonald](images/ML_examples_not_instructions.png)
