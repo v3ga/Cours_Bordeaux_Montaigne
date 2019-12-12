@@ -19,7 +19,7 @@ L'objectif de ce cours sera de donner des clés de compréhension de ce type d'a
 ### Sketches à télécharger
 * [s01_cours01.zip](s01_cours01.zip)
 
-## Jeudi 11 décembre
+## Mercredi 11 décembre
 Ce cours est presque une transcription directe des vidéos en ligne de Daniel Shiffman sur le sujet. Je vous invite à consulter ces vidéos en ligne pour (re)voir les notions que nous allons voir aujourd'hui.
 
 * Révisions p5.js
@@ -47,7 +47,7 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
 * Détection d'objets : 
   * [YOLO](https://pjreddie.com/darknet/yolo/)
 * Classification d'images : 
-  * ResNet-50
+  * ResNet50
   * MobileNet, [liste des labels détectés](https://github.com/moxel/caffe-mobilenet/blob/master/labels.txt) 
 * Génération de texte : 
   * [GPT-2](https://www.01net.com/actualites/gpt-2-cette-intelligence-artificielle-pourrait-devenir-l-arme-ultime-des-trolls-1802378.html)
@@ -76,3 +76,12 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
 ### Images
 ![Kyle McDonald](images/ML_examples_not_instructions.png)
 ![ML_data_output_program_function.jpg](images/ML_data_output_program_function.jpg)
+
+## Jeudi 12 décembre
+
+### Brief pour le rendu
+Imaginer une application basée sur un algorithme de reconnaissance visuelle en utilisant le service [teachable machine](https://teachablemachine.withgoogle.com/). 
+
+
+
+
