@@ -39,5 +39,5 @@ function gotFile(file)
 	console.log("gotFile");
 	img = createImg(file.data);
 	image(img,0,0,width,height);
-	img.hide();
+	// img.hide();
 }
