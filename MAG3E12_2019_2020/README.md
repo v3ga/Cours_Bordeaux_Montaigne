@@ -63,7 +63,7 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
  * [Runway ML + p5.js](https://learn.runwayml.com/#/networking/examples?id=p5js)
 
 ### Outils & liens
-* [ml5.js // Friendly Machine Learning for the web](https://ml5js.org/), librairie basée sur [tensorflow.js](https://www.tensorflow.org/js/?hl=fr)
+* [ml5.js // Friendly Machine Learning for the web](https://ml5js.org/), librairie basée sur [tensorflow.js](https://www.tensorflow.org/js/?hl=fr) + [exemples d'applications ml5.js](https://github.com/ml5js/ml5-examples/)
 * [teachable machine](https://teachablemachine.withgoogle.com/)
 * [teachable machine + p5.js](https://github.com/yining1023/teachable-machine-p5)
 * [ml4a - Machine Learning 4 Artists](https://ml4a.github.io/)
