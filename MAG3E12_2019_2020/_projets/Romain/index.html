@@ -1,0 +1,218 @@
+<div>Teachable Machine Image Model - p5.js and ml5.js</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.sound.min.js"></script>
+<script src="https://unpkg.com/ml5@0.4.3/dist/ml5.min.js"></script>
+<script type="text/javascript">
+
+  // ------------------------------------------------
+  // Classifier Variable
+  let classifier;
+
+  // ------------------------------------------------
+  // Model URL
+  let imageModelURL = './my_model/';
+  
+  // ------------------------------------------------
+  // Video
+  let video;
+  let flippedVideo;
+
+  // ------------------------------------------------
+  // To store the classification
+  let label = "";
+
+  // ------------------------------------------------
+  let listesong1 =
+  [
+    "Liste Romain/Romain.mp3",
+    "Liste Romain/Romain2.mp3"
+  ]
+  let indexSong1 = 0;
+  let song1 = [];
+
+  // ------------------------------------------------
+  let listesong2 =
+  [
+  "Liste Alex/Alex.mp3",
+  "Liste Alex/Alex2.mp3"
+  ]
+  let indexSong2 = 0;
+  let song2 = [];
+
+  // ------------------------------------------------
+  let listesong3 =
+  [
+  "Liste Jessie/Jessie.mp3",
+  "Liste Jessie/Jessie2.mp3"
+  ]
+  let indexSong3 = 0;
+  let song3 = [];
+
+  // ------------------------------------------------
+  let listesong4 = 
+   [
+  "Liste Elise/Elise.mp3",
+  "Liste Elise/Elise2.mp3"
+  ]
+  let indexSong4 = 0;
+  let song4 = [];
+
+  // ------------------------------------------------
+  let listesong5 = 
+  [
+    "Liste Neutre/Neutre.mp3",
+    "Liste Neutre/Neutre2.mp3"
+  ]
+  let indexSong5 = 0;
+  let song5 = [];
+
+  // ------------------------------------------------
+  let listesong6 =
+  [
+    "Liste Tiphaine/Tiphaine.mp3",
+    "Liste Tiphaine/Tiphaine2.mp3"
+  ]
+  let indexSong6 = 0;
+  let song6 = [];
+
+
+  // ------------------------------------------------
+  // Load the model first
+  function preload() 
+  {
+    classifier = ml5.imageClassifier(imageModelURL + 'model.json');
+    for (let i=0; i<listesong1.length; i++ )
+      song1.push(  loadSound( listesong1[i] ) );
+  }
+
+  // ------------------------------------------------
+  function setup() {
+    createCanvas(320, 260);
+    // Create the video
+    video = createCapture(VIDEO);
+    video.size(320, 240);
+    video.hide();
+
+    flippedVideo = ml5.flipImage(video)
+    // Start classifying
+    classifyVideo();
+  }
+
+  // ------------------------------------------------
+  function draw() 
+  {
+    background(0);
+    // Draw the video
+    image(flippedVideo, 0, 0);
+
+    // Draw the label
+    fill(255);
+    textSize(16);
+    textAlign(CENTER);
+    text(label, width / 2, height - 4);
+  }
+
+  // ------------------------------------------------
+  // Get a prediction for the current video frame
+  function classifyVideo() {
+    flippedVideo = ml5.flipImage(video)
+    classifier.classify(flippedVideo, gotResult);
+  }
+
+  // ------------------------------------------------
+  function stopList(song)
+  {
+      for (let i=0; i<song.length; i++ )
+        song[i].stop()
+  }
+
+  // ------------------------------------------------
+  // When we get a result
+  function gotResult(error, results) {
+    // If there is an error
+    if (error) {
+      console.error(error);
+      return;
+    }
+    // The results are in an array ordered by confidence.
+    // console.log(results[0]);
+    label = results[0].label;
+    if (label == "Romain")
+    {
+      stopList(song2);
+      stopList(song3);
+      stopList(song4);
+      stopList(song5);
+      stopList(song6);
+
+      // ********************************************************
+      if (song1[indexSong1].isPlaying() == false)
+      {
+        // Index du son suivant
+        indexSong1 = (indexSong1+1) % song1.length;
+        // Lecture du son 
+        song1[indexSong1].play();
+      }
+      // ********************************************************
+
+
+    }
+    else if (label == "Alex")
+    {
+      stopList(song1);
+      stopList(song3);
+      stopList(song4);
+      stopList(song5);
+      stopList(song6);
+
+ 
+    } 
+    else if (label == "Jessie")
+    {
+      stopList(song1);
+      stopList(song2);
+      stopList(song4);
+      stopList(song5);
+      stopList(song6);
+
+
+
+     }
+     else if (label == "Elise")
+    {
+      stopList(song1);
+      stopList(song2);
+      stopList(song3);
+      stopList(song5);
+      stopList(song6);
+
+  
+     }
+     else if (label == "Neutre")
+    {
+      stopList(song1);
+      stopList(song2);
+      stopList(song3);
+      stopList(song4);
+      stopList(song6);
+
+ 
+
+     }
+     else if (label == "Tiphaine")
+    {
+      stopList(song1);
+      stopList(song2);
+      stopList(song3);
+      stopList(song4);
+      stopList(song5);
+  
+
+     }
+    // Classifiy again!
+    classifyVideo();
+  }
+
+
+</script>
