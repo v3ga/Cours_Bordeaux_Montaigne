@@ -86,5 +86,7 @@ Imaginer une application basée sur un algorithme de reconnaissance visuelle en 
 * un document de deux pages comprenant le scénario et les éventuelles références de projet.
 * une courte vidéo de démonstration / explication du principe.
 
+Le projet peut se faire par groupe. 
+
 
 
