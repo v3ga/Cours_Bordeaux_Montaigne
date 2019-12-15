@@ -19,9 +19,9 @@ L'objectif de ce cours sera de donner des clés de compréhension de ce type d'a
 ### Sketches à télécharger
 * [s01_cours01.zip](s01_cours01.zip)
 
-## Mercredi 11 décembre 
-## Jeudi 12 décembre
-## Vendredi 13 décembre
+### Mercredi 11 décembre 
+### Jeudi 12 décembre
+### Vendredi 13 décembre
 Ce cours est presque une transcription directe des vidéos en ligne de Daniel Shiffman sur le sujet. Je vous invite à consulter ces vidéos en ligne pour (re)voir les notions que nous allons voir aujourd'hui.
 
 * Révisions p5.js
