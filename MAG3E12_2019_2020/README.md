@@ -19,7 +19,9 @@ L'objectif de ce cours sera de donner des clés de compréhension de ce type d'a
 ### Sketches à télécharger
 * [s01_cours01.zip](s01_cours01.zip)
 
-## Mercredi 11 décembre
+## Mercredi 11 décembre 
+## Jeudi 12 décembre
+## Vendredi 13 décembre
 Ce cours est presque une transcription directe des vidéos en ligne de Daniel Shiffman sur le sujet. Je vous invite à consulter ces vidéos en ligne pour (re)voir les notions que nous allons voir aujourd'hui.
 
 * Révisions p5.js
@@ -77,11 +79,12 @@ Un réseau de neurones est construit et dédié à réaliser une tâche particul
 ![Kyle McDonald](images/ML_examples_not_instructions.png)
 ![ML_data_output_program_function.jpg](images/ML_data_output_program_function.jpg)
 
-## Jeudi 12 décembre
 
 ### Brief pour le rendu
-Imaginer une application basée sur un algorithme de reconnaissance visuelle en utilisant le service [teachable machine](https://teachablemachine.withgoogle.com/). 
-
+Imaginer une application basée sur un algorithme de reconnaissance visuelle en utilisant le service [teachable machine](https://teachablemachine.withgoogle.com/). Sont attendus pour le rendu, **avant le dimanche 22 décembre**
+* dossier d'application.
+* un document de deux pages comprenant le scénario et les éventuelles références de projet.
+* une courte vidéo de démonstration / explication du principe.
 
 
 
