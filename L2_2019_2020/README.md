@@ -14,8 +14,10 @@ LAG4U6 // 2019-2020
 * [Design by Numbers](https://dbn.media.mit.edu/) de [John Maeda](https://maedastudio.com/)
 * [Ben Fry](https://www.benfry.com/) and [Casey Reas](http://reas.com/)
 
- ### Ressources
+![Processing IDE](_images/cours_01_processing_IDE.png)
 
+
+ ### Ressources
 **[Manuel Processing](https://fr.flossmanuals.net/processing/introduction/)**<br />
 
 **[Designing Programs par Mark Webster](https://designingprograms.bitbucket.io/)**<br />
@@ -23,3 +25,4 @@ LAG4U6 // 2019-2020
 
 **[Programming design systems par Rune Madsen](https://www.programmingdesignsystems.com/)** <br />
 « A free digital book that teaches a practical introduction to the new foundations of graphic design. By Rune Madsen. »
+
