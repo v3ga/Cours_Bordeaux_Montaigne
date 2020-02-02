@@ -46,6 +46,7 @@ J'entends par créativité une recherche graphique personelle et/ou interactive 
 * gestion des couleurs ([color](https://processing.org/reference/color_.html)) et des options de dessin([stroke](https://processing.org/reference/stroke_.html), [noStroke](https://processing.org/reference/noStroke_.html), [fill](https://processing.org/reference/fill_.html), [noFill](https://processing.org/reference/noFill_.html), [strokeWeight](https://processing.org/reference/strokeWeight_.html))
 * exporter / faire une capture d'écran avec la fonction [Processing / saveFrame](https://processing.org/reference/saveFrame_.html) et [p5js / save](https://p5js.org/reference/#/p5/save)
 
+![abstract](_images/cours02_sketch_00.png)
 ![montagnes](_images/cours02_sketch_01_montagnes.png)
 
 ### Références
