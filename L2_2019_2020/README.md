@@ -43,4 +43,27 @@ LAG4U6 // 2019-2020
   * avec la variable de temps [frameCount](https://processing.org/reference/frameCount_.html) et la fonction [millis()](https://processing.org/reference/millis_.html)
   * avec les variables [mouseX](https://processing.org/reference/mouseX.html) et [mouseY](https://processing.org/reference/mouseY.html) pour capter la position de la souris dans la fenêtre.  
 
+### Références
+* Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
+* Manuel Floss [FR] - [Dessiner / les évènements souris](https://fr.flossmanuals.net/processing/les-evenements-souris/)
+
+#### Exercice à rendre pour le lundi 10 février
+Choisir deux lettres de l'alphabet et les dessiner avec les contraintes suivantes : 
+* utiliser des formes géométriques. 
+* couleurs noir et blanc.
+* fenêtre hométhétique avec le format A4 ( par exemple size (420,600) )
+* avoir un gestionnaire de clavier qui exporte la lettre dans un fichier "A.png" pour la lettre A, "B.png" pour B , etc ...
+
+Je compte sur vous pour vous coordonner pour que l'on puisse constituer un abécédaire complet de A à Z sur les 2 classes de TD. Les créations seront présentées en ligne sur une page dédiée aux projets de cet UE. 
+
+À me remettre par e-mail pour **lundi 10 février avant midi** :  
+* 2 sketches processing, un pour chaque lettre contenant le code + export image pour chaque.
+* Le nom du sketch doit être **sketch_190218_nom_prenom**
+
+### Références pour l'exercice
+* [Lettrines](https://area03.bitbucket.io/alpha) par Mark Webster avec les étudiants de l'[ESAD Amiens](http://www.esad-amiens.fr/).
+* [Alphagraph](https://bitbucket.org/mwebster_/alphagraph), un outil développé avec Processing pour explorer typographies et formes graphiques.
+* [Generative typografie](http://generative-typografie.de/)
+* [Lettres de Laurent Malys](https://www.itsnicethat.com/articles/laurent-malys-digital-graphic-design-070219)
+* [Le Bifur de Cassandre](http://signes.org/set.php?id=47&retour=1929)
 
