@@ -61,6 +61,7 @@ Je compte sur vous pour vous coordonner pour que l'on puisse constituer un abéc
 * Le nom du sketch doit être **sketch_190218_nom_prenom**
 
 ### Références pour l'exercice
+* [Parametric](https://parametrictype.bitbucket.io/index.html) par Mark Webster à l'[ESAC](http://www.esac-cambrai.net/)
 * [Lettrines](https://area03.bitbucket.io/alpha) par Mark Webster avec les étudiants de l'[ESAD Amiens](http://www.esad-amiens.fr/).
 * [Alphagraph](https://bitbucket.org/mwebster_/alphagraph), un outil développé avec Processing pour explorer typographies et formes graphiques.
 * [Generative typografie](http://generative-typografie.de/)
