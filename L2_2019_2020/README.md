@@ -1,6 +1,19 @@
 LAG4U6 // 2019-2020
 ====================================
 
+### Barême pour les exercices / projets
+Pour les exercices que je vous donne, le barême est le suivant (sur 10)
+* **rendu en temps et en heure** :point_right: 1 point.
+* **respect de la consigne** :point_right: 3 points. 
+Le sketch doit être au bon format : 
+   * envoi du **dossier** de sketch avec le fichier .pde à l'intérieur + éventuellement les média associés.
+   * le nom du fichier .pde doit être le même que le nom du dossier
+   * les noms de sketches seront sous la forme **sketch_date_rendu_nom_prenom**. Exemple : exercice à rendre pour le 18 février :point_right: sketch_190218_dupond_marie
+   * envoi par e-mail, pas de wetransfer (merci).
+* **créativité** :point_right: 6 points. 
+J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe.
+
+
 ## Cours #01 — Introduction — 20 janvier
 * Présentation du travail de [2Roqs](http:www.2roqs.com) et du travail de designer d'interactions / créateurs numériques.
 * Présentation de l'environnement [Processing](http://www.processing.org) et de son « écosystème » (notamment [p5.js](https://p5js.org/))
