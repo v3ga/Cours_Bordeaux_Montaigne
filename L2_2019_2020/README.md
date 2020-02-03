@@ -74,7 +74,7 @@ Je compte sur vous pour vous coordonner pour que l'on puisse constituer un abéc
 
 À me remettre par e-mail pour **lundi 10 février avant midi** :  
 * 2 sketches processing, un pour chaque lettre contenant le code + export image pour chaque.
-* Le nom du sketch doit être **sketch_190218_nom_prenom**
+* Le nom du sketch doit être **sketch_200210_nom_prenom**
 
 ### Références pour l'exercice
 * [Parametric](https://parametrictype.bitbucket.io/index.html) par Mark Webster à l'[ESAC](http://www.esac-cambrai.net/)
