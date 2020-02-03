@@ -67,7 +67,7 @@ J'entends par créativité une recherche graphique personelle et/ou interactive 
 Choisir deux lettres de l'alphabet et les dessiner avec les contraintes suivantes : 
 * utiliser des formes géométriques. 
 * couleurs noir et blanc.
-* fenêtre hométhétique avec le format A4 ( par exemple size (420,600) )
+* taille de fenêtre en (400,400).
 * avoir un gestionnaire de clavier qui exporte la lettre dans un fichier "A.png" pour la lettre A, "B.png" pour B , etc ...
 
 Je compte sur vous pour vous coordonner pour que l'on puisse constituer un abécédaire complet de A à Z sur les 2 classes de TD. Les créations seront présentées en ligne sur une page dédiée aux projets de cet UE. 
