@@ -59,6 +59,14 @@ J'entends par créativité une recherche graphique personelle et/ou interactive 
   * avec la variable de temps [frameCount](https://processing.org/reference/frameCount_.html) et la fonction [millis()](https://processing.org/reference/millis_.html)
   * avec les variables [mouseX](https://processing.org/reference/mouseX.html) et [mouseY](https://processing.org/reference/mouseY.html) pour capter la position de la souris dans la fenêtre.  
 
+![abstract](_images/cours03_mouseX_mouseY.png)
+![montagnes](_images/cours03_random.png)
+
+### Sketches en ligne 
+* [Animation avec mouseX & mouseY](https://editor.p5js.org/v3ga/sketches/3wHO_Yl1)
+* [Animation avec random](https://editor.p5js.org/v3ga/sketches/xjVFR3bg)
+* [Animation avec frameCount](https://editor.p5js.org/v3ga/sketches/ytLIjyW_)
+
 ### Références
 * Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
 * Manuel Floss [FR] - [Dessiner / les évènements souris](https://fr.flossmanuals.net/processing/les-evenements-souris/)
