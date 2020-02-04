@@ -73,8 +73,8 @@ Choisir deux lettres de l'alphabet et les dessiner avec les contraintes suivante
 Je compte sur vous pour vous coordonner pour que l'on puisse constituer un abécédaire complet de A à Z sur les 2 classes de TD. Les créations seront présentées en ligne sur une page dédiée aux projets de cet UE. 
 
 À me remettre par e-mail pour **lundi 10 février avant midi** :  
-* 2 sketches processing, un pour chaque lettre contenant le code + export image pour chaque.
-* Le nom du sketch doit être **sketch_200210_nom_prenom**
+* 2 sketches p5.js, un pour chaque lettre contenant le code + export image pour chaque.
+* Le nom du sketch doit être **sketch_200210_nom_prenom_[lettre] ** , par exemple sketch_200210_dupont_marie_Z
 
 ### Références pour l'exercice
 * [Parametric](https://parametrictype.bitbucket.io/index.html) par Mark Webster à l'[ESAC](http://www.esac-cambrai.net/)
