@@ -60,7 +60,7 @@ J'entends par créativité une recherche graphique personelle et/ou interactive 
   * avec les variables [mouseX](https://processing.org/reference/mouseX.html) et [mouseY](https://processing.org/reference/mouseY.html) pour capter la position de la souris dans la fenêtre.  
 
 ![abstract](_images/cours03_mouseX_mouseY.png)
-![montagnes](_images/cours03_random.png)
+![montagnes](_images/cours03_random_rectangles.png)
 
 ### Sketches en ligne 
 * [Animation avec mouseX & mouseY](https://editor.p5js.org/v3ga/sketches/3wHO_Yl1)
