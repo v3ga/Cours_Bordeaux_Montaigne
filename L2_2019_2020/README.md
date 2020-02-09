@@ -92,3 +92,9 @@ Je compte sur vous pour vous coordonner pour que l'on puisse constituer un abéc
 * [Lettres de Laurent Malys](https://www.itsnicethat.com/articles/laurent-malys-digital-graphic-design-070219)
 * [Le Bifur de Cassandre](http://signes.org/set.php?id=47&retour=1929)
 
+
+## Cours #04 — Mémoriser — 10 février
+Notions de variables :
+* Chargement et affichage d'une [image](https://p5js.org/reference/#group-Image).
+* Utiliser les informations de couleur contenues dans une image via la fonction [get()](https://p5js.org/reference/#/p5/get) pour générer une composition « pointilliste »
+
