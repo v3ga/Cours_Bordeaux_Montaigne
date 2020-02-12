@@ -99,5 +99,13 @@ Introductions à la notion de variables :
 * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image
 * Utiliser les informations de couleur contenues dans une image via la fonction [get()](https://p5js.org/reference/#/p5/get) pour générer une composition « pointilliste »
 
+![image](_images/cours04_image.png)
+![pointillisme](_images/cours04_image_pointillisme.png)
+
+### Sketches en ligne
+* [Charger une image et l'afficher](https://editor.p5js.org/v3ga/sketches/2tXKQhjK)
+* [Pointillisme avec la souris](https://editor.p5js.org/v3ga/sketches/gpxTYj9G)
+* [Pointillisme « random »](https://editor.p5js.org/v3ga/sketches/QW7VJRfS)
+
 ### Références en ligne
 * [p5.js / Charger des images](http://www.lyceelecorbusier.eu/p5js/?p=2060)
