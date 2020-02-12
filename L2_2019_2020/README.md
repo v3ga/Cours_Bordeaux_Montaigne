@@ -82,7 +82,7 @@ Je compte sur vous pour vous coordonner pour que l'on puisse constituer un abéc
 
 À me remettre par e-mail pour **lundi 10 février avant midi** :  
 * 2 sketches p5.js, un pour chaque lettre contenant le code + export image pour chaque.
-* Le nom du sketch doit être **sketch_200210_nom_prenom_[lettre] ** , par exemple sketch_200210_dupont_marie_Z
+* Le nom du sketch doit être **sketch_200210_nom_prenom_[lettre]** , par exemple sketch_200210_dupont_marie_Z
 
 ### Références pour l'exercice
 * [Parametric](https://parametrictype.bitbucket.io/index.html) par Mark Webster à l'[ESAC](http://www.esac-cambrai.net/)
@@ -94,7 +94,10 @@ Je compte sur vous pour vous coordonner pour que l'on puisse constituer un abéc
 
 
 ## Cours #04 — Mémoriser — 10 février
-Notions de variables :
+Introductions à la notion de variables :
 * Chargement et affichage d'une [image](https://p5js.org/reference/#group-Image).
+* Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image
 * Utiliser les informations de couleur contenues dans une image via la fonction [get()](https://p5js.org/reference/#/p5/get) pour générer une composition « pointilliste »
 
+### Références en ligne
+* [p5.js / Charger des images](http://www.lyceelecorbusier.eu/p5js/?p=2060)
