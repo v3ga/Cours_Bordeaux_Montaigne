@@ -109,3 +109,11 @@ Introductions à la notion de variables :
 
 ### Références en ligne
 * [p5.js / Charger des images](http://www.lyceelecorbusier.eu/p5js/?p=2060)
+
+
+## Cours #05 — Modéliser — 17 février
+* Branchement / condition avec if 
+* Modélisation d'une bille rebondissante sur les bordures de la fenêtre : position, vitesse et conditions aux limites.
+* Programmation du jeu [Pong](https://www.youtube.com/watch?v=it0sf4CMDeM) avec le modèle de balle et de raquettes.
+
+
