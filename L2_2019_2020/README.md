@@ -1,6 +1,9 @@
 LAG4U6 // 2019-2020
 ====================================
 
+### exercice 10 février : Lettres programmées
+http://licence.designbordeaux.fr/LAG4U6/2019-2020/
+
 ### Barême pour les exercices / projets
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
 * **rendu en temps et en heure** :point_right: 1 point.
