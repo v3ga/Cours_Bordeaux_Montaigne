@@ -1,9 +1,6 @@
 LAG4U6 // 2019-2020
 ====================================
 
-### exercice 10 février : Lettres programmées
-http://licence.designbordeaux.fr/LAG4U6/2019-2020/
-
 ### Barême pour les exercices / projets
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
 * **rendu en temps et en heure** :point_right: 1 point.
@@ -16,6 +13,10 @@ Le sketch doit être au bon format :
 * **créativité** :point_right: 6 points. 
 J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe.
 
+#### Exercice 10 février : Lettres programmées
+http://licence.designbordeaux.fr/LAG4U6/2019-2020/
+
+![Lettres programmées](_images/01_exercice_typo.png)
 
 ## Cours #01 — Introduction — 20 janvier
 * Présentation du travail de [2Roqs](http:www.2roqs.com) et du travail de designer d'interactions / créateurs numériques.
