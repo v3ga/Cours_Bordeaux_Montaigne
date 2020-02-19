@@ -122,10 +122,21 @@ Introductions à la notion de variables :
 ![rebonds](_images/cours05_rebonds.png)
 ![pong](_images/cours05_pong_solitaire.png)
 
-
 ### Sketches en ligne
 * [Bille téléportation](https://editor.p5js.org/v3ga/sketches/wyu2_TwG)
 * [Bille avec rebonds](https://editor.p5js.org/v3ga/sketches/gpxTYj9G)
 * [Pong « solitaire »](https://editor.p5js.org/v3ga/sketches/L8Gv5DJ0)
 
+#### Exercice à rendre pour le dimanche 1er mars
+Réaliser un collage d'images (au moins trois) qui représente un visage. Pour cela, vous utiliserez autant de variables représentant une image que nécessaire : 
+* Les dimensions de la fenêtre seront carrées (800 x 800)
+* Vous implémenterez l'export d'une image à l'appui d'une touche sur le clavier, le nom de l'image devra être **Prénom_Nom.png**
+
+Merci de m'envoyer l'adresse de votre sketche en ligne et l'image par e-mail, de sorte que je puisse facilement mettre vos créations en ligne ensuite.
+
+
+Quelques exemples à regarder : 
+ * [Les collages de John Stezaker](http://www.laboiteverte.fr/les-collages-de-john-stezaker/)
+ * [Les collages de Louise Bedart](http://lbdanse.org/collages/)
+ 
 
