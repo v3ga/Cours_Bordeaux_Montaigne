@@ -10,7 +10,7 @@ Le sketch doit être au bon format :
    * les noms de sketches seront sous la forme **sketch_date_rendu_nom_prenom**. Exemple : exercice à rendre pour le 18 février :point_right: sketch_190218_dupond_marie
    * envoi par e-mail, **pas de wetransfer (merci)**.
 * **créativité** :point_right: 6 points. 
-J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe.
+J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe ou de références que vous trouvez en ligne.
 
 #### Exercice 10 février : Lettres programmées
 http://licence.designbordeaux.fr/LAG4U6/2019-2020/
