@@ -119,8 +119,8 @@ Introductions à la notion de variables :
 * Modélisation d'une bille rebondissante sur les bordures de la fenêtre : position, vitesse et conditions aux limites.
 * Programmation du jeu [Pong](https://www.youtube.com/watch?v=it0sf4CMDeM) avec le modèle de balle et de raquettes.
 
-![rebonds](_images/cour05_rebonds.png)
-![pong](_images/cour05_pong_solitaire.png)
+![rebonds](_images/cours05_rebonds.png)
+![pong](_images/cours05_pong_solitaire.png)
 
 
 ### Sketches en ligne
