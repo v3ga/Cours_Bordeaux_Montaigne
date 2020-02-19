@@ -6,10 +6,9 @@ Pour les exercices que je vous donne, le barême est le suivant (sur 10)
 * **rendu en temps et en heure** :point_right: 1 point.
 * **respect de la consigne** :point_right: 3 points. 
 Le sketch doit être au bon format : 
-   * envoi du **dossier** de sketch avec le fichier .pde à l'intérieur + éventuellement les média associés.
-   * le nom du fichier .pde doit être le même que le nom du dossier
+   * envoi de l'adresse du sketch en ligne sur [editor.p5.js](https://editor.p5js.org/)
    * les noms de sketches seront sous la forme **sketch_date_rendu_nom_prenom**. Exemple : exercice à rendre pour le 18 février :point_right: sketch_190218_dupond_marie
-   * envoi par e-mail, pas de wetransfer (merci).
+   * envoi par e-mail, **pas de wetransfer (merci)**.
 * **créativité** :point_right: 6 points. 
 J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe.
 
