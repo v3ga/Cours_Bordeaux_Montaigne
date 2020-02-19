@@ -124,7 +124,7 @@ Introductions à la notion de variables :
 
 
 ### Sketches en ligne
-* [Charger une image et l'afficher](https://editor.p5js.org/v3ga/sketches/2tXKQhjK)
+* [Bille téléportation](https://editor.p5js.org/v3ga/sketches/wyu2_TwG)
 * [Bille avec rebonds](https://editor.p5js.org/v3ga/sketches/gpxTYj9G)
 * [Pong « solitaire »](https://editor.p5js.org/v3ga/sketches/L8Gv5DJ0)
 
