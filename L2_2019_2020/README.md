@@ -20,7 +20,7 @@ http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 #### Exercice 1er mars : Visages
 http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 
-![Visages](_images/02_visages.png)
+![Visages](_images/02_exercice_visages.png)
 
 
 ## Cours #01 — Introduction — 20 janvier
