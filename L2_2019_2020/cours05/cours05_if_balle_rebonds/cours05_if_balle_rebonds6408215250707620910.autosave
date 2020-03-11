@@ -1,0 +1,40 @@
+float positionx = 200;
+float positiony = 200;
+float vitessex = 10.0;
+float vitessey = 5.0;
+float diametre = 20;
+
+void setup() 
+{
+  size(400, 400);
+  surface.setTitle("cours 05 / if / rebonds");
+}
+
+void draw() 
+{
+  positionx = positionx + vitessex;
+  positiony = positiony + vitessey;
+  diametre = mouseX;
+  // Rebond à droite
+  if (positionx > width)
+  {
+    vitessex = -vitessex;
+  }
+  // Rebond à gauche 
+  if (positionx < 0)
+  {
+    vitessex = -vitessex;
+  }
+  // Rebond en haut  
+  if (positiony < 0)
+  {
+    vitessey = -vitessey;
+  }
+  // Rebond en bas
+  if (positiony > height)
+  {
+    vitessey = -vitessey;
+  }
+  //noFill();
+  ellipse(positionx, positiony, diametre, diametre);
+}
