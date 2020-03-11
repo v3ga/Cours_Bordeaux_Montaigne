@@ -147,7 +147,14 @@ Quelques exemples à regarder :
 Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
 
 ## Cours #07 — Répéter — 9 mars
+* Révision de [la structure de controle if](https://fr.flossmanuals.net/processing/les-conditions/)
+* [Boucle for](https://fr.flossmanuals.net/processing/les-repetitions/) pour répéter une série d'instructions.
+* Utilisation d'une double boucle imbriquée pour paver l'espace avec un motif.
 
+### Sketches en ligne
+* [Boucle simple](https://editor.p5js.org/v3ga/sketches/apbjHUqJ)
+* [Boucles imbriquées](https://editor.p5js.org/v3ga/sketches/GZZaS50e)
 
-
-
+### Références
+* Manuel Floss [FR] - [Les répétitions](https://fr.flossmanuals.net/processing/les-repetitions/)
+* Casey Reas [EN] — [10 PRINT CHR$(205.5+RND(1))](http://reas.com/10_print/)
