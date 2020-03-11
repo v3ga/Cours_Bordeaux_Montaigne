@@ -17,6 +17,12 @@ http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 
 ![Lettres programmées](_images/01_exercice_typo.png)
 
+#### Exercice 1er mars : Visages
+http://licence.designbordeaux.fr/LAG4U6/2019-2020/
+
+![Visages](_images/02_visages.png)
+
+
 ## Cours #01 — Introduction — 20 janvier
 * Présentation du travail de [2Roqs](http:www.2roqs.com) et du travail de designer d'interactions / créateurs numériques.
 * Présentation de l'environnement [Processing](http://www.processing.org) et de son « écosystème » (notamment [p5.js](https://p5js.org/))
@@ -133,9 +139,15 @@ Réaliser un collage d'images (au moins trois) qui représente un visage. Pour c
 
 Merci de m'envoyer l'adresse de votre sketche en ligne et l'image par e-mail, de sorte que je puisse facilement mettre vos créations en ligne ensuite.
 
-
 Quelques exemples à regarder : 
  * [Les collages de John Stezaker](http://www.laboiteverte.fr/les-collages-de-john-stezaker/)
  * [Les collages de Louise Bedart](http://lbdanse.org/collages/)
  
+## Cours #06 — 2 mars
+Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
+
+## Cours #07 — Répéter — 9 mars
+
+
+
 
