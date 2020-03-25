@@ -1,6 +1,21 @@
 LAG4U6 // 2019-2020
 ====================================
 
+### Continuité pédagogique
+Les prochains cours se feront en ligne et si possible en classe entière. Voici le planning des prochains cours : 
+ * vendredi 27 mars de 10h30 à 12h30.
+ * lundi 30 mars de 10h30 à 12h30.
+ * lundi 6 avril de 10h30 à 12h30.
+ * lundi 13 avril de 10h30 à 12h30 en rattrapage du cours manqué du lundi 16 mars.
+ * mecredi 15 avril de 10h30 à 12h30.
+
+Pour assurer ces cours en ligne, j'ai opté pour :  
+  * [Google Meet](https://meet.google.com/). Les sessions seront enregistrées et placées en ligne pour ceux qui ne pourraient pas suivre ces cours.
+  * [Slack](https://slack.com/intl/fr-fr/) pour assurer un chat / questions en direct. 
+  
+Je vous demanderais pour suivre le cours en ligne de suivre avec un casque / micro si possible pour limiter le bruit ambiant. Vous pouvez enfin tester votre connexion avec le site suivant : https://www.speedtest.net/ Pour suivre, un débit au minimum de 10-15 Mbps semble correct. 
+ 
+
 ### Barême pour les exercices / projets
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
 * **rendu en temps et en heure** :point_right: 1 point.
