@@ -172,4 +172,11 @@ Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
 
 ### Références
 * Manuel Floss [FR] - [Les répétitions](https://fr.flossmanuals.net/processing/les-repetitions/)
-* Casey Reas [EN] — [10 PRINT CHR$(205.5+RND(1))](http://reas.com/10_print/)
+* Casey Reas [EN] — [10 PRINT CHR$(205.5+RND(1))](https://p5js.org/reference/#/p5/translate)
+
+## Cours #08 — Transformer — 27 mars
+* Révision de la boucle for et de la double boucle imbriquée : 
+  * étude de l'oeuvre ["Quatre éléments distribués au hasard" de Vera Molnar](https://www.centrepompidou.fr/cpv/resource/cez6op/rzEeXa)
+* Transformation via les fonctions [translate](https://p5js.org/reference/#/p5/translate), [rotate](https://p5js.org/reference/#/p5/rotate), [scale](https://p5js.org/reference/#/p5/scale) : 
+  * application à la création (simple) d'un spirographe.
+  
