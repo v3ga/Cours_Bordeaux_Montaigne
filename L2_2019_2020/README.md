@@ -180,6 +180,12 @@ Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
 * Transformation via les fonctions [translate](https://p5js.org/reference/#/p5/translate), [rotate](https://p5js.org/reference/#/p5/rotate), [scale](https://p5js.org/reference/#/p5/scale) : 
   * application à la création (simple) d'un spirographe.
 
+### Cours en ligne
+* [Partie 1](https://www.youtube.com/watch?v=y2Lp94sgfyU)
+* [Partie 2](https://www.youtube.com/watch?v=JzgGY900fhA)
+
 ### Sketches en ligne
 * [Quatre éléments](https://editor.p5js.org/v3ga/sketches/9fhiRVq_D)
 * [Spirographe](https://editor.p5js.org/v3ga/sketches/ziw896XJr)
+
+
