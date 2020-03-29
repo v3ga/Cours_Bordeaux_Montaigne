@@ -201,7 +201,8 @@ Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
 ## Cours #09 — Fonctions — 30 mars
 * Révisions des transformations : notions de push et pop.
 * Notions de fonction : définition et implémentation. 
-* utilisation dans le sketch de pavage du cours précédent. 
+  * utilisation dans le sketch de pavage du cours précédent. 
+* Ajout de controles pour ajuster les variables. 
 
 ### Références
 * [Les méthodes / fonctions](https://fr.flossmanuals.net/processing/les-methodes/)
