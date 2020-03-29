@@ -183,7 +183,6 @@ Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
 ![pong](_images/cours08_spirographe.png)
 ![rebonds](_images/cours08_quatre_elements.png)
 
-
 ### Cours en ligne
 * [Partie 1](https://www.youtube.com/watch?v=y2Lp94sgfyU)
 * [Partie 2](https://www.youtube.com/watch?v=JzgGY900fhA)
@@ -191,5 +190,9 @@ Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
 ### Sketches en ligne
 * [Quatre éléments](https://editor.p5js.org/v3ga/sketches/9fhiRVq_D)
 * [Spirographe](https://editor.p5js.org/v3ga/sketches/ziw896XJr)
+
+### Références
+* [Vera Molnar : Randomness](https://vimeo.com/372579247)
+
 
 
