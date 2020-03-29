@@ -192,12 +192,14 @@ Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
 * [Spirographe](https://editor.p5js.org/v3ga/sketches/ziw896XJr)
 
 ### Références
+* [Video / Coding Train : Nested loops](https://www.youtube.com/watch?v=1c1_TMdf8b8)
+* [Insta / eikun_0903](https://www.instagram.com/eikun_0903/)
 * [Designing Programs : Loops](https://designingprograms.bitbucket.io/pages/07_loops.html)
-* [Coding Train : Nested loops](https://www.youtube.com/watch?v=1c1_TMdf8b8)
 * [Vera Molnar : Randomness](https://vimeo.com/372579247)
 
+
 ## Cours #09 — Fonctions — 30 mars
-* Révisions des transformations : notions de push et pop
+* Révisions des transformations : notions de push et pop.
 * Notions de fonction : définition et implémentation. 
 * utilisation dans le sketch de pavage du cours précédent. 
 
