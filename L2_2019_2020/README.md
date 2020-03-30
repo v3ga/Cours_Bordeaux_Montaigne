@@ -202,11 +202,16 @@ Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
 * Révisions des transformations : notions de push et pop.
 * Notions de fonction : définition et implémentation. 
   * utilisation dans le sketch de pavage du cours précédent. 
-* Ajout de controles pour ajuster les variables. 
+* Ajout de controles pour ajuster certaines variables. 
 
 ### Références
 * [Les méthodes / fonctions](https://fr.flossmanuals.net/processing/les-methodes/)
 * [Designing Programs : Functions](https://designingprograms.bitbucket.io/pages/05_functions.html)
+
+### Sketches en ligne
+* [Fonctions](https://editor.p5js.org/v3ga/sketches/qu-SPJvD2E)
+* [Trois éléments](https://editor.p5js.org/v3ga/sketches/qkPfb8CBF)
+* [Controles](https://editor.p5js.org/v3ga/sketches/OkqYo12_4)
 
 
 
