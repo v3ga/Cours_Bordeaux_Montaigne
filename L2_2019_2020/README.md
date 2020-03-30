@@ -204,6 +204,10 @@ Ce cours a été reporté au mercredi 15 avril, de 8h30 à 12h30.
   * utilisation dans le sketch de pavage du cours précédent. 
 * Ajout de controles pour ajuster certaines variables. 
 
+![croix](_images/cours09_croix.png)
+![grille](_images/cours09_trois_elements.png)
+
+
 ### Cours en ligne
 https://www.youtube.com/watch?v=BHYu86rO11U
 
