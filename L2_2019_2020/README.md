@@ -221,6 +221,8 @@ Vous définirez 4 fonctions graphiques sur le modèle de la fonction croix que n
 Sur la méthode de travail, n'hésitez pas à dessiner / faire un croquis des motifs que vous voulez réaliser par code sur une feuille de papier et à les tester dans des sketchs séparés avant de les reporter dans le code de la grille.  
 N'oubliez pas d'exporter une image de votre composition ! 
 
+Voici le template en ligne sur lequel vous pouvez vous baser : https://editor.p5js.org/v3ga/sketches/LcbLmijLO
+
 Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par e-mail.
 
 
