@@ -216,7 +216,10 @@ https://www.youtube.com/watch?v=BHYu86rO11U
 * [Trois éléments](https://editor.p5js.org/v3ga/sketches/qkPfb8CBF)
 * [Controles](https://editor.p5js.org/v3ga/sketches/OkqYo12_4)
 
+#### Exercice à rendre pour le dimanche 5 avril
+Vous définirez 4 fonctions graphiques sur le modèle de la fonction croix que nous avons étudié lors de ce cours pour les utiliser dans le modèle de grille que nous avons développé sur ces deux derniers cours. Vous être libre sur le choix des motifs (lignes, formes pleines, couleurs). Vous exporterez une image de votre composition.
 
+Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par e-mail.
 
 
 
