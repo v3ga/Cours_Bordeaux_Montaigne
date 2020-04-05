@@ -240,8 +240,8 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 * Création de boucle .gif avec [la librairie createLoop](https://www.npmjs.com/package/p5.createloop)
 
 ### Sketches en ligne
-* [Fonction sinus illustrée]()
-* [Template pour la création d'un gif]()
+* [Fonction sinus illustrée](https://editor.p5js.org/v3ga/sketches/dAwtCDHRy)
+* [Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
 
 ### Références
 * [Dave "Bees and Bombs"](https://www.instagram.com/davebeesbombs/)
