@@ -241,6 +241,7 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 
 ### Sketches en ligne
 * [Fonction sinus illustrée](https://editor.p5js.org/v3ga/sketches/dAwtCDHRy)
+* [Déphasage sinus](https://editor.p5js.org/v3ga/sketches/NFdWHj1mK)
 * [Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
 
 ### Références
