@@ -233,8 +233,8 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 ## Cours #10 — Animer — 6 avril
 * Révision de la notion de fonction.
 * Notion de **temps** dans un sketch 
-  * variable prédéfinie [frameCount]((https://p5js.org/reference/#/p5/frameCount))
-  * fonction [millis()]((https://p5js.org/reference/#/p5/millis))
+  * variable prédéfinie [frameCount](https://p5js.org/reference/#/p5/frameCount)
+  * fonction [millis()](https://p5js.org/reference/#/p5/millis)
   * application avec la fonction *croix()* vue la semaine dernière.
 * Présentation de [la fonction sinus](https://p5js.org/examples/math-sine-wave.html), application avec en entrée le temps pour obtenir des variables dont la valeur « boucle ».
 * Création de boucle .gif avec [la librairie createLoop](https://www.npmjs.com/package/p5.createloop)
