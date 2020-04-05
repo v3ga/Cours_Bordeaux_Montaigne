@@ -244,7 +244,8 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 * [Template pour la création d'un gif]()
 
 ### Références
-
+* [Dave "Bees and Bombs"](https://www.instagram.com/davebeesbombs/)
+* [Étienne Jacob](https://www.instagram.com/etinjcb/)
 
 ### Cours en ligne
 *À venir*
