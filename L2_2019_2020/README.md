@@ -245,6 +245,7 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 * [Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
 
 ### Références
+* [Mark Webster / Programs - Harmonic motion](https://dpmanual.bitbucket.io/pages/programs.html)
 * [Dave "Bees and Bombs"](https://www.instagram.com/davebeesbombs/)
 * [Étienne Jacob](https://www.instagram.com/etinjcb/)
 
