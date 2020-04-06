@@ -239,6 +239,9 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 * Présentation de [la fonction sinus](https://p5js.org/examples/math-sine-wave.html), application avec en entrée le temps pour obtenir des variables dont la valeur « boucle ».
 * Création de boucle .gif avec [la librairie createLoop](https://www.npmjs.com/package/p5.createloop)
 
+![croix_rotation](_images/cours10_croix_animation.png)
+![sinus](_images/cours10_sinus.png)
+
 ### Sketches en ligne
 * [Fonction sinus illustrée](https://editor.p5js.org/v3ga/sketches/dAwtCDHRy)
 * [Déphasage sinus](https://editor.p5js.org/v3ga/sketches/NFdWHj1mK)
