@@ -256,4 +256,4 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 * [Étienne Jacob](https://www.instagram.com/etinjcb/)
 
 ### Cours en ligne
-*À venir*
+https://www.youtube.com/watch?v=abVN596ok8s
