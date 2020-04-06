@@ -36,7 +36,11 @@ http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 
 ![Visages](_images/02_exercice_visages.png)
+http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 
+#### Exercice 5 avril : Grilles
+
+![Grilles](_images/03_exercice_grilles.png)
 
 ## Cours #01 — Introduction — 20 janvier
 * Présentation du travail de [2Roqs](http:www.2roqs.com) et du travail de designer d'interactions / créateurs numériques.
