@@ -245,7 +245,9 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 ### Sketches en ligne
 * [Fonction sinus illustrée](https://editor.p5js.org/v3ga/sketches/dAwtCDHRy)
 * [Déphasage sinus](https://editor.p5js.org/v3ga/sketches/NFdWHj1mK)
+* [Ligne de croix](https://editor.p5js.org/v3ga/sketches/h8QTYSkyd)
 * [Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
+
 
 ### Références
 * [Mark Webster / Programs - Harmonic motion](https://dpmanual.bitbucket.io/pages/programs.html)
