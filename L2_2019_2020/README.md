@@ -36,9 +36,9 @@ http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 
 ![Visages](_images/02_exercice_visages.png)
-http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 
 #### Exercice 5 avril : Grilles
+http://licence.designbordeaux.fr/LAG4U6/2019-2020/
 
 ![Grilles](_images/03_exercice_grilles.png)
 
