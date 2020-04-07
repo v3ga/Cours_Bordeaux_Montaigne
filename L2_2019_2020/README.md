@@ -267,9 +267,8 @@ L'idée est de reprendre un sketch des sketchs suivants pour produire une impres
  * Grilles de motifs (template : https://editor.p5js.org/v3ga/sketches/LcbLmijLO )  
  * Spirographe (template  : https://editor.p5js.org/v3ga/sketches/B8j6xEquP)
  
-Bien entendu une compsoition « libre » est tout à fait possible. La contrainte majeure sera de dessiner avec simplement des lignes de couleur noire. L'impression se fera sur un format type carte postale que je pourrais vous envoyer par voie postale. À cet effet j'ai mis en ligne un document pour que vous puissize renseigner votre adresse postale (si vous le souhaitez). 
-J'ai placé la dernière séance au lundi 20 avril, je mettrai en place un système qui permettra de filmer les impressions de chacun et de vous montrer le fonctionnement du traceur.
-
-
+Bien entendu une compsoition « libre » est tout à fait possible. 
+La contrainte majeure sera de **dessiner avec simplement des lignes de couleur noire**. L'impression se fera sur un format type carte postale que je pourrais vous envoyer par voie postale. À cet effet j'ai mis en ligne un document pour que vous puissiez renseigner votre adresse postale (si vous le souhaitez). Je vous ai envoyé l'adresse du document par e-mail. 
+J'ai placé la dernière séance au lundi 20 avril, je mettrai en place un système qui permettra de filmer les impressions de chacun et de vous montrer le fonctionnement du traceur. Ce projet sera évalué sur les mêmes critères que pour un exercice. **Les sketches seront à rendre pour le vendredi 17 avril** de sorte que j'ai le temps de préparer les fichiers à imprimer.
 Ce projet pourra se faire par binôme mais ce n'est pas obligatoire. 
 
