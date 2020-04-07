@@ -274,3 +274,7 @@ J'ai placé la dernière séance au lundi 20 avril, je mettrai en place un syst�
 
 Ce projet pourra se faire par binôme mais ce n'est pas obligatoire. 
 
+#### Références 
+https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/L2_2018_2019#r%C3%A9f%C3%A9rences-7
+
+
