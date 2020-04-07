@@ -7,7 +7,7 @@ Les prochains cours se feront en ligne et si possible en classe entière. Voici 
  * lundi 30 mars de 10h30 à 12h30.
  * lundi 6 avril de 10h30 à 12h30.
  * lundi 13 avril de 10h30 à 12h30 en rattrapage du cours manqué du lundi 16 mars.
- * mecredi 15 avril de 10h30 à 12h30.
+ * lundi 20 avril de 10h30 à 12h30.
 
 Pour assurer ces cours en ligne, j'ai opté pour :  
   * [Google Meet](https://meet.google.com/). Les sessions seront enregistrées et placées en ligne pour ceux qui ne pourraient pas suivre ces cours.
@@ -261,3 +261,15 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 
 ### Cours en ligne
 https://www.youtube.com/watch?v=abVN596ok8s
+
+### Projet de fin de semestre
+L'idée est de reprendre un sketch des sketchs suivants pour produire une impression avec le traceur [Axidraw](https://axidraw.com/) : 
+ * Grilles de motifs (template : https://editor.p5js.org/v3ga/sketches/LcbLmijLO )  
+ * Spirographe (template  : https://editor.p5js.org/v3ga/sketches/B8j6xEquP)
+ 
+Bien entendu une compsoition « libre » est tout à fait possible. La contrainte majeure sera de dessiner avec simplement des lignes de couleur noire. L'impression se fera sur un format type carte postale que je pourrais vous envoyer par voie postale. À cet effet j'ai mis en ligne un document pour que vous puissize renseigner votre adresse postale (si vous le souhaitez). 
+J'ai placé la dernière séance au lundi 20 avril, je mettrai en place un système qui permettra de filmer les impressions de chacun et de vous montrer le fonctionnement du traceur.
+
+
+Ce projet pourra se faire par binôme mais ce n'est pas obligatoire. 
+
