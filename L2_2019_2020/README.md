@@ -249,6 +249,7 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 ### Sketches en ligne
 * [Boucle for + croix + rotation](https://editor.p5js.org/v3ga/sketches/9i080z3uR)
 * [Fonction sinus illustrée](https://editor.p5js.org/v3ga/sketches/dAwtCDHRy)
+  * [Illustration déphasage](https://editor.p5js.org/v3ga/sketches/vEaHQXXyc)
   * [Déphasage cercles](https://editor.p5js.org/v3ga/sketches/NFdWHj1mK)
   * [Déphasage croix](https://editor.p5js.org/v3ga/sketches/h8QTYSkyd)
 * [Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
