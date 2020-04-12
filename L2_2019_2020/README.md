@@ -265,10 +265,10 @@ https://www.youtube.com/watch?v=abVN596ok8s
 
 ## Cours #11 — Animer (bis) — 13 avril
 * Révision des notions de la semaine passée : 
-  * notamment avec ce sketch qui illustre « mieux » la notion de phase : https://editor.p5js.org/v3ga/sketches/vEaHQXXyc
-* Présentation de la fonction **noise()**
+  * sinus / phases, notamment avec ce sketch qui illustre « mieux » ces notions appliquées à des éléments graphiques : https://editor.p5js.org/v3ga/sketches/vEaHQXXyc
 * Création de boucle .gif avec [la librairie createLoop](https://www.npmjs.com/package/p5.createloop)
-  * études d'exemples.
+* Tableaux : 
+  * application à un système de particules.
 
 
 ### Sketches en ligne
