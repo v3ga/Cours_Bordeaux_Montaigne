@@ -263,6 +263,17 @@ Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par 
 ### Cours en ligne
 https://www.youtube.com/watch?v=abVN596ok8s
 
+## Cours #11 — Animer (bis) — 13 avril
+* Révision des notions de la semaine passée : 
+  * notamment avec ce sketch qui illustre « mieux » la notion de phase : https://editor.p5js.org/v3ga/sketches/vEaHQXXyc
+* Présentation de la fonction **noise()**
+* Création de boucle .gif avec [la librairie createLoop](https://www.npmjs.com/package/p5.createloop)
+  * études d'exemples.
+
+
+### Sketches en ligne
+* [Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
+
 ### Projet de fin de semestre
 L'idée est de reprendre un sketch des sketchs suivants pour produire une impression avec le traceur [Axidraw](https://axidraw.com/) : 
  * Grilles de motifs (template : https://editor.p5js.org/v3ga/sketches/LcbLmijLO )  
