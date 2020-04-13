@@ -269,6 +269,19 @@ https://www.youtube.com/watch?v=abVN596ok8s
 * Création de boucle .gif avec [la librairie createLoop](https://www.npmjs.com/package/p5.createloop)
 * Tableaux : 
   * application à un système de particules.
+  * code pour le rebond des particules (à copier / coller)
+  
+  ```
+  if (positionx < 0 || positionx > width)
+  {
+    vitessex = -vitessex;
+  }
+  // Rebond en haut  
+  if (positiony < 0 || positiony > height)
+  {
+    vitessey = -vitessey;
+  }
+  ```
 
 
 ### Sketches en ligne
