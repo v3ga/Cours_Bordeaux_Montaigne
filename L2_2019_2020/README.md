@@ -270,8 +270,6 @@ https://www.youtube.com/watch?v=abVN596ok8s
 * Tableaux : 
   * application à un système de particules.
   * code pour le rebond des particules (à copier / coller)
-  
-  
   ```
   if (positionx < 0 || positionx > width)  // rebond à droite OU à gauche du canvas
   {
@@ -282,7 +280,7 @@ https://www.youtube.com/watch?v=abVN596ok8s
     vitessey = -vitessey;
   }
   ```
-
+* un peu de 3D avec le mode WEBGL
 
 ### Sketches en ligne
 * [Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
