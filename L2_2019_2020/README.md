@@ -271,13 +271,13 @@ https://www.youtube.com/watch?v=abVN596ok8s
   * application à un système de particules.
   * code pour le rebond des particules (à copier / coller)
   
+  
   ```
-  if (positionx < 0 || positionx > width)
+  if (positionx < 0 || positionx > width)  // rebond à droite OU à gauche du canvas
   {
     vitessex = -vitessex;
   }
-  // Rebond en haut  
-  if (positiony < 0 || positiony > height)
+  if (positiony < 0 || positiony > height) // rebond en haut OU en bas du canvas
   {
     vitessey = -vitessey;
   }
