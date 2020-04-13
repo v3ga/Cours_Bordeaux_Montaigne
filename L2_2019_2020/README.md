@@ -282,6 +282,9 @@ https://www.youtube.com/watch?v=abVN596ok8s
   ```
 * un peu de 3D avec le mode WEBGL
 
+### Cours en ligne
+https://www.youtube.com/watch?v=FrIBdWVe5NE
+
 ### Sketches en ligne
 * [Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
 
