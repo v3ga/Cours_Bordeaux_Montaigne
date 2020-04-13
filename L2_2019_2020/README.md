@@ -280,7 +280,8 @@ https://www.youtube.com/watch?v=abVN596ok8s
     vitessey = -vitessey;
   }
   ```
-* un peu de 3D avec le mode WEBGL
+![Gif](_images/cours11_grid_loop.gif)
+
 
 ### Cours en ligne
 https://www.youtube.com/watch?v=FrIBdWVe5NE
