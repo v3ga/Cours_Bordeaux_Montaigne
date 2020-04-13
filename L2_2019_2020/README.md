@@ -281,15 +281,21 @@ https://www.youtube.com/watch?v=abVN596ok8s
   }
   ```
 ![Gif](_images/cours11_grid_loop.gif)
+![Particules](_images/cours11_systeme_particules_connexions.png)
 
 
 ### Cours en ligne
 https://www.youtube.com/watch?v=FrIBdWVe5NE
 
 ### Sketches en ligne
-* [Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
+* [.gif / Template pour la création d'un gif](https://editor.p5js.org/v3ga/sketches/yHWOtdhlA)
+* [.gif / Template pour la création d'un gif / grille](https://editor.p5js.org/v3ga/sketches/uJeglOYhU)
+* [.gif / grille de lignes](https://editor.p5js.org/v3ga/sketches/UHb3EXBju)
+* [Tableau : introduction]()
+* [Tableau : système de particules](https://editor.p5js.org/v3ga/sketches/HbpmEVc_v)
+* [Tableau : système de particules + connexions](https://editor.p5js.org/v3ga/sketches/ZROCy7Kk5)
 
-### Projet de fin de semestre
+## Projet de fin de semestre
 L'idée est de reprendre un sketch des sketchs suivants pour produire une impression avec le traceur [Axidraw](https://axidraw.com/) : 
  * Grilles de motifs (template : https://editor.p5js.org/v3ga/sketches/LcbLmijLO )  
  * Spirographe (template  : https://editor.p5js.org/v3ga/sketches/B8j6xEquP)
