@@ -319,13 +319,14 @@ https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/L2_2018_2019#r%C3%A
 
 ![axidraw](_images/cours12_axidraw_productions_01.jpg)
 
-
 ### Vidéos en ligne
+https://www.youtube.com/watch?v=IT9dcN6X7ag
 
 ### Références
 * [Axidraw](https://axidraw.com/)
 * [Generative Hut](https://www.generativehut.com/)
   * [Tutorial Arnaud Pfeffer](https://www.generativehut.com/post/plotter-drawing-don-t-forget-the-tool) + [video StudentDesign](https://www.youtube.com/watch?v=TWlG0cjhs8Y)
 * [Creative Applications](https://www.creativeapplications.net/)
+* Réseaux sociaux : [#axidraw sur Instagram](https://www.instagram.com/explore/tags/axidraw/) et [#plottertwitter sur Twitter](https://twitter.com/search?q=%23plottertwitter)
 
 
