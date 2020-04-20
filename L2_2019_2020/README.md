@@ -315,3 +315,17 @@ Ce projet pourra se faire par binôme mais ce n'est pas obligatoire.
 #### Références 
 https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/L2_2018_2019#r%C3%A9f%C3%A9rences-7
 
+## Cours #12 — Imprimer — 20 avril
+
+![axidraw](_images/cours12_axidraw_productions_01.jpg)
+
+
+### Vidéos en ligne
+
+### Références
+* [Axidraw](https://axidraw.com/)
+* [Generative Hut](https://www.generativehut.com/)
+  * [Tutorial Arnaud Pfeffer](https://www.generativehut.com/post/plotter-drawing-don-t-forget-the-tool) + [video StudentDesign](https://www.youtube.com/watch?v=TWlG0cjhs8Y)
+* [Creative Applications](https://www.creativeapplications.net/)
+
+
