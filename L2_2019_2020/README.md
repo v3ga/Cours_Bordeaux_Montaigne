@@ -329,4 +329,7 @@ https://www.youtube.com/watch?v=IT9dcN6X7ag
 * [Creative Applications](https://www.creativeapplications.net/)
 * Réseaux sociaux : [#axidraw sur Instagram](https://www.instagram.com/explore/tags/axidraw/) et [#plottertwitter sur Twitter](https://twitter.com/search?q=%23plottertwitter)
 
+## Notes
+https://github.com/v3ga/Cours_Bordeaux_Montaigne/blob/master/L2_2019_2020/_notes/LAG4U6_2020_notes.pdf
+
 
