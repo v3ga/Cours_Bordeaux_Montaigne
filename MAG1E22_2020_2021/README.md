@@ -18,6 +18,7 @@ Sur une note plus ludique en fin de semestre, une introduction sera faite aux te
      * gestionnaires [setup()](https://p5js.org/reference/#/p5/setup) et [draw()](https://p5js.org/reference/#/p5/draw)
      * variables / fonctions / boucles / conditions
 * Présentation des formats de données [CSV](https://fr.wikipedia.org/wiki/Comma-separated_values) et [JSON](https://fr.wikipedia.org/wiki/JavaScript_Object_Notation).     
+* Chargement d'un fichier au format csv, accès aux données :point_right: https://editor.p5js.org/v3ga/sketches/6dIdaFTC8
 
 #### Pour lundi 16 novembre
 * former des groupes de 3 personnes maximum pour le projet de visualisation de données. Merci de m'envoyer la liste des groupes par e-mail.
