@@ -17,6 +17,11 @@ Sur une note plus ludique en fin de semestre, une introduction sera faite aux te
   * (ré)visions des bases de programmation vues avec [Processing](https://processing.org/)
      * gestionnaires [setup()](https://p5js.org/reference/#/p5/setup) et [draw()](https://p5js.org/reference/#/p5/draw)
      * variables / fonctions / boucles / conditions
+* Présentation des formats de données [CSV](https://fr.wikipedia.org/wiki/Comma-separated_values) et [JSON](https://fr.wikipedia.org/wiki/JavaScript_Object_Notation).     
+
+#### Pour lundi 16 novembre
+* former des groupes de 3 personnes maximum pour le projet de visualisation de données. Merci de m'envoyer la liste des groupes par e-mail.
+* Identifier sur le portail [OpenData de Bordeaux](https://opendata.bordeaux-metropole.fr/) un ou plusieurs jeux de données (idéalement qui se combinent) pour réaliser une mini-application de data-visualisation.
 
 ### Références
 * [Site p5.js](https://p5js.org/)
