@@ -1,8 +1,12 @@
 MAG1E22 — 2020
 ===============================================
 
+:point_right: **Dossier des sketches vus en cours** :point_left:<br /> 
+[https://editor.p5js.org/v3ga/collections/eQTmOS6Ba](https://editor.p5js.org/v3ga/collections/eQTmOS6Ba) 
+
 Ce cours (24h) aura pour but de se familiariser avec la programmation dans un contexte web avec les outils de l'écosystème [p5.js](https://p5js.org/), et d'entrevoir les possibilités de réalisation / production d'outils dans le cadre de vos projets.
-Nous explorerons en particulier le domaine de la visualisation de données en exploitant les possibilités du [portail OpenData](https://opendata.bordeaux-metropole.fr/) de Bordeaux Métropole.
+Nous explorerons en particulier le domaine de la visualisation de données en exploitant les possibilités du [portail OpenData](https://opendata.bordeaux-metropole.fr/) de Bordeaux Métropole.<br /><br />
+Sur une note plus ludique en fin de semestre, une introduction sera faite aux techniques de "machine learning" par le biais de la librairie [ml5.js](https://ml5js.org/) pour créer un filtre personnalisé réagissant aux traits de votre visage pour être utilisé en ligne sur des systèmes de visio. (Zoom, etc...) :point_right: https://thecodingtrain.com/CodingChallenges/157-zoom-annotations.html
 
 
 ## Cours #01 — lundi 02 novembre 2020
