@@ -15,6 +15,7 @@ Quelques exemples de services utilisant ces techniques :
 
 L'objectif de ce cours sera de donner des clés de compréhension de ce type d'algorithmes à travers la réalisation d'un mini-prototype utilisant la classification d'images.
 
+## Lundi 16 novembre
 La première session de ce cours sera consacrée à des révisions sur l'environnement p5.js et les principes de programmation, indispensables avant de se jeter dans le vif du sujet.
 
 * Révisions p5.js
