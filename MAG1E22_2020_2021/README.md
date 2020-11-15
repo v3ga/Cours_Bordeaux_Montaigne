@@ -33,7 +33,13 @@ Sur une note plus ludique en fin de semestre, une introduction sera faite aux te
 * [Debugging! p5.js](https://p5js.org/learn/debugging.html)
 * [Designing programs par Mark Webster](https://designingprograms.bitbucket.io)
 
-## Cours #03 — lundi 16 novembre 2020 
+## Cours #03 — lundi 16 novembre 2020
+* Parcours des données .csv par une boucle : traitement en série, traduction graphique des informations. Exemple avec la liste des prénoms sur la commune de Talence, on va compléter le sketch étudié la semaine dernière :point_right: https://editor.p5js.org/v3ga/sketches/6dIdaFTC8
+* Intégration d'une carte dans un sketch par une librairie additionnelle [mappa.js](https://mappa.js.org/)
+  * structure d'une page web, intégration de blocs d'informations dans le HTML de la page.
+  * ajout d'informations géolocalisées extraites depuis un fichier .csv
+    * à choisir sur https://opendata.bordeaux-metropole.fr/pages/accueil/
+  * mise en ligne par le biais d'un client FTP ([Filezilla](https://filezilla-project.org/)) sur le serveur web du master sur un espace dédié.
 
 ## Cours #04 — lundi 23 novembre 2020 
 
