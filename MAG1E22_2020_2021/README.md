@@ -41,6 +41,14 @@ Sur une note plus ludique en fin de semestre, une introduction sera faite aux te
     * à choisir sur https://opendata.bordeaux-metropole.fr/pages/accueil/
   * mise en ligne par le biais d'un client FTP ([Filezilla](https://filezilla-project.org/)) sur le serveur web du master sur un espace dédié.
 
+#### Transformer une donnée de position .csv en position 
+```
+function getPosition(geoPoint)
+{
+  return geoPoint.split(",").map()  
+}
+```
+
 ## Cours #04 — lundi 23 novembre 2020 
 
 ## Cours #05 — lundi 30 novembre 2020 
