@@ -45,6 +45,23 @@ Sur une note plus ludique en fin de semestre, une introduction sera faite aux te
 * Serveur : 7x6pk.ftp.infomaniak.com
 * Utilisateur : 7x6pk_etudiants
 
+#### Intégrer la librairie mappa.ps à un projet p5.js
+Dans l'éditeur p5.js en ligne, ouvrir le fichier index.html et ajouter dans la balise <head> la ligne suivante qui permet d'importer la librairie : 
+```
+<script src="https://unpkg.com/mappa-mundi@0.0.5/dist/mappa.js" type="text/javascript"></script>
+```
+Au final vous devriez avoir ceci : 
+```
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
+    <script src="https://unpkg.com/mappa-mundi@0.0.5/dist/mappa.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+</head> 
+```
+
+
 #### Transformer une donnée de position .csv en position 
 ```
 function getPosition(geoPoint)
