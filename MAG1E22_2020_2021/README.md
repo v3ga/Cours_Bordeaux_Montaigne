@@ -41,6 +41,9 @@ Sur une note plus ludique en fin de semestre, une introduction sera faite aux te
     * à choisir sur https://opendata.bordeaux-metropole.fr/pages/accueil/
   * mise en ligne par le biais d'un client FTP ([Filezilla](https://filezilla-project.org/)) sur le serveur web du master sur un espace dédié.
 
+![Carte des composteurs](images/201117_MAG1E22_cours03_carte.png)
+
+
 #### Connexion FTP
 * Serveur : 7x6pk.ftp.infomaniak.com
 * Utilisateur : 7x6pk_etudiants
