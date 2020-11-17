@@ -2,6 +2,9 @@
 Introduction « Machine Learning »
 ===============================================
 
+:point_right: **Dossier des sketches vus en cours** :point_left:<br /> 
+[https://editor.p5js.org/v3ga/collections/EUTrREhis](https://editor.p5js.org/v3ga/collections/EUTrREhis) 
+
 Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/) et [teachable machine](https://teachablemachine.withgoogle.com/)
 
 Ces techniques sont utilisées dans le domaine de l'intelligence artificielle pour donner la capacité à une machine programmable « d'apprendre » à partir d'un ensemble de données afin de réaliser des tâches automatiques de classification ou de prédiction par exemple. Nous nous familiarisons avec les notions de réseaux de neurones, d'apprentissage supervisé, ... et d'autres termes que vous avez peut-être entendu ici ou là et qui paraissent obscurs.
