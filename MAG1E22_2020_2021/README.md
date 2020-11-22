@@ -77,7 +77,7 @@ function getPosition(geoPoint)
   * services de géolocalisation du navigateur, positionnement sur la carte.
   * création de marqueurs "natifs" et association d'une popup d'informations.
 * Création d'un bloc d'informations dans la page, modification depuis le script (fonctions [select()](https://p5js.org/reference/#/p5/select) et html()) 
-  * éléments <div> et <li> (liste)
+  * éléments **div** et **li** (liste)
   * mise en forme css
 * Téléversement en ligne par FTP.
  
