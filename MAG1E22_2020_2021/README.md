@@ -50,11 +50,11 @@ Sur une note plus ludique en fin de semestre, une introduction sera faite aux te
 
 #### Intégrer la librairie mappa.ps à un projet p5.js
 Dans l'éditeur p5.js en ligne, ouvrir le fichier index.html et ajouter dans la balise <head> la ligne suivante qui permet d'importer la librairie : 
-```
+```html
 <script src="https://unpkg.com/mappa-mundi@0.0.5/dist/mappa.js" type="text/javascript"></script>
 ```
 Au final vous devriez avoir ceci : 
-```
+```html
 <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
@@ -64,9 +64,8 @@ Au final vous devriez avoir ceci :
 </head> 
 ```
 
-
 #### Transformer une donnée de position .csv en position 
-```
+```js
 function getPosition(geoPoint)
 {
   return geoPoint.split(",").map(x=>Number(x))  
@@ -74,6 +73,14 @@ function getPosition(geoPoint)
 ```
 
 ## Cours #04 — lundi 23 novembre 2020 
+* Utilisation de fonctionnalités avancées de la librairie de cartographie 
+  * services de géolocalisation du navigateur, positionnement sur la carte.
+  * création de marqueurs "natifs" et association d'une popup d'informations.
+* Création d'un bloc d'informations dans la page, modification depuis le script (fonctions [select()](https://p5js.org/reference/#/p5/select) et html()) 
+  * éléments <div> et <li> (liste)
+  * mise en forme css
+* Téléversement en ligne par FTP.
+ 
 
 ## Cours #05 — lundi 30 novembre 2020 
 
