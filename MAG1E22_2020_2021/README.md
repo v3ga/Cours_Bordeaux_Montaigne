@@ -48,6 +48,8 @@ Sur une note plus ludique en fin de semestre, une introduction sera faite aux te
 * Serveur : 7x6pk.ftp.infomaniak.com
 * Utilisateur : 7x6pk_etudiants
 
+Les dossiers seront accessibles depuis cette adresse :point_right: https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/ :point_left:
+
 #### Intégrer la librairie mappa.ps à un projet p5.js
 Dans l'éditeur p5.js en ligne, ouvrir le fichier index.html et ajouter dans la balise <head> la ligne suivante qui permet d'importer la librairie : 
 ```html
