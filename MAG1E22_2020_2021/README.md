@@ -78,6 +78,9 @@ function getPosition(geoPoint)
 #### Visio. en ligne
 :point_right: https://www.youtube.com/watch?v=IQd74GToOIM :point_left:
 
+#### Sketch en ligne
+:point_right: https://editor.p5js.org/v3ga/sketches/bNsMeqf3x :point_left:
+
 #### Plan du cours 
 * Utilisation de fonctionnalités avancées de la librairie de cartographie 
   * services de géolocalisation du navigateur, positionnement sur la carte.
