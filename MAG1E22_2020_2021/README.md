@@ -99,10 +99,10 @@ A partir d'un jeu de données identifié sur [le site Atelier OpenData de Bordea
 Le projet peut se faire par groupe de 3 maximum.
 
 <table>
- <tr><td>:point_right: adaptation du template de code, fonctionnement en ligne</td><td>*8 points*</td></tr>
- <tr><td>:point_right: intégration et choix des données, potentialités de l'application, innovation</td><td>*4 points*</td></tr>
- <tr><td>:point_right: mise en forme, personnalisation de l'apparence (typographie, mise en forme), expérimentation, recherches personnelles</td><td>*5 points*</td></tr>
- <tr><td>:point_right:vidéo explicative </td><td>*3 points*</td></tr>
+ <tr><td>:point_right: adaptation du template de code, fonctionnement en ligne</td><td>8 points</td></tr>
+ <tr><td>:point_right: intégration et choix des données, potentialités de l'application, innovation</td><td>4 points</td></tr>
+ <tr><td>:point_right: mise en forme, personnalisation de l'apparence (typographie, mise en forme), expérimentation, recherches personnelles</td><td>5 points</td></tr>
+ <tr><td>:point_right:vidéo explicative </td><td>3 points</td></tr>
 </table>
 
 #### Livrables
