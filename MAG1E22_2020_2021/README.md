@@ -45,8 +45,8 @@ Sur une note plus ludique en fin de semestre, une introduction sera faite aux te
 
 
 #### Connexion FTP
-* Serveur : 7x6pk.ftp.infomaniak.com
-* Utilisateur : 7x6pk_etudiants
+* Hôte : 7x6pk.ftp.infomaniak.com
+* Identifiant : 7x6pk_etudiants
 
 Les dossiers seront accessibles depuis cette adresse :point_right: https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/ :point_left:
 
@@ -75,6 +75,10 @@ function getPosition(geoPoint)
 ```
 
 ## Cours #04 — lundi 23 novembre 2020 
+#### Visio. en ligne
+:point_right: https://www.youtube.com/watch?v=IQd74GToOIM :point_left:
+
+#### Plan du cours 
 * Utilisation de fonctionnalités avancées de la librairie de cartographie 
   * services de géolocalisation du navigateur, positionnement sur la carte.
   * création de marqueurs "natifs" et association d'une popup d'informations.
@@ -87,5 +91,26 @@ function getPosition(geoPoint)
 ## Cours #05 — lundi 30 novembre 2020 
 
 ## Cours #07 — mardi 8 décembre 2020
+
+## Projet application web de cartographie
+A partir d'un jeu de données identifié sur [le site Atelier OpenData de Bordeaux](https://opendata.bordeaux-metropole.fr/explore/), vous produirez une application web interactive intégrant une carte et permettant d'afficher de manière ergonomique une sélection de données pertinentes pour les utilisateurs potentiels de votre application. Vous justifierez le choix de ces données et les potentialités de votre application en émettant des hypothèses réalistes sur des fonctionnalités envisageables, pouvant être corrélées à d'autres ensembles de données.
+
+### Evaluation 
+Le projet peut se faire par groupe de 3 maximum.
+
+<table>
+ <tr><td>:point_right: adaptation du template de code, fonctionnement en ligne</td><td>*8 points*</td></tr>
+ <tr><td>:point_right: intégration et choix des données, potentialités de l'application, innovation</td><td>*4 points*</td></tr>
+ <tr><td>:point_right: mise en forme, personnalisation de l'apparence (typographie, mise en forme), expérimentation, recherches personnelles</td><td>*5 points*</td></tr>
+ <tr><td>:point_right:vidéo explicative </td><td>*3 points*</td></tr>
+</table>
+
+#### Livrables
+* une application web, accès en ligne sur le serveur du master.
+* une vidéo explicative (max 1mn30) à placer dans le dossier en ligne. Format vidéo : 1920 x 1080 (HD)
+
+#### Date de rendu.
+à remettre pour le **vendredi 11 décembre** au plus tard.
+
 
 
