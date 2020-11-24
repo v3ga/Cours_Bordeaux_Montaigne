@@ -115,5 +115,8 @@ Le projet peut se faire par groupe de 3 maximum.
 #### Date de rendu
 à remettre pour le **vendredi 11 décembre** au plus tard.
 
+#### Groupes
+* Amélie et Flavie.
+
 
 
