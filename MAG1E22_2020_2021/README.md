@@ -93,7 +93,7 @@ function getPosition(geoPoint)
 
 ## Cours #05 — lundi 30 novembre 2020 
 
-## Cours #07 — mardi 8 décembre 2020
+## Cours #06 — mardi 8 décembre 2020
 
 ## Projet application web de cartographie
 A partir d'un jeu de données identifié sur [le site Atelier OpenData de Bordeaux](https://opendata.bordeaux-metropole.fr/explore/), vous produirez une application web interactive intégrant une carte et permettant d'afficher de manière ergonomique une sélection de données pertinentes pour les utilisateurs potentiels de votre application. Vous justifierez le choix de ces données et les potentialités de votre application en émettant des hypothèses réalistes sur des fonctionnalités envisageables, pouvant être corrélées à d'autres ensembles de données.
