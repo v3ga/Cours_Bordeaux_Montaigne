@@ -118,7 +118,7 @@ Le projet peut se faire par groupe de 3 maximum.
 #### Groupes
 * Amélie et Flavie.
 * Léa Cluzel, Alexane Tessier, Mathias Faro.
-
+* Thomas, Nathan et Hamza.
 
 
 
