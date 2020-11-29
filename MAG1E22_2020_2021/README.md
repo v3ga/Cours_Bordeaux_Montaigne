@@ -90,8 +90,16 @@ function getPosition(geoPoint)
   * mise en forme css
 * Téléversement en ligne par FTP.
  
-
-## Cours #05 — lundi 30 novembre 2020 
+## Cours #05 — lundi 30 novembre 2020
+* Quelques éléments de mise en page CSS qui pourront servir pour le projet de carto.
+  * intégration d'une fonte depuis le service [Google Fonts](https://fonts.google.com/).
+  * [Font Awesome](https://fontawesome.com/) pour l'intégration facile d'icônes.
+  * Quelques styles généraux (police / taille de texte pour une balise, couleur)
+* Capter une image vidéo et l'afficher dans p5.js par le biais de la fonction [createCapture](https://p5js.org/examples/dom-video-capture.html).
+* Introduction aux techniques de "Machine Learning" par le biais de [Teachable Machine](https://teachablemachine.withgoogle.com/)
+  * Définition des termes "classes", "modèle", "training data".
+  * Exportation vers p5.js, création d'un projet utilisant le modèle défini.
+  * On en profitera pour (re)voir la structure de conditions dans un programme. 
 
 ## Cours #06 — mardi 8 décembre 2020
 
