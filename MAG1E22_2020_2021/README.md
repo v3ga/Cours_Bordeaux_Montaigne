@@ -81,6 +81,10 @@ function getPosition(geoPoint)
 #### Sketch en ligne
 :point_right: https://editor.p5js.org/v3ga/sketches/bNsMeqf3x :point_left:
 
+![Carte des composteurs](images/201123_MAG1E22_cours04_carte_marqueurs.png)
+
+
+
 #### Plan du cours 
 * Utilisation de fonctionnalités avancées de la librairie de cartographie 
   * services de géolocalisation du navigateur, positionnement sur la carte.
