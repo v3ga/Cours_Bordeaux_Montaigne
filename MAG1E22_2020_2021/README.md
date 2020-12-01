@@ -83,8 +83,6 @@ function getPosition(geoPoint)
 
 ![Carte des composteurs](images/201123_MAG1E22_cours04_carte_marqueurs.png)
 
-
-
 #### Plan du cours 
 * Utilisation de fonctionnalités avancées de la librairie de cartographie 
   * services de géolocalisation du navigateur, positionnement sur la carte.
@@ -95,11 +93,15 @@ function getPosition(geoPoint)
 * Téléversement en ligne par FTP.
  
 ## Cours #05 — lundi 30 novembre 2020
-* Quelques éléments de mise en page CSS qui pourront servir pour le projet de carto.
+#### Visio. en ligne
+:point_right: https://www.youtube.com/watch?v=IQd74GToOIM&t=29s :point_left:
+
+#### Plan du cours 
+* :point_right: **Partie 1** / Quelques éléments de mise en page CSS qui pourront servir pour le projet de carto.
   * intégration d'une fonte depuis le service [Google Fonts](https://fonts.google.com/).
   * [Font Awesome](https://fontawesome.com/) pour l'intégration d'icônes.
   * Quelques styles généraux (police / taille de texte pour une balise, couleur)
-* Capter une image vidéo et l'afficher dans p5.js par le biais de la fonction [createCapture](https://p5js.org/examples/dom-video-capture.html).
+* :point_right: **Partie 2** Capter une image vidéo et l'afficher dans p5.js par le biais de la fonction [createCapture](https://p5js.org/examples/dom-video-capture.html).
 * Introduction aux techniques de "Machine Learning" par le biais de [Teachable Machine](https://teachablemachine.withgoogle.com/)
   * Définition des termes "classes", "modèle", "training data".
   * Exportation vers p5.js, création d'un projet utilisant le modèle défini.
@@ -107,7 +109,8 @@ function getPosition(geoPoint)
 
 #### Références
 * [Daniel Shiffman / The Coding Train / Teachable Machine 1: Image Classification](https://www.youtube.com/watch?v=kwcillcWOg0&feature=youtu.be)
-
+* [Daniel Shiffman / The Coding Train / Zoom Annotations with Machine Learning and p5.js](https://thecodingtrain.com/CodingChallenges/157-zoom-annotations.html)
+* [Yann Lecun / Convolutionnal network demo from 1993](https://www.youtube.com/watch?v=FwFduRA_L6Q)
 
 ## Cours #06 — mardi 8 décembre 2020
 
