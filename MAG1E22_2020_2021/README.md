@@ -101,8 +101,8 @@ function getPosition(geoPoint)
   * intégration d'une fonte depuis le service [Google Fonts](https://fonts.google.com/).
   * [Font Awesome](https://fontawesome.com/) pour l'intégration d'icônes.
   * Quelques styles généraux (police / taille de texte pour une balise, couleur)
-* :point_right: **Partie 2** Capter une image vidéo et l'afficher dans p5.js par le biais de la fonction [createCapture](https://p5js.org/examples/dom-video-capture.html).
-* Introduction aux techniques de "Machine Learning" par le biais de [Teachable Machine](https://teachablemachine.withgoogle.com/)
+* :point_right: **Partie 2** / Capter une image vidéo et l'afficher dans p5.js par le biais de la fonction [createCapture](https://p5js.org/examples/dom-video-capture.html).
+* :point_right: **Partie 3** / Introduction aux techniques de "Machine Learning" par le biais de [Teachable Machine](https://teachablemachine.withgoogle.com/)
   * Définition des termes "classes", "modèle", "training data".
   * Exportation vers p5.js, création d'un projet utilisant le modèle défini.
   * On en profitera pour (re)voir la structure de conditions dans un programme. 
