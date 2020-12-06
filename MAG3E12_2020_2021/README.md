@@ -38,6 +38,6 @@ La première session de ce cours sera consacrée à des révisions sur l'environ
 ### Ressources
 * [:point_right: Slides de présentation Neural Network](https://docs.google.com/presentation/d/e/2PACX-1vRHSkQlrWykzBV64YS4qLq_kVx_2Zc5_BfGBVdBGKDgywVaxuFC620qmfSlEvIvUdHFh37ii_y2JL4j/pub?start=false&loop=false&delayms=3000)
 * [Julien Gachadoat / conférence IA et créativité à Stereolux (2017)](https://github.com/v3ga/Conference_Stereolux_IA_creativite)
-
+* [ImageNet / liste des classes](https://gist.github.com/genekogan/47e66f0221b50462b20fd2373528e734)
 
 ## Vendredi 11 décembre
