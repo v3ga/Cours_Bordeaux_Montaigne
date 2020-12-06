@@ -5,7 +5,7 @@ Introduction « Machine Learning »
 :point_right: **Dossier des sketches vus en cours** :point_left:<br /> 
 [https://editor.p5js.org/v3ga/collections/EUTrREhis](https://editor.p5js.org/v3ga/collections/EUTrREhis) 
 
-Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/) et [teachable machine](https://teachablemachine.withgoogle.com/)
+Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/) et au service en ligne [teachable machine](https://teachablemachine.withgoogle.com/)
 
 Ces techniques sont utilisées dans le domaine de l'intelligence artificielle pour donner la capacité à une machine programmable « d'apprendre » à partir d'un ensemble de données afin de réaliser des tâches automatiques de classification ou de prédiction par exemple. Nous nous familiarisons avec les notions de réseaux de neurones, d'apprentissage supervisé, ... et d'autres termes que vous avez peut-être entendu ici ou là et qui paraissent obscurs.
 
@@ -26,9 +26,18 @@ La première session de ce cours sera consacrée à des révisions sur l'environ
   * chargement et affichage d'une image.
   * [affichage d'un flux vidéo webcam](https://p5js.org/examples/dom-video-capture.html).
 * vue d'ensemble de la librairie [ml5.js](https://ml5js.org/)
-  * [classification](https://learn.ml5js.org/docs/#/reference/image-classifier?id=description) d'une image simple en utilisant le modèle pre-entrainé « MobileNet ». Que veut dire modèle pré-entrainé ? 
+  * [classification](https://learn.ml5js.org/docs/#/reference/image-classifier?id=description) d'une image simple en utilisant le modèle pre-entrainé « MobileNet ». 
   
 
 ```
 <script src="https://unpkg.com/ml5@0.4.3/dist/ml5.min.js"></script>
 ```
+
+## Lundi 7 décembre
+
+### Ressources
+* [:point_right: Slides de présentation Neural Network](https://docs.google.com/presentation/d/e/2PACX-1vRHSkQlrWykzBV64YS4qLq_kVx_2Zc5_BfGBVdBGKDgywVaxuFC620qmfSlEvIvUdHFh37ii_y2JL4j/pub?start=false&loop=false&delayms=3000)
+* [Julien Gachadoat / conférence IA et créativité à Stereolux (2017)](https://github.com/v3ga/Conference_Stereolux_IA_creativite)
+
+
+## Vendredi 11 décembre
