@@ -34,10 +34,18 @@ La première session de ce cours sera consacrée à des révisions sur l'environ
 ```
 
 ## Lundi 7 décembre
+* Classification d'images avec ml5.js
+ * révision de la notion de tableau, notamment pour analyser les résultats retournés par le classificateur.
+ * [liste des classes détectées](https://gist.github.com/genekogan/47e66f0221b50462b20fd2373528e734)
+ * limite de ce modèle.
+* Présentation de [Teachable Machine](https://teachablemachine.withgoogle.com/)
+ * introduction aux réseaux de neurones.
+ * création d'un projet sur teachable machine.
+ * création de classes, entrainement.
+ * exportation du modèle vers p5.js, intégration des classes. 
 
 ### Ressources
 * [:point_right: Slides de présentation Neural Network](https://docs.google.com/presentation/d/e/2PACX-1vRHSkQlrWykzBV64YS4qLq_kVx_2Zc5_BfGBVdBGKDgywVaxuFC620qmfSlEvIvUdHFh37ii_y2JL4j/pub?start=false&loop=false&delayms=3000)
 * [Julien Gachadoat / conférence IA et créativité à Stereolux (2017)](https://github.com/v3ga/Conference_Stereolux_IA_creativite)
-* [ImageNet / liste des classes](https://gist.github.com/genekogan/47e66f0221b50462b20fd2373528e734)
 
 ## Vendredi 11 décembre
