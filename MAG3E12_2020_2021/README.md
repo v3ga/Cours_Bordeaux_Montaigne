@@ -35,6 +35,10 @@ Balise à intégrer dans le fichier index.html de votre projet.
 ```
 
 ## Lundi 7 décembre
+
+#### Visio.
+:point_right: https://www.youtube.com/watch?v=BDIaKciQLu4 :point_left:
+
 * **Classification d'images** avec ml5.js
   * révision de la notion de tableau, notamment pour analyser les résultats retournés par le classificateur.
   * [liste des classes détectées](https://gist.github.com/genekogan/47e66f0221b50462b20fd2373528e734)
