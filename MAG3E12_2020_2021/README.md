@@ -28,9 +28,10 @@ La première session de ce cours sera consacrée à des révisions sur l'environ
 * vue d'ensemble de la librairie [ml5.js](https://ml5js.org/)
   * [classification](https://learn.ml5js.org/docs/#/reference/image-classifier?id=description) d'une image simple en utilisant le modèle pre-entrainé « MobileNet ». 
   
-
+#### Balise script ml5.js
+Balise à intégrer dans le fichier index.html de votre projet.
 ```
-<script src="https://unpkg.com/ml5@0.4.3/dist/ml5.min.js"></script>
+<script src="https://unpkg.com/ml5@latest/dist/ml5.min.js">
 ```
 
 ## Lundi 7 décembre
