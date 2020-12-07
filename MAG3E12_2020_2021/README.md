@@ -31,7 +31,7 @@ La première session de ce cours sera consacrée à des révisions sur l'environ
 #### Balise script ml5.js
 Balise à intégrer dans le fichier index.html de votre projet.
 ```
-<script src="https://unpkg.com/ml5@latest/dist/ml5.min.js">
+<script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
 ```
 
 ## Lundi 7 décembre
@@ -39,6 +39,9 @@ Balise à intégrer dans le fichier index.html de votre projet.
   * révision de la notion de tableau, notamment pour analyser les résultats retournés par le classificateur.
   * [liste des classes détectées](https://gist.github.com/genekogan/47e66f0221b50462b20fd2373528e734)
   * limite de ce modèle.
+* **Posenet**
+  * affichage des *keypoints*
+  * affichages des *skeletons*
 * Présentation de [Teachable Machine](https://teachablemachine.withgoogle.com/)
   * introduction aux réseaux de neurones.
   * création d'un projet sur teachable machine.
