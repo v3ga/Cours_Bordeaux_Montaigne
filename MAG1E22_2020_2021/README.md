@@ -132,7 +132,7 @@ Le projet peut se faire par groupe de 3 maximum.
 * une vidéo explicative (max 1mn30) à placer dans le dossier en ligne. Format vidéo : 1920 x 1080 (HD)
 
 #### Date de rendu
-à remettre pour le **vendredi 11 décembre** au plus tard.
+à remettre pour le **vendredi 18 décembre** au plus tard.
 
 #### Groupes
 * Amélie et Flavie.
