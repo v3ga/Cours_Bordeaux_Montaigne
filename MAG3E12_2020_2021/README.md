@@ -63,8 +63,8 @@ Balise à intégrer dans le fichier index.html de votre projet.
   * utilisation d'un client FTP pour téléverser les fichiers en ligne.
   * mise en ligne sur le serveur du master.
 * Modification de la page index.html
- * chargement de fontes.
- * rudiments de styles css.
+  * chargement de fontes depuis Google Fonts.
+  * rudiments de styles css : mises en forme de liens, titres, paragraphes, intégration d'images.
 
 #### Identifiants FTP
 * Hôte : 7x6pk.ftp.infomaniak.com
