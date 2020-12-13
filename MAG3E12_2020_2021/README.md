@@ -61,8 +61,11 @@ Balise à intégrer dans le fichier index.html de votre projet.
 ## Lundi 14 décembre
 * Exportation d'un projet (hors éditeur en ligne)
   * utilisation d'un client FTP pour téléverser les fichiers en ligne.
-  * mise en ligne sur le serveur du master
-  
+  * mise en ligne sur le serveur du master.
+* Modification de la page index.html
+ * chargement de fontes.
+ * rudiments de styles css.
+
 #### Identifiants FTP
 * Hôte : 7x6pk.ftp.infomaniak.com
 * Identifiant : 7x6pk_etudiants
@@ -73,16 +76,16 @@ Balise à intégrer dans le fichier index.html de votre projet.
 * [Vadim Bernard / Le design graphique pour les machines](http://strabic.fr/Le-design-graphique-pour-les-machines)<br />*Que se passe-t-il quand le destinataire d’une composition graphique est une machine ? La reconnaissance de formes par les machines n’est pas nouvelle – on peut penser aux typographies OCR ou aux QR codes – mais nous arrivons à un point où sont reconnues non plus seulement des formes, mais aussi les relations qui peuvent exister entre elles.*
 
 ## Jeudi 17 décembre / vendredi 18 décembre
+Ces deux séances seront dédiées aux développements de vos applications dans la mesure du possible, en ligne. Je vous aiderai bien entendu sur la partie technique, il sera nécessaire d'ici jeudi d'avoir le scénario prêt. 
 
-## Projet d'application
-
+## Projet d'application / service en ligne
+Pour ce projet vous produirez une application reposant sur les services de reconnaissances automatisées proposées sur le site [Techable Machine](https://teachablemachine.withgoogle.com/) ou les fonctionnalités de [ml5.js](https://ml5js.org/) : reconnaissances d'images, de sons ou de postures. L'application sera un *prototype* montrant la validité du principe que vous aurez imaginé, en s'inscrivant dans un cadre réaliste de réponse à un besoin potentiel. Le domaine d'application est libre (sociétal, médical, ...) 
 
 #### Evaluation
 <table>
- <tr><td>:point_right: adaptation du template de code, fonctionnement en ligne</td><td>8 points</td></tr>
- <tr><td>:point_right: intégration et choix des données, potentialités de l'application, innovation</td><td>5 points</td></tr>
- <tr><td>:point_right: mise en forme, personnalisation de l'apparence, expérimentation, recherches personnelles</td><td>4 points</td></tr>
- <tr><td>:point_right:vidéo explicative </td><td>3 points</td></tr>
+ <tr><td>:point_right: prototypage de l'application, fonctionnement en ligne</td><td>8 points</td></tr>
+ <tr><td>:point_right: potentialités du service, innovation</td><td>7 points</td></tr>
+ <tr><td>:point_right: document PDF, vidéo explicative </td><td>5 points</td></tr>
 </table>
 
 
