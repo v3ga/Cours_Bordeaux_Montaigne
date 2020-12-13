@@ -99,4 +99,7 @@ Pour ce projet vous produirez une application reposant sur les services de recon
 à remettre pour le lundi 11 janvier au plus tard.
 
 #### Groupes
-
+* Léa / Charlène / Thomas / Tania
+* Antonin / Draghixa / Marine / Florian
+* Ines / Ingrid / Anouch / Chloé
+* Maina / Sarah / Huan / Elea
