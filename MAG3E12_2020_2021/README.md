@@ -65,7 +65,8 @@ Balise à intégrer dans le fichier index.html de votre projet.
 * Modification de la page index.html
   * chargement de fontes depuis Google Fonts.
   * rudiments de styles css : mises en forme de liens, titres, paragraphes, intégration d'images.
-
+* Reconnaissance vocale avec p5.speech
+  * exemple de création d'un outil de dessin avec la voix 🎤
 #### Identifiants FTP
 * Hôte : 7x6pk.ftp.infomaniak.com
 * Identifiant : 7x6pk_etudiants2
