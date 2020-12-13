@@ -68,7 +68,12 @@ Balise à intégrer dans le fichier index.html de votre projet.
 
 #### Identifiants FTP
 * Hôte : 7x6pk.ftp.infomaniak.com
-* Identifiant : 7x6pk_etudiants
+* Identifiant : 7x6pk_etudiants2
+* Port : 21
+* Mode de passe : *communiqué offline*
+
+Les dossiers sont accessibles depuis l'adresse : https://master.designbordeaux.fr/projets/2020-2021/MAG3E12/[nom_dossier]
+Pour que le dossier soit "lisible" depuis le navigateur, il faut qu'il contienne obligatoirement un fichier *index.html* Sinon le dossier est marqué comme interdit d'accès.
 
 ## Ressources
 * [Anthony Masure / Thinking Machines](http://www.anthonymasure.com/en/conferences/2020-01-thinking-machines-bal-paris)<br />Ces slides sont complémentaires d'un atelier à la HEAD (Genève) du même nom mené par [Douglas Edric Stanley](http://www.abstractmachine.net/fr/biography) et [Jurg Lehni](http://juerglehni.com/information) : *Le projet Thinking Machines revisite la notion d’outils personnalisés à l’époque des intelligences dites « artificielles » et explore comment la création d'assistants personnalisés peut remodeler le processus de travail des designers.* (voir à partir du [slide 67](http://www.anthonymasure.com/content/04-conferences/slides/2020-01-thinking-machines-bal-paris.html#/67))
