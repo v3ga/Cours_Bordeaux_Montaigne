@@ -58,4 +58,41 @@ Balise à intégrer dans le fichier index.html de votre projet.
 * [:point_right: Slides de présentation Neural Network](https://docs.google.com/presentation/d/e/2PACX-1vRHSkQlrWykzBV64YS4qLq_kVx_2Zc5_BfGBVdBGKDgywVaxuFC620qmfSlEvIvUdHFh37ii_y2JL4j/pub?start=false&loop=false&delayms=3000)
 * [Julien Gachadoat / conférence IA et créativité à Stereolux (2017)](https://github.com/v3ga/Conference_Stereolux_IA_creativite)
 
-## Vendredi 11 décembre
+## Lundi 14 décembre
+* Exportation d'un projet (hors éditeur en ligne)
+  * utilisation d'un client FTP pour téléverser les fichiers en ligne.
+  * mise en ligne sur le serveur du master
+  
+#### Identifiants FTP
+* Hôte : 7x6pk.ftp.infomaniak.com
+* Identifiant : 7x6pk_etudiants
+
+## Ressources
+* [Anthony Masure / Thinking Machines](http://www.anthonymasure.com/en/conferences/2020-01-thinking-machines-bal-paris)<br />Ces slides sont complémentaires d'un atelier à la HEAD (Genève) du même nom mené par Douglas Edric Stanley et Jurg Lehni : *Le projet Thinking Machines revisite la notion d’outils personnalisés à l’époque des intelligences dites « artificielles » et explore comment la création d'assistants personnalisés peut remodeler le processus de travail des designers.* (voir à partir du [slide 67](http://www.anthonymasure.com/content/04-conferences/slides/2020-01-thinking-machines-bal-paris.html#/67))
+
+
+## Jeudi 17 décembre / vendredi 18 décembre
+
+## Projet d'application
+
+
+#### Evaluation
+<table>
+ <tr><td>:point_right: adaptation du template de code, fonctionnement en ligne</td><td>8 points</td></tr>
+ <tr><td>:point_right: intégration et choix des données, potentialités de l'application, innovation</td><td>5 points</td></tr>
+ <tr><td>:point_right: mise en forme, personnalisation de l'apparence, expérimentation, recherches personnelles</td><td>4 points</td></tr>
+ <tr><td>:point_right:vidéo explicative </td><td>3 points</td></tr>
+</table>
+
+
+#### Livrables
+* **une application web**, accès en ligne sur le serveur du master.
+* **une vidéo explicative** (max 1mn30). Format vidéo : 1920 x 1080 (HD)
+* **un document** (max une page) avec le titre de l'application et un résumé du principe. Ce document servira pour la mise en ligne des projets sur le site du master.
+
+
+#### Date de rendu
+à remettre pour le lundi 11 janvier au plus tard.
+
+#### Groupes
+
