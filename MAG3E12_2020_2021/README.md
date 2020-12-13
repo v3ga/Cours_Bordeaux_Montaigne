@@ -68,8 +68,9 @@ Balise à intégrer dans le fichier index.html de votre projet.
 * Identifiant : 7x6pk_etudiants
 
 ## Ressources
-* [Anthony Masure / Thinking Machines](http://www.anthonymasure.com/en/conferences/2020-01-thinking-machines-bal-paris)<br />Ces slides sont complémentaires d'un atelier à la HEAD (Genève) du même nom mené par Douglas Edric Stanley et Jurg Lehni : *Le projet Thinking Machines revisite la notion d’outils personnalisés à l’époque des intelligences dites « artificielles » et explore comment la création d'assistants personnalisés peut remodeler le processus de travail des designers.* (voir à partir du [slide 67](http://www.anthonymasure.com/content/04-conferences/slides/2020-01-thinking-machines-bal-paris.html#/67))
-
+* [Anthony Masure / Thinking Machines](http://www.anthonymasure.com/en/conferences/2020-01-thinking-machines-bal-paris)<br />Ces slides sont complémentaires d'un atelier à la HEAD (Genève) du même nom mené par [Douglas Edric Stanley](http://www.abstractmachine.net/fr/biography) et [Jurg Lehni](http://juerglehni.com/information) : *Le projet Thinking Machines revisite la notion d’outils personnalisés à l’époque des intelligences dites « artificielles » et explore comment la création d'assistants personnalisés peut remodeler le processus de travail des designers.* (voir à partir du [slide 67](http://www.anthonymasure.com/content/04-conferences/slides/2020-01-thinking-machines-bal-paris.html#/67))
+* [Julien Drochon & Anthony Masure / Vox Machines](https://recherche.esad-pyrenees.fr/vox-machines/)<br />*Ce programme de recherche vise à explorer les possibilités et limites offertes par la synthèse vocale, dans le champ du design expérimental, tant du point de vue de la réalisation de prototypes logiciels et matériels que de celui des humanités numériques.*
+* [Vadim Bernard / Le design graphique pour les machines](http://strabic.fr/Le-design-graphique-pour-les-machines)<br />*Que se passe-t-il quand le destinataire d’une composition graphique est une machine ? La reconnaissance de formes par les machines n’est pas nouvelle – on peut penser aux typographies OCR ou aux QR codes – mais nous arrivons à un point où sont reconnues non plus seulement des formes, mais aussi les relations qui peuvent exister entre elles.*
 
 ## Jeudi 17 décembre / vendredi 18 décembre
 
