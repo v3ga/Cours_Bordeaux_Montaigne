@@ -60,7 +60,7 @@ Balise à intégrer dans le fichier index.html de votre projet.
 
 ## Lundi 14 décembre
 * Exportation d'un projet (hors éditeur en ligne)
-  * utilisation d'un client FTP pour téléverser les fichiers en ligne.
+  * utilisation d'un client FTP pour téléverser les fichiers en ligne : https://filezilla-project.org/download.php?type=client
   * mise en ligne sur le serveur du master.
 * Modification de la page index.html
   * chargement de fontes depuis Google Fonts.
