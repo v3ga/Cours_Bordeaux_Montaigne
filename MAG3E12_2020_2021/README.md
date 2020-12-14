@@ -82,6 +82,11 @@ Pour que le dossier soit "lisible" depuis le navigateur, il faut qu'il contienne
 * [Julien Drochon & Anthony Masure / Vox Machines](https://recherche.esad-pyrenees.fr/vox-machines/)<br />*Ce programme de recherche vise à explorer les possibilités et limites offertes par la synthèse vocale, dans le champ du design expérimental, tant du point de vue de la réalisation de prototypes logiciels et matériels que de celui des humanités numériques.*
 * [Vadim Bernard / Le design graphique pour les machines](http://strabic.fr/Le-design-graphique-pour-les-machines)<br />*Que se passe-t-il quand le destinataire d’une composition graphique est une machine ? La reconnaissance de formes par les machines n’est pas nouvelle – on peut penser aux typographies OCR ou aux QR codes – mais nous arrivons à un point où sont reconnues non plus seulement des formes, mais aussi les relations qui peuvent exister entre elles.*
 
+## Liens
+* [Google développe une IA pour traduire en temps réel la langue des signes](https://www.cnetfrance.fr/news/google-developpe-une-ia-pour-traduire-en-temps-reel-la-langue-des-signes-39889359.htm)
+* [MediaPipe / Hands](https://google.github.io/mediapipe/solutions/hands.html#min_detection_confidence)
+  * démo javascript : https://codepen.io/mediapipe/pen/RwGWYJw
+
 ## Jeudi 17 décembre / vendredi 18 décembre
 Ces deux séances seront dédiées aux développements de vos applications dans la mesure du possible, en ligne. Je vous aiderai bien entendu sur la partie technique, il sera nécessaire d'ici jeudi d'avoir le scénario prêt. 
 
