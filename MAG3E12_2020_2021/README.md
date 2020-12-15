@@ -60,7 +60,7 @@ Balise à intégrer dans le fichier index.html de votre projet.
 * [:point_right: Slides de présentation Neural Network](https://docs.google.com/presentation/d/e/2PACX-1vRHSkQlrWykzBV64YS4qLq_kVx_2Zc5_BfGBVdBGKDgywVaxuFC620qmfSlEvIvUdHFh37ii_y2JL4j/pub?start=false&loop=false&delayms=3000)
 * [Julien Gachadoat / conférence IA et créativité à Stereolux (2017)](https://github.com/v3ga/Conference_Stereolux_IA_creativite)
 
-<img src="images/MAG3E12_cours03_capture_youtube" />
+<img src="images/MAG3E12_cours03_capture_youtube.png" />
 
 ## Lundi 14 décembre
 #### Visio.
