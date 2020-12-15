@@ -59,6 +59,10 @@ Balise à intégrer dans le fichier index.html de votre projet.
 * [Julien Gachadoat / conférence IA et créativité à Stereolux (2017)](https://github.com/v3ga/Conference_Stereolux_IA_creativite)
 
 ## Lundi 14 décembre
+#### Visio.
+:point_right: https://www.youtube.com/watch?v=nlx5JcUIDIs :point_left:
+
+#### Plan de cours
 * Exportation d'un projet (hors éditeur en ligne)
   * utilisation d'un client FTP pour téléverser les fichiers en ligne : https://filezilla-project.org/download.php?type=client
   * mise en ligne sur le serveur du master.
