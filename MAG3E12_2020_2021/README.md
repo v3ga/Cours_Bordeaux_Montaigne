@@ -34,8 +34,7 @@ Balise à intégrer dans le fichier index.html de votre projet.
 <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
 ```
 
-<img src="images/Lecun_LeNet-5.png" width="400" />
-<img src="images/3blue1brown.png" width="400" />
+<img src="images/Lecun_LeNet-5.png" width="400" /><img src="images/3blue1brown.png" width="400" />
 
 ## Lundi 7 décembre
 
