@@ -113,6 +113,8 @@ function getPosition(geoPoint)
 * [Yann Lecun / Convolutionnal network demo from 1993](https://www.youtube.com/watch?v=FwFduRA_L6Q)
 
 ## Cours #06 — mercredi 16 décembre 2020
+* Utilisation d'un autre système de cartographie (mapbox)
+* Intégration de marqueurs personnalisés.
 
 ## Projet application web de cartographie
 A partir d'un jeu de données identifié sur [le site Atelier OpenData de Bordeaux](https://opendata.bordeaux-metropole.fr/explore/), vous produirez une application web interactive intégrant une carte et permettant d'afficher de manière ergonomique une sélection de données pertinentes pour les utilisateurs potentiels de votre application. Vous justifierez le choix de ces données et les potentialités de votre application en émettant des hypothèses réalistes sur des fonctionnalités envisageables, pouvant être corrélées à d'autres ensembles de données.
