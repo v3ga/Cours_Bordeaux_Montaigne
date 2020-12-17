@@ -123,7 +123,7 @@ Pour ce projet vous produirez une application reposant sur les services de recon
 à remettre pour le lundi 11 janvier au plus tard.
 
 #### Groupes
-* Léa / Charlène / Thomas / Tania
-* Antonin / Draghixa / Marine / Florian
-* Ines / Ingrid / Anouch / Chloé
-* Maina / Sarah / Huan / Elea
+* Léa / Charlène / Thomas / Tania  - groupe Brainstroming
+* Antonin / Draghixa / Marine / Florian : groupe Langage des signes
+* Ines / Ingrid / Anouch / Chloé : groupe Draw'n'collect (trouver des livres pour enfants à partir de dessins)
+* Maina / Sarah / Huan / Elea : groupe instrument de musique
