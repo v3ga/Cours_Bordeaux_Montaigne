@@ -148,30 +148,36 @@ Le projet peut se faire par groupe de 3 maximum.
 
 ## Projets
 
+![Bel air](images/201219_MAG1E22_projet_Bel_Air.png)
+
 ### Bel air
 * https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Cassandre_Canelle_Sabrina/#
 * Cassandre, Canelle, Sabrina.
-![Bel air](images/201219_MAG1E22_projet_Bel_Air.png)
+
+![Nichoirs](images/201219_MAG1E22_projet_Nichoirs_de_Bordeaux.png)
 
 ### Les nichoirs de Bordeaux
 * https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Fany_Camille_Morgane/
 * Fany, Morgane, Camille.
-![Nichoirs](images/201219_MAG1E22_projet_Nichoirs_de_Bordeaux.png)
+
+![Espaces naturels](images/201219_MAG1E22_projet_espaces_naturels.png)
 
 ### Espaces naturels ouverts au public (Bordeaux)
 * https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Alexane_Lea_Mathias/
 * Alexane, Léa, Mathias.
-![Espaces naturels](images/20201219_MAG1E22_projet_espaces_naturels.png)
+
+![Espaces naturels](images/201219_MAG1E22_projet_espaces_naturels_nichoirs.png)
+
 
 ### Entrée d'espaces naturels et emplacement des nichoirs de Bordeaux.
 * https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Flavie_Amelie/
 * Amélie et Flavie.
-![Espaces naturels](images/201219_MAG1E22_projet_espaces_naturels_nichoirs.png)
+
+![Bouches de réseau](images/201219_MAG1E22_projet_bouches_reseau.png)
 
 ### Bouches du réseau
 * https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Thomas_Nathan_Hamza/
 * Thomas, Nathan et Hamza.
-![Bouches de réseau](images/201219_MAG1E22_projet_bouches_reseau.png)
 
 
 
