@@ -146,7 +146,7 @@ Le projet peut se faire par groupe de 3 maximum.
 à remettre pour le **vendredi 18 décembre** au plus tard.
 
 
-##Projets
+## Projets
 ### Bel air
 * https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Cassandre_Canelle_Sabrina/#
 * Cassandre, Canelle, Sabrina.
