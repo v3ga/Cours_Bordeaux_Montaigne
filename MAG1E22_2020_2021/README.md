@@ -145,11 +145,28 @@ Le projet peut se faire par groupe de 3 maximum.
 #### Date de rendu
 à remettre pour le **vendredi 18 décembre** au plus tard.
 
-#### Groupes
+
+##Projets
+### Bel air
+* https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Cassandre_Canelle_Sabrina/#
+* Cassandre, Canelle, Sabrina.
+
+### Les nichoirs de Bordeaux
+* https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Fany_Camille_Morgane/
+* Fany, Morgane, Camille.
+
+### Espaces naturels ouverts au public (Bordeaux)
+* https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Alexane_Lea_Mathias/
+* Alexane, Léa, Mathias.
+
+### Entrée d'espaces naturels et emplacement des nichoirs de Bordeaux.
+* https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Flavie_Amelie/
 * Amélie et Flavie.
-* Léa Cluzel, Alexane Tessier, Mathias Faro.
+
+### Bouches du réseau
+* https://master.designbordeaux.fr/projets/2020-2021/MAG1E22/Thomas_Nathan_Hamza/
 * Thomas, Nathan et Hamza.
-* Fany, Morgane et Camille.
+
 
 
 
