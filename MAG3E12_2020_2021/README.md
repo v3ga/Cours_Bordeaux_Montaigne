@@ -103,7 +103,7 @@ Voici les liens brièvement commentés en fonction des ébauches de scénarios d
 Ces deux séances seront dédiées aux développements de vos applications dans la mesure du possible, en ligne. Je vous aiderai bien entendu sur la partie technique, il sera nécessaire d'ici jeudi d'avoir le scénario prêt. 
 
 ## Projet d'application / service en ligne
-Pour ce projet vous produirez une application reposant sur les services de reconnaissances automatisées proposées sur le site [Techable Machine](https://teachablemachine.withgoogle.com/) ou les fonctionnalités de [ml5.js](https://ml5js.org/) : reconnaissances d'images, de sons ou de postures. L'application sera un *prototype* montrant la validité du principe que vous aurez imaginé, en s'inscrivant dans un cadre réaliste de réponse à un besoin potentiel. Le domaine d'application est libre (sociétal, médical, ...) 
+Pour ce projet vous produirez une application reposant sur les services de reconnaissances automatisées proposées sur le site [Teachable Machine](https://teachablemachine.withgoogle.com/) ou les fonctionnalités de [ml5.js](https://ml5js.org/) : reconnaissances d'images, de sons ou de postures. L'application sera un *prototype* montrant la validité du principe que vous aurez imaginé, en s'inscrivant dans un cadre réaliste de réponse à un besoin potentiel. Le domaine d'application est libre (sociétal, médical, ...) 
 
 #### Evaluation
 <table>
