@@ -120,7 +120,7 @@ Pour ce projet vous produirez une application reposant sur les services de recon
 
 
 #### Date de rendu
-à remettre pour le lundi 11 janvier au plus tard.
+à remettre pour le mercredi 13 janvier soir au plus tard.
 
 #### Groupes
 * Léa / Charlène / Thomas / Tania  - groupe Brainstroming
