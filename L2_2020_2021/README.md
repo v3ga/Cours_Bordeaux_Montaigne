@@ -18,9 +18,9 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 * [Ben Fry](https://www.benfry.com/) and [Casey Reas](http://reas.com/)
 
  ### Ressources
-**[Designing Programs par Mark Webster](https://designingprograms.bitbucket.io/)**<br />
+* **[Designing Programs par Mark Webster](https://designingprograms.bitbucket.io/)**<br />
 « Designing Programs is a practical and pedagogical approach to programming, tailored for visual arts students. »
-**[Programming design systems par Rune Madsen](https://www.programmingdesignsystems.com/)** <br />
+* **[Programming design systems par Rune Madsen](https://www.programmingdesignsystems.com/)** <br />
 « A free digital book that teaches a practical introduction to the new foundations of graphic design. By Rune Madsen. »
 
 ## Cours #02 — Dessiner — 25 janvier
