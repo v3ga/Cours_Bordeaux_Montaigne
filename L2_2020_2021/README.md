@@ -7,7 +7,7 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 **Patrice Meunier & Kuei Yu Ho** — [Design interactif](https://www.editions-eyrolles.com/Livre/9782212129724/design-interactif)
 
 ## Cours #01 [en ligne] — Introduction — 18 janvier 
-Vidéo en ligne :point_right: https://studio.youtube.com/video/XXbs_8kn5m4/edit
+Vidéo en ligne :point_right: https://www.youtube.com/watch?v=XXbs_8kn5m4
 
 * Présentation du travail de [2Roqs](http:www.2roqs.com) et du travail de designer d'interactions / créateurs numériques.
 * Présentation de l'environnement [Processing](http://www.processing.org) et de son « écosystème » (notamment [p5.js](https://p5js.org/))
