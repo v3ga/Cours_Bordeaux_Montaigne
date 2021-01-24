@@ -118,12 +118,22 @@ Pour ce projet vous produirez une application reposant sur les services de recon
 * **une vidéo explicative** (max 1mn30). Format vidéo : 1920 x 1080 (HD)
 * **un document** (max une page) avec le titre de l'application et un résumé du principe. Ce document servira pour la mise en ligne des projets sur le site du master.
 
-
 #### Date de rendu
 à remettre pour le mercredi 13 janvier soir au plus tard.
 
 #### Groupes
-* Léa / Charlène / Thomas / Tania  - groupe Brainstroming
+* Léa / Charlène / Thomas / Tania - groupe Brainstroming
 * Antonin / Draghixa / Marine / Florian : groupe Langage des signes
 * Ines / Ingrid / Anouche / Chloé : groupe Draw'n'collect (trouver des livres pour enfants à partir de dessins)
 * Maina / Sarah / Huan / Elea : groupe instrument de musique
+
+## Projets
+### Brainwords
+https://master.designbordeaux.fr/projets/2020-2021/MAG3E12/BW
+### Sign'it
+https://master.designbordeaux.fr/projets/2020-2021/MAG3E12/SignIt
+### Draw'n'collect
+https://master.designbordeaux.fr/projets/2020-2021/MAG3E12/Draw_n_collect/page_1.html
+### Dansons
+https://master.designbordeaux.fr/projets/2020-2021/MAG3E12/Dansons
+
