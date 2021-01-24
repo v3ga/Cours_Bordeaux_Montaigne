@@ -128,7 +128,7 @@ Pour ce projet vous produirez une application reposant sur les services de recon
 * Maina / Sarah / Huan / Elea : groupe instrument de musique
 
 ## Projets
-### Brainwords
+### Brainword
 https://master.designbordeaux.fr/projets/2020-2021/MAG3E12/BW
 ### Sign'it
 https://master.designbordeaux.fr/projets/2020-2021/MAG3E12/SignIt
