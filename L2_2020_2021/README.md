@@ -3,7 +3,7 @@ LAG4U6 // 2020-2021
 
 Ce cours aura pour but de vous donner les clés de compréhension de la programmation graphique dans un environnement web [p5.js](https://p5js.org/) en relation avec la pratique de design interactif. 
 
-*Le design interactif s'est élaboré dans la rencontre de deux phénomènes majeurs de l'Histoire récente. Tout d'abord, il est le fruit de la rupture que les courants de pensées artistiques et philosophiques ont effectué avec la pensée classique, qui a prédominé jusqu'au début du XXe sicèle. A une vision statique et idéale de notre univers s'est substituée sous l'influence de la science une réalité fondée sur la relativité du temps et l'importance fondamentale accordée à la notion d'échanges. Parrallèlement, le design s'est enrichi des possibilités ouvertes par le développement des nouvelles technologies.*<br />
+*Le design interactif s'est élaboré dans la rencontre de deux phénomènes majeurs de l'Histoire récente. Tout d'abord, il est le fruit de la rupture que les courants de pensées artistiques et philosophiques ont effectué avec la pensée classique, qui a prédominé jusqu'au début du XXe siècle. A une vision statique et idéale de notre univers s'est substituée sous l'influence de la science une réalité fondée sur la relativité du temps et l'importance fondamentale accordée à la notion d'échanges. Parrallèlement, le design s'est enrichi des possibilités ouvertes par le développement des nouvelles technologies.*<br />
 **Patrice Meunier & Kuei Yu Ho** — [Design interactif](https://www.editions-eyrolles.com/Livre/9782212129724/design-interactif)
 
 ## Cours #01 [en ligne] — Introduction — 18 janvier 
