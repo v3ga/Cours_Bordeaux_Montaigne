@@ -10,8 +10,8 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 ✍️ https://editor.p5js.org/v3ga/collections/nOmAbMBnE
 
 ## Cours en ligne 
-* 📼 [Cours #01 — Introduction — 18 janvier](https://www.youtube.com/watch?v=XXbs_8kn5m4)
-* 📼 [Cours #02 — Dessiner — 25 janvier](https://www.youtube.com/watch?v=XFBZiy8r9jQ)
+📼 [Cours #01 — Introduction — 18 janvier](https://www.youtube.com/watch?v=XXbs_8kn5m4)
+📼 [Cours #02 — Dessiner — 25 janvier](https://www.youtube.com/watch?v=XFBZiy8r9jQ)
 
 ## Cours #01 [en ligne] — Introduction — 18 janvier 
 Vidéo en ligne :point_right: https://www.youtube.com/watch?v=XXbs_8kn5m4
