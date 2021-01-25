@@ -26,6 +26,7 @@ Vidéo en ligne :point_right: https://www.youtube.com/watch?v=XXbs_8kn5m4
 « A free digital book that teaches a practical introduction to the new foundations of graphic design. By Rune Madsen. »
 
 ## Cours #02 — Dessiner — 25 janvier
+Vidéo en lign : point_right: https://www.youtube.com/watch?v=XFBZiy8r9jQ
 * repère de dessin, espace de dessin [p5js / createCanvas](https://p5js.org/reference/#/p5/createCanvas)
 * dessin de formes géométriques : [point](https://processing.org/reference/point_.html), [line](https://processing.org/reference/line_.html), [ellipse](https://processing.org/reference/ellipse_.html), [rect](https://processing.org/reference/rect_.html).
 * dessin de formes géométriques « composées » : [beginShape](https://processing.org/reference/beginShape_.html) / [vertex](https://processing.org/reference/vertex_.html) / [endShape](https://processing.org/reference/endShape_.html)
