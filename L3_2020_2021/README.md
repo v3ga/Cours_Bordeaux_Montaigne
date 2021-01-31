@@ -20,11 +20,17 @@ Ce premier va être une remise dans le bain des «briques» vues l'an passé. No
 ### Références
 * [Collections de sketches LAG4U6 2020](https://editor.p5js.org/v3ga/collections/7FvVaDMdC)
 
-## Cours #02 [en ligne] — Forces et champ vectoriel — 25 janvier 
+## Cours #02 [en ligne] — champ vectoriel (flow field) — 25 janvier 
 Visio. en ligne :point_right: https://youtu.be/xFi238AjLlE
 
 Nous allons re-travailler la notion de classe vue la semaine passée. A cette occasion, nous allons re-utiliser la classe *bille* (renommée *particle*) dans deux contextes différents pour les animer : 
 * particules plongées dans un *flow-field* (ou champs vectoriel), où à chaque point du canvas nous allons obtenir un vecteur (vx,vy) définissant la vitesse d'une particule. Ce champ pourra être statique ou évoluer dans le temps. Nous reverrons notamment la fonction de [Perlin noise](https://p5js.org/reference/#/p5/noise).
   * [excellent article](https://tylerxhobbs.com/essays/2020/flow-fields) de l'artiste [Tyler Hobbs](https://tylerxhobbs.com/) à ce sujet.
   * [article](https://genekogan.com/code/p5js-perlin-noise/) de Gene Kogan sur le Perlin noise dans p5.js
-* particules subissant les effets d'attracteurs ou de répulseurs. Nous verrons comment appliquer une force à une particule, force qui va agir sur *l'accélération* de la particule en fonction de sa masse.  
+
+## Cours #03 [en ligne] — champ vectoriel (flow field) — 1er février
+1. En complément du cours précédent, nous allons adjoindre à nos particules des propriétés de masse et d'accélaration pour pouvoir leur appliquer des forces en utilisant [la deuxième loi de Newton](https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton#Deuxi%C3%A8me_loi_de_Newton_ou_principe_fondamental_de_la_dynamique_de_translation) :<br>*" l'accélération subie par un corps [...] est proportionnelle à la résultante des forces qu'il subit, et inversement proportionnelle à sa masse m."*
+En particulier, nous allons appliquer à nos particules des forces d'attraction et de répulsion de manière dynamique, en fonction des interactions avec l'utilisateur par le biais de la souris.
+2. En fin de cours sera faite une introduction à la librairie [matter.js](https://brm.io/matter-js/) et notamment comment rendre "consistantes" nos particules, c'est à dire leur donner des propriétés d'objets physiques en interaction physique les unes avec les autres, à travers la gestion des collisions. 
+
+
