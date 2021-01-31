@@ -28,7 +28,8 @@ Nous allons re-travailler la notion de classe vue la semaine passée. A cette oc
   * [excellent article](https://tylerxhobbs.com/essays/2020/flow-fields) de l'artiste [Tyler Hobbs](https://tylerxhobbs.com/) à ce sujet.
   * [article](https://genekogan.com/code/p5js-perlin-noise/) de Gene Kogan sur le Perlin noise dans p5.js
 
-## Cours #03 [en ligne] — champ vectoriel (flow field) — 1er février
+## Cours #03 [en ligne] — Forces — 1er février
+Le cours s'articulera autour de deux notions : 
 1. En complément du cours précédent, nous allons adjoindre à nos particules des propriétés de masse et d'accélaration pour pouvoir leur appliquer des forces en utilisant [la deuxième loi de Newton](https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton#Deuxi%C3%A8me_loi_de_Newton_ou_principe_fondamental_de_la_dynamique_de_translation) :<br>*" l'accélération subie par un corps [...] est proportionnelle à la résultante des forces qu'il subit, et inversement proportionnelle à sa masse m."*
 En particulier, nous allons appliquer à nos particules des forces d'attraction et de répulsion de manière dynamique, en fonction des interactions avec l'utilisateur par le biais de la souris.
 2. En fin de cours sera faite une introduction à la librairie [matter.js](https://brm.io/matter-js/) et notamment comment rendre "consistantes" nos particules, c'est à dire leur donner des propriétés d'objets physiques en interaction physique les unes avec les autres, à travers la gestion des collisions. 
