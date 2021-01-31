@@ -40,4 +40,10 @@ Vidéo en ligne :point_right: https://www.youtube.com/watch?v=XFBZiy8r9jQ
 * gestion des couleurs ([color](https://processing.org/reference/color_.html)) et des options de dessin([stroke](https://processing.org/reference/stroke_.html), [noStroke](https://processing.org/reference/noStroke_.html), [fill](https://processing.org/reference/fill_.html), [noFill](https://processing.org/reference/noFill_.html), [strokeWeight](https://processing.org/reference/strokeWeight_.html))
 * exporter / faire une capture d'écran avec la fonction [p5js / save](https://p5js.org/reference/#/p5/save)
 
+## Cours #03 — Animer — 1er février
+* Animer : 
+  * avec une fonction génératrice de nombre aléatoires : [random](https://processing.org/reference/randomGaussian_.html)  
+  * avec la variable de temps [frameCount](https://processing.org/reference/frameCount_.html) et la fonction [millis()](https://processing.org/reference/millis_.html)
+  * avec les variables [mouseX](https://processing.org/reference/mouseX.html) et [mouseY](https://processing.org/reference/mouseY.html) pour capter la position de la souris dans le canvas.  
+
 
