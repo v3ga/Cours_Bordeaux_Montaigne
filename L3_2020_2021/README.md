@@ -9,7 +9,8 @@ L'objectif sera de proposer une installation numérique collective présentée �
 
 ## Cours en ligne 
 📼 [Cours #01 — Remise dans le bain — 18 janvier](https://youtu.be/N598oS3DThA)<br>
-📼 [Cours #02 — Forces & champ vectoriel (flow field) — 25 janvier](https://youtu.be/xFi238AjLlE)
+📼 [Cours #02 — Champ vectoriel (flow field) — 25 janvier](https://youtu.be/xFi238AjLlE)
+📼 [Cours #03 — Forces — 1 février](https://youtu.be/g5BRhRPa7P0)
 
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
@@ -20,7 +21,7 @@ Ce premier va être une remise dans le bain des «briques» vues l'an passé. No
 ### Références
 * [Collections de sketches LAG4U6 2020](https://editor.p5js.org/v3ga/collections/7FvVaDMdC)
 
-## Cours #02 [en ligne] — champ vectoriel (flow field) — 25 janvier 
+## Cours #02 [en ligne] — Champ vectoriel (flow field) — 25 janvier 
 Visio. en ligne :point_right: https://youtu.be/xFi238AjLlE
 
 Nous allons re-travailler la notion de classe vue la semaine passée. A cette occasion, nous allons re-utiliser la classe *bille* (renommée *particle*) dans deux contextes différents pour les animer : 
