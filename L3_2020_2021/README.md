@@ -9,7 +9,7 @@ L'objectif sera de proposer une installation numérique collective présentée �
 
 ## Cours en ligne 
 📼 [Cours #01 — Remise dans le bain — 18 janvier](https://youtu.be/N598oS3DThA)<br>
-📼 [Cours #02 — Champ vectoriel (flow field) — 25 janvier](https://youtu.be/xFi238AjLlE)
+📼 [Cours #02 — Champ vectoriel (flow field) — 25 janvier](https://youtu.be/xFi238AjLlE)<br>
 📼 [Cours #03 — Forces — 1 février](https://youtu.be/g5BRhRPa7P0)
 
 
@@ -30,6 +30,8 @@ Nous allons re-travailler la notion de classe vue la semaine passée. A cette oc
   * [article](https://genekogan.com/code/p5js-perlin-noise/) de Gene Kogan sur le Perlin noise dans p5.js
 
 ## Cours #03 [en ligne] — Forces — 1er février
+Visio. en ligne :point_right: https://youtu.be/g5BRhRPa7P0
+
 Le cours s'articulera autour de deux notions : 
 1. En complément du cours précédent, nous allons adjoindre à nos particules des propriétés de masse et d'accélaration pour pouvoir leur appliquer des forces en utilisant [la deuxième loi de Newton](https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton#Deuxi%C3%A8me_loi_de_Newton_ou_principe_fondamental_de_la_dynamique_de_translation) :<br>*" l'accélération subie par un corps [...] est proportionnelle à la résultante des forces qu'il subit, et inversement proportionnelle à sa masse m."*
 En particulier, nous allons appliquer à nos particules des forces d'attraction et de répulsion de manière dynamique, en fonction des interactions avec l'utilisateur par le biais de la souris.
