@@ -48,7 +48,7 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
 2. En fin de cours sera faite une introduction à la librairie [matter.js](https://brm.io/matter-js/) et notamment comment rendre "consistantes" nos particules, c'est à dire leur donner des propriétés d'objets physiques en interaction les unes avec les autres, à travers la gestion des collisions. 
 
   <br>
-  <img src="210202_LAG6U6_cours03_matter_js_lettres.gif" />
+  <img width="200" src="210202_LAG6U6_cours03_matter_js_lettres.gif" />
 
 
 
