@@ -31,6 +31,8 @@ Nous allons re-travailler la notion de classe vue la semaine passée. A cette oc
   <br>
   <img src="210202_LAG6U6_cours02_flowfield.gif" />
   <img src="LAG6U6_cours02_particules_flowfields_time_gif.png" />
+  <img src="210202_LAG6U6_cours02_flowfield_quantification.gif" />
+  <img src="LAG6U6_cours02_particules_flowfields_time_quantification_gif.png" />
 
 ## Cours #03 [en ligne] — Forces — 1er février
 Visio. en ligne :point_right: https://youtu.be/g5BRhRPa7P0
