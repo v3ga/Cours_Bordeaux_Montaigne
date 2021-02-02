@@ -29,10 +29,10 @@ Nous allons re-travailler la notion de classe vue la semaine passée. A cette oc
   * [excellent article](https://tylerxhobbs.com/essays/2020/flow-fields) de l'artiste [Tyler Hobbs](https://tylerxhobbs.com/) à ce sujet.
   * [article](https://genekogan.com/code/p5js-perlin-noise/) de Gene Kogan sur le Perlin noise dans p5.js
   <br>
-  <img width="200" src="210202_LAG6U6_cours02_flowfield.gif" />
-  <img width="200" src="LAG6U6_cours02_particules_flowfields_time_gif.png" />
-  <img width="200" src="210202_LAG6U6_cours02_flowfield_quantification.gif" />
-  <img width="200" src="LAG6U6_cours02_particules_flowfields_time_quantification_gif.png" />
+  <a href="https://editor.p5js.org/v3ga/sketches/iAALqNdRh" target="_blank"><img width="200" src="210202_LAG6U6_cours02_flowfield.gif" /></a>
+  <a href="https://editor.p5js.org/v3ga/sketches/iAALqNdRh" target="_blank"><img width="200" src="LAG6U6_cours02_particules_flowfields_time_gif.png" /></a>
+  <a href="https://editor.p5js.org/v3ga/sketches/JTs6m4-Bu" target="_blank"><img width="200" src="210202_LAG6U6_cours02_flowfield_quantification.gif" /></a>
+  <a href="https://editor.p5js.org/v3ga/sketches/JTs6m4-Bu" target="_blank"><img width="200" src="LAG6U6_cours02_particules_flowfields_time_quantification_gif.png" /></a>
 
 ## Cours #03 [en ligne] — Forces — 1er février
 Visio. en ligne :point_right: https://youtu.be/g5BRhRPa7P0
@@ -42,7 +42,7 @@ Le cours s'articulera autour de deux notions :
 En particulier, nous allons appliquer à nos particules des forces d'attraction et de répulsion de manière dynamique, en fonction des interactions avec l'utilisateur par le biais de la souris.
 
 <a title="After Godfrey Kneller
-, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:GodfreyKneller-IsaacNewton-1689.jpg"><img height="300" alt="GodfreyKneller-IsaacNewton-1689" src="https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"></a><img height="300" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Newtons_laws_in_latin.jpg"><a href="https://editor.p5js.org/v3ga/sketches/JTs6m4-Bu"><img src="210202_LAG6U6_cours03_forces_repulsion.gif" height="300" /></a>
+, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:GodfreyKneller-IsaacNewton-1689.jpg"><img height="300" alt="GodfreyKneller-IsaacNewton-1689" src="https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"></a><img height="300" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Newtons_laws_in_latin.jpg"><a href="https://editor.p5js.org/v3ga/sketches/rlFXZoYtQ"><img src="210202_LAG6U6_cours03_forces_repulsion.gif" height="300" /></a>
 
 
 2. En fin de cours sera faite une introduction à la librairie [matter.js](https://brm.io/matter-js/) et notamment comment rendre "consistantes" nos particules, c'est à dire leur donner des propriétés d'objets physiques en interaction les unes avec les autres, à travers la gestion des collisions. 
