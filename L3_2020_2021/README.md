@@ -29,10 +29,10 @@ Nous allons re-travailler la notion de classe vue la semaine passée. A cette oc
   * [excellent article](https://tylerxhobbs.com/essays/2020/flow-fields) de l'artiste [Tyler Hobbs](https://tylerxhobbs.com/) à ce sujet.
   * [article](https://genekogan.com/code/p5js-perlin-noise/) de Gene Kogan sur le Perlin noise dans p5.js
   <br>
-  <img src="210202_LAG6U6_cours02_flowfield.gif" />
-  <img src="LAG6U6_cours02_particules_flowfields_time_gif.png" />
-  <img src="210202_LAG6U6_cours02_flowfield_quantification.gif" />
-  <img src="LAG6U6_cours02_particules_flowfields_time_quantification_gif.png" />
+  <img width="200" src="210202_LAG6U6_cours02_flowfield.gif" />
+  <img width="200" src="LAG6U6_cours02_particules_flowfields_time_gif.png" />
+  <img width="200" src="210202_LAG6U6_cours02_flowfield_quantification.gif" />
+  <img width="200" src="LAG6U6_cours02_particules_flowfields_time_quantification_gif.png" />
 
 ## Cours #03 [en ligne] — Forces — 1er février
 Visio. en ligne :point_right: https://youtu.be/g5BRhRPa7P0
