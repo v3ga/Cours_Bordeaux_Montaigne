@@ -30,6 +30,7 @@ Nous allons re-travailler la notion de classe vue la semaine passée. A cette oc
   * [article](https://genekogan.com/code/p5js-perlin-noise/) de Gene Kogan sur le Perlin noise dans p5.js
   <br>
   <img src="210202_LAG6U6_cours02_flowfield.gif" />
+  <img src="LAG6U6_cours02_particules_flowfields_time_gif.png" />
 
 ## Cours #03 [en ligne] — Forces — 1er février
 Visio. en ligne :point_right: https://youtu.be/g5BRhRPa7P0
