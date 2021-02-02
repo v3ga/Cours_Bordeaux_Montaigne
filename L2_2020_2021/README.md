@@ -41,6 +41,8 @@ Vidéo en ligne :point_right: https://www.youtube.com/watch?v=XFBZiy8r9jQ
 * exporter / faire une capture d'écran avec la fonction [p5js / save](https://p5js.org/reference/#/p5/save)
 
 ## Cours #03 — Animer — 1er février
+Vidéo en ligne :point_right: https://youtu.be/_WyUHqWTTp4
+
 * Animer : 
   * avec une fonction génératrice de nombre aléatoires : [random](https://processing.org/reference/randomGaussian_.html)  
   * avec la variable de temps [frameCount](https://processing.org/reference/frameCount_.html) et la fonction [millis()](https://processing.org/reference/millis_.html)
