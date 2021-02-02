@@ -28,6 +28,8 @@ Nous allons re-travailler la notion de classe vue la semaine passée. A cette oc
 * particules plongées dans un *flow-field* (ou champs vectoriel), où à chaque point du canvas nous allons obtenir un vecteur (vx,vy) définissant la vitesse d'une particule. Ce champ pourra être statique ou évoluer dans le temps. Nous reverrons notamment la fonction de [Perlin noise](https://p5js.org/reference/#/p5/noise).
   * [excellent article](https://tylerxhobbs.com/essays/2020/flow-fields) de l'artiste [Tyler Hobbs](https://tylerxhobbs.com/) à ce sujet.
   * [article](https://genekogan.com/code/p5js-perlin-noise/) de Gene Kogan sur le Perlin noise dans p5.js
+  <br>
+  <img src="210202_LAG6U6_cours02_flowfield.gif" />
 
 ## Cours #03 [en ligne] — Forces — 1er février
 Visio. en ligne :point_right: https://youtu.be/g5BRhRPa7P0
@@ -41,6 +43,9 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
 
 
 2. En fin de cours sera faite une introduction à la librairie [matter.js](https://brm.io/matter-js/) et notamment comment rendre "consistantes" nos particules, c'est à dire leur donner des propriétés d'objets physiques en interaction les unes avec les autres, à travers la gestion des collisions. 
+
+  <br>
+  <img src="210202_LAG6U6_cours03_matter_js_lettres.gif" />
 
 
 
