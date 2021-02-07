@@ -66,3 +66,8 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 <script src="https://licence.designbordeaux.fr/LAG6U6/p5_matter_helpers.js"></script>
 <script src="https://licence.designbordeaux.fr/LAG6U6/p5_facemesh_helpers.js"></script>
 ```
+
+#### Références artistiques
+* [Josh Nimoy / BallDroppings](https://experiments.withgoogle.com/balldroppings)
+* [Zach Lieberman & Golan Levin / Manual Input Sessions](https://vimeo.com/22518283)
+* [Zach Lieberman & Golan Levin / Messa Di Voce](https://www.youtube.com/watch?v=STRMcmj-gHc)
