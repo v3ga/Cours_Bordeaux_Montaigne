@@ -53,7 +53,7 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
   <a href="https://editor.p5js.org/v3ga/sketches/W68AUpSSp" target="_blank"><img width="200" src="210202_LAG6U6_cours03_matter_js_lettres.gif" /></a>
   
 
-## Cours #03 [en ligne] — Physique des solides — 8 février
+## Cours #04 [en ligne] — Physique des solides — 8 février
 Dans ce cours, nous allons continuer d'explorer la librairie [matter.js](https://brm.io/matter-js/) avec la création d'objets physiques et nous allons combiner leur création avec deux librairies : 
 
 1. [p5.speech](https://idmnyu.github.io/p5.js-speech/) qui permet de faire de la reconnaissance vocale. L'idée sera d'analyser les mots prononcés pour les "transformer" en objets physiques dans notre scène.
