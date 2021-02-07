@@ -54,3 +54,10 @@ Vidéo en ligne :point_right: https://youtu.be/_WyUHqWTTp4
 ### Références
 * Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
 * Manuel Floss [FR] - [Dessiner / les évènements souris](https://fr.flossmanuals.net/processing/les-evenements-souris/)
+
+## Cours #04 — Mémoriser — 8 février
+Introductions à la notion de variables :
+* Chargement et affichage d'une [image](https://p5js.org/reference/#group-Image).
+* Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image
+* Utiliser les informations de couleur contenues dans une image via la fonction [get()](https://p5js.org/reference/#/p5/get) pour générer une composition « pointilliste »
+
