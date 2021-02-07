@@ -64,4 +64,5 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 
 ```html
 <script src="https://licence.designbordeaux.fr/LAG6U6/p5_matter_helpers.js"></script>
+<script src="https://licence.designbordeaux.fr/LAG6U6/p5_facemesh_helpers.js"></script>
 ```
