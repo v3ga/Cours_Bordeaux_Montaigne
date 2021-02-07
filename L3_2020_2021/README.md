@@ -63,5 +63,5 @@ Nous exploiterons aussi la création d'objets statiques (obstacles).
 Pour faciliter l'inclusion des fonctions "helpers", j'ai placé un fichier en ligne. L'avantage est qu'un changement sur ce fichier se répercute sur l'ensemble des sketches qui utilisent ce fichier.
 
 ```html
-    <script src="https://licence.designbordeaux.fr/LAG6U6/p5_matter_helpers.js"></script>
+<script src="https://licence.designbordeaux.fr/LAG6U6/p5_matter_helpers.js"></script>
 ```
