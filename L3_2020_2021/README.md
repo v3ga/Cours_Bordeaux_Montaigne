@@ -60,7 +60,7 @@ Dans ce cours, nous allons continuer d'explorer la librairie [matter.js](https:/
 2. [ml5.js / facemesh](https://learn.ml5js.org/#/reference/facemesh) qui va nous permettre de détecter les contours d'un visage à partir d'une image de la camera. Nous utiliserons cet algorithme pour émettre des particules depuis certains points du visage détecté.
 
 Nous exploiterons aussi la création d'objets statiques (obstacles).
-Pour faciliter l'inclusion des fonctions "helpers", j'ai placé un fichier en ligne. L'avantage est qu'un changement sur ce fichier se répercute sur l'ensemble des sketches qui utilisent ce fichier.
+Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai placé un fichier en ligne. L'avantage est qu'un changement sur ce fichier se répercute sur l'ensemble des sketches qui utilisent ce fichier.
 
 ```html
 <script src="https://licence.designbordeaux.fr/LAG6U6/p5_matter_helpers.js"></script>
