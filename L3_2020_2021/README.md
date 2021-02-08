@@ -10,8 +10,8 @@ L'objectif sera de proposer une installation numérique collective présentée �
 ## Cours en ligne 
 📼 [Cours #01 — Remise dans le bain — 18 janvier](https://youtu.be/N598oS3DThA)<br>
 📼 [Cours #02 — Champ vectoriel (flow field) — 25 janvier](https://youtu.be/xFi238AjLlE)<br>
-📼 [Cours #03 — Forces — 1 février](https://youtu.be/g5BRhRPa7P0)
-
+📼 [Cours #03 — Forces — 1er février](https://youtu.be/g5BRhRPa7P0)
+📼 [Cours #04 — Physique des solides — 8 février](https://www.youtube.com/watch?v=4rkqkz2UhIE)
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
 Visio. en ligne :point_right: https://youtu.be/N598oS3DThA
@@ -54,6 +54,8 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
   
 
 ## Cours #04 [en ligne] — Physique des solides — 8 février
+Visio. en ligne :point_right: https://www.youtube.com/watch?v=4rkqkz2UhIE
+
 Dans ce cours, nous allons continuer d'explorer la librairie [matter.js](https://brm.io/matter-js/) avec la création d'objets physiques et nous allons combiner leur création avec deux librairies : 
 
 1. [p5.speech](https://idmnyu.github.io/p5.js-speech/) qui permet de faire de la reconnaissance vocale. L'idée sera d'analyser les mots prononcés pour les "transformer" en objets physiques dans notre scène.
@@ -67,8 +69,8 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 <script src="https://licence.designbordeaux.fr/LAG6U6/p5_facemesh_helpers.js"></script>
 ```
 
-<img src="200" src="210208_LAG6U6_cours04_matter_js_facemesh_01.gif" />
-<img src="200" src="
+<img width="200" src="210208_LAG6U6_cours04_matter_js_facemesh_01.gif" />
+<img width="200" src="
 210208_LAG6U6_cours04_matter_js_obstacles.gif" />
 
 #### Références artistiques
