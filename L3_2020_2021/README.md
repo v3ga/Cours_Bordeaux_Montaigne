@@ -10,7 +10,7 @@ L'objectif sera de proposer une installation numérique collective présentée �
 ## Cours en ligne 
 📼 [Cours #01 — Remise dans le bain — 18 janvier](https://youtu.be/N598oS3DThA)<br>
 📼 [Cours #02 — Champ vectoriel (flow field) — 25 janvier](https://youtu.be/xFi238AjLlE)<br>
-📼 [Cours #03 — Forces — 1er février](https://youtu.be/g5BRhRPa7P0)
+📼 [Cours #03 — Forces — 1er février](https://youtu.be/g5BRhRPa7P0)<br>
 📼 [Cours #04 — Physique des solides — 8 février](https://www.youtube.com/watch?v=4rkqkz2UhIE)
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
