@@ -69,8 +69,7 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 <script src="https://licence.designbordeaux.fr/LAG6U6/p5_facemesh_helpers.js"></script>
 ```
 
-<img width="200" src="210208_LAG6U6_cours04_matter_js_facemesh_01.gif" />
-<img width="200" src="210208_LAG6U6_cours04_matter_js_obstacles.gif" />
+<img height="300" src="210208_LAG6U6_cours04_matter_js_facemesh_01.gif" /><img height="300" src="210208_LAG6U6_cours04_matter_js_obstacles.gif" />
 
 #### Références artistiques
 * [Josh Nimoy / BallDroppings](https://experiments.withgoogle.com/balldroppings)
