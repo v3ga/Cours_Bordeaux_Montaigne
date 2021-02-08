@@ -70,8 +70,7 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 ```
 
 <img width="200" src="210208_LAG6U6_cours04_matter_js_facemesh_01.gif" />
-<img width="200" src="
-210208_LAG6U6_cours04_matter_js_obstacles.gif" />
+<img width="200" src="210208_LAG6U6_cours04_matter_js_obstacles.gif" />
 
 #### Références artistiques
 * [Josh Nimoy / BallDroppings](https://experiments.withgoogle.com/balldroppings)
