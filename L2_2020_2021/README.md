@@ -14,6 +14,18 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 📼 [Cours #02 — Dessiner — 25 janvier](https://www.youtube.com/watch?v=XFBZiy8r9jQ)
 📼 [Cours #03 — Animer — 1er février](https://youtu.be/_WyUHqWTTp4)
 
+### Barême pour les exercices / projets
+Pour les exercices que je vous donne, le barême est le suivant (sur 10)
+* **rendu en temps et en heure** :point_right: 1 point.
+* **respect de la consigne** :point_right: 3 points. 
+Le sketch doit être au bon format : 
+   * envoi de l'adresse du sketch en ligne sur [editor.p5.js](https://editor.p5js.org/)
+   * les noms de sketches seront sous la forme **sketch_date_rendu_nom_prenom**. Exemple : exercice à rendre pour le 18 février :point_right: sketch_190218_dupond_marie
+   * envoi par e-mail, **pas de wetransfer (merci)**.
+* **créativité** :point_right: 6 points. 
+J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe ou de références que vous trouvez en ligne.
+
+
 ## Cours #01 [en ligne] — Introduction — 18 janvier 
 Vidéo en ligne :point_right: https://www.youtube.com/watch?v=XXbs_8kn5m4
 
@@ -55,9 +67,11 @@ Vidéo en ligne :point_right: https://youtu.be/_WyUHqWTTp4
 * Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
 * Manuel Floss [FR] - [Dessiner / les évènements souris](https://fr.flossmanuals.net/processing/les-evenements-souris/)
 
-## Cours #04 — Mémoriser — 8 février
+## Cours #04 — Mémoriser — 24 février
 Introductions à la notion de variables :
 * Chargement et affichage d'une [image](https://p5js.org/reference/#group-Image).
 * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image
 * Utiliser les informations de couleur contenues dans une image via la fonction [get()](https://p5js.org/reference/#/p5/get) pour générer une composition « pointilliste »
 
+#### Exercice à rendre pour le dimanche 7 mars
+L'exercice sera de dessiner un visage avec des éléments géométriques (lignes, courbes, formes) à la façon de Bruno Munari dans le livre [« Design as Art »](http://www.strabic.fr/Bruno-Munari), dans le paragraphe [« Variation on the Theme of the Human Face »](https://youtu.be/EysmeN6CPII?t=230).  Vous n'utiliserez que du noir et du blanc sur un espace de dessin de 500 pixels de large et de haut. Une attention particulière sera portée à l'expressivité du visage que vous dessinerez.
