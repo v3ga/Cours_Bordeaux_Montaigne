@@ -76,4 +76,6 @@ Introductions à la notion de variables :
 #### Exercice à rendre pour le dimanche 7 mars
 L'exercice sera de dessiner un visage avec des éléments géométriques (lignes, courbes, formes) à la façon de Bruno Munari dans le livre [« Design as Art »](http://www.strabic.fr/Bruno-Munari), dans le paragraphe [« Variation on the Theme of the Human Face »](https://youtu.be/EysmeN6CPII?t=230).  Vous n'utiliserez que du noir et du blanc sur un espace de dessin de 500 pixels de large et de haut. Une attention particulière sera portée à l'expressivité du visage que vous dessinerez.
 
+:point_right: voir le lien https://hafiprocessjournal.wordpress.com/2014/10/16/bruno-munari/
+
 <img src="MUNARI_ART_DESIGN_1.jpg" width="500" />
