@@ -12,7 +12,7 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 ## Cours en ligne 
 📼 [Cours #01 — Introduction — 18 janvier](https://www.youtube.com/watch?v=XXbs_8kn5m4)<br>
 📼 [Cours #02 — Dessiner — 25 janvier](https://www.youtube.com/watch?v=XFBZiy8r9jQ)<br>
-📼 [Cours #03 — Animer — 1er février](https://youtu.be/_WyUHqWTTp4)
+📼 [Cours #03 — Animer — 1er février](https://youtu.be/_WyUHqWTTp4)<br>
 📼 [Cours #04 — Mémoriser — 24 février](https://youtu.be/WAQtpuWMVvY)
 
 ### Barême pour les exercices / projets
@@ -69,6 +69,12 @@ Vidéo en ligne :point_right: https://youtu.be/_WyUHqWTTp4
 * Manuel Floss [FR] - [Dessiner / les évènements souris](https://fr.flossmanuals.net/processing/les-evenements-souris/)
 
 ## Cours #04 — Mémoriser — 24 février
+Vidéo en ligne :point_right: https://youtu.be/WAQtpuWMVvY
+
+<img src="210224_LAG4U6_cours04_image.gif" width="400" /><img src="210224_LAG4U6_cours04_image_pointillisme.gif" width="400" />
+
+
+
 Introductions à la notion de variables :
 * Chargement et affichage d'une [image](https://p5js.org/reference/#group-Image).
 * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image
