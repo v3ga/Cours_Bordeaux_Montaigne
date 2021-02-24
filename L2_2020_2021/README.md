@@ -62,7 +62,7 @@ Vidéo en ligne :point_right: https://youtu.be/_WyUHqWTTp4
   * avec la variable de temps [frameCount](https://processing.org/reference/frameCount_.html) et la fonction [millis()](https://processing.org/reference/millis_.html)
   * avec les variables [mouseX](https://processing.org/reference/mouseX.html) et [mouseY](https://processing.org/reference/mouseY.html) pour capter la position de la souris dans le canvas.  
 
-<img src="LAG4U6_2021_cours03_randow_walker_2s.gif" width="200" />
+<a href="https://editor.p5js.org/v3ga/sketches/luJUdh89X" target="_blank"><img src="LAG4U6_2021_cours03_randow_walker_2s.gif" width="300" /></a>
 
 ### Références
 * Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
@@ -71,7 +71,7 @@ Vidéo en ligne :point_right: https://youtu.be/_WyUHqWTTp4
 ## Cours #04 — Mémoriser — 24 février
 Vidéo en ligne :point_right: https://youtu.be/WAQtpuWMVvY
 
-<img src="210224_LAG4U6_cours04_image.gif" width="400" /><img src="210224_LAG4U6_cours04_image_pointillisme.gif" width="400" />
+<a href="https://editor.p5js.org/v3ga/sketches/PElg9rcu-" target="_blank"><img src="210224_LAG4U6_cours04_image.gif" width="400" /></a><a href="https://editor.p5js.org/v3ga/sketches/8QmRG2znZ" target="_blank"><img src="210224_LAG4U6_cours04_image_pointillisme.gif" width="400" /></a>
 
 
 
