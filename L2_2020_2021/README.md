@@ -13,6 +13,7 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 📼 [Cours #01 — Introduction — 18 janvier](https://www.youtube.com/watch?v=XXbs_8kn5m4)<br>
 📼 [Cours #02 — Dessiner — 25 janvier](https://www.youtube.com/watch?v=XFBZiy8r9jQ)<br>
 📼 [Cours #03 — Animer — 1er février](https://youtu.be/_WyUHqWTTp4)
+📼 [Cours #04 — Mémoriser — 24 février](https://youtu.be/WAQtpuWMVvY)
 
 ### Barême pour les exercices / projets
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
