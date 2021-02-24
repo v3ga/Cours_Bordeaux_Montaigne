@@ -11,7 +11,7 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 
 ## Cours en ligne 
 📼 [Cours #01 — Introduction — 18 janvier](https://www.youtube.com/watch?v=XXbs_8kn5m4)<br>
-📼 [Cours #02 — Dessiner — 25 janvier](https://www.youtube.com/watch?v=XFBZiy8r9jQ)
+📼 [Cours #02 — Dessiner — 25 janvier](https://www.youtube.com/watch?v=XFBZiy8r9jQ)<br>
 📼 [Cours #03 — Animer — 1er février](https://youtu.be/_WyUHqWTTp4)
 
 ### Barême pour les exercices / projets
