@@ -87,7 +87,7 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 
 <img src="MUNARI_ART_DESIGN_1.jpg" width="500" />
 
-## Cours #05 — Modéliser — 24 février
+## Cours #05 — Modéliser — 1er mars
 Vidéo en ligne :point_right: *à venir*
 
 * Branchement / condition avec [if](https://p5js.org/reference/#/p5/if-else) : exécuter des blocs de code en fonction de l'évaluation de conditions.
