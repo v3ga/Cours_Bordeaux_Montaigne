@@ -96,3 +96,4 @@ Vidéo en ligne :point_right: *à venir*
   * utilisation des conditions pour que la bille reste à l'intérieur du canvas.
 * Programmation du jeu [Pong](https://fr.wikipedia.org/wiki/Pong) avec le modèle de bille / balle et de raquettes.
 
+<img width="300" src="LAG4U6_cours05_pong.gif" />
