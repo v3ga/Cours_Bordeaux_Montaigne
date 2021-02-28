@@ -81,6 +81,8 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 
 
 ## Cours #05 [en ligne] — Physique des solides : les contraintes — 1er mars
+:point_right: [Template de code sur editor.p5.js](https://editor.p5js.org/v3ga/sketches/uKridiICw)
+
 * création d'une contrainte permettant de saisir les objets.
 * création d'une contrainte ponctuelle sur un objets, les permettant de tourner autour d'un axe.
 * création d'une contrainte à distance : cas classique (simple « fil ») et attracteur.
