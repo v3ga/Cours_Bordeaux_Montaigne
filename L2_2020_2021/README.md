@@ -86,3 +86,13 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 :point_right: voir le lien https://hafiprocessjournal.wordpress.com/2014/10/16/bruno-munari/
 
 <img src="MUNARI_ART_DESIGN_1.jpg" width="500" />
+
+## Cours #05 — Modéliser — 24 février
+Vidéo en ligne :point_right: *à venir*
+
+* Branchement / condition avec [if](https://p5js.org/reference/#/p5/if-else) : exécuter des blocs de code en fonction de l'évaluation de conditions.
+* Modélisation d'une bille rebondissante sur les bordures de la fenêtre : 
+  * utilisation de variables pour représenter les position / vitesse sur le canvas.
+  * utilisation des conditions pour que la bille reste à l'intérieur du canvas.
+* Programmation du jeu [Pong](https://fr.wikipedia.org/wiki/Pong) avec le modèle de bille / balle et de raquettes.
+
