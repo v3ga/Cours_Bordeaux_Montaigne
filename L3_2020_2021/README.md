@@ -75,3 +75,17 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 * [Josh Nimoy / BallDroppings](https://experiments.withgoogle.com/balldroppings)
 * [Zach Lieberman & Golan Levin / Manual Input Sessions](https://vimeo.com/22518283)
 * [Zach Lieberman & Golan Levin / Messa Di Voce](https://www.youtube.com/watch?v=STRMcmj-gHc)
+
+### Liens exemples matter.js
+* https://github.com/b-g/p5-matter-examples : exemples des multiples possibilités de p5.js + matter.js
+
+
+## Cours #05 [en ligne] — Physique des solides : les contraintes — 1er mars
+* création d'une contrainte permettant de saisir les objets.
+* création d'une contrainte ponctuelle sur un objets, les permettant de tourner autour d'un axe.
+* création d'une contrainte à distance : cas classique (simple « fil ») et attracteur.
+* modification de la gravité avec la fonction *setGravity()* 
+  * A cette occasion nous reverrons la création de controles (slider) dans p5.js
+
+
+
