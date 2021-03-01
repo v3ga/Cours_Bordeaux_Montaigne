@@ -11,7 +11,8 @@ L'objectif sera de proposer une installation numérique collective présentée �
 📼 [Cours #01 — Remise dans le bain — 18 janvier](https://youtu.be/N598oS3DThA)<br>
 📼 [Cours #02 — Champ vectoriel (flow field) — 25 janvier](https://youtu.be/xFi238AjLlE)<br>
 📼 [Cours #03 — Forces — 1er février](https://youtu.be/g5BRhRPa7P0)<br>
-📼 [Cours #04 — Physique des solides — 8 février](https://www.youtube.com/watch?v=4rkqkz2UhIE)
+📼 [Cours #04 — Physique des solides — 8 février](https://www.youtube.com/watch?v=4rkqkz2UhIE)<br />
+📼 [Cours #05 — Physique des solides : les contraintes — 1er mars](https://youtu.be/5TJXqVjHiIA)
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
 Visio. en ligne :point_right: https://youtu.be/N598oS3DThA
@@ -81,7 +82,8 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 
 
 ## Cours #05 [en ligne] — Physique des solides : les contraintes — 1er mars
-:point_right: [Template de code sur editor.p5.js](https://editor.p5js.org/v3ga/sketches/uKridiICw)
+* Visio. en ligne :point_right: https://youtu.be/5TJXqVjHiIA
+* [Template de code sur editor.p5.js](https://editor.p5js.org/v3ga/sketches/uKridiICw)
 
 * création d'une contrainte permettant de saisir les objets.
 * création d'une contrainte ponctuelle sur un objets, les permettant de tourner autour d'un axe.
