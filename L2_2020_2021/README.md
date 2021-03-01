@@ -14,7 +14,7 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 📼 [Cours #02 — Dessiner — 25 janvier](https://www.youtube.com/watch?v=XFBZiy8r9jQ)<br>
 📼 [Cours #03 — Animer — 1er février](https://youtu.be/_WyUHqWTTp4)<br>
 📼 [Cours #04 — Mémoriser — 24 février](https://youtu.be/WAQtpuWMVvY)<br>
-📼 [Cours #05 — Modéliser — 1er mars](https://youtu.be/5TJXqVjHiIA)
+
 
 ### Barême pour les exercices / projets
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
@@ -89,7 +89,7 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 <img src="MUNARI_ART_DESIGN_1.jpg" width="500" />
 
 ## Cours #05 — Modéliser — 1er mars
-Vidéo en ligne :point_right: https://youtu.be/5TJXqVjHiIA
+Vidéo en ligne :point_right:
 
 * Branchement / condition avec [if](https://p5js.org/reference/#/p5/if-else) : exécuter des blocs de code en fonction de l'évaluation de conditions.
 * Modélisation d'une bille rebondissante sur les bordures de la fenêtre : 
