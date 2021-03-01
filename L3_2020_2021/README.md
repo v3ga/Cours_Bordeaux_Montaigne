@@ -82,8 +82,9 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 
 
 ## Cours #05 [en ligne] — Physique des solides : les contraintes — 1er mars
-* Visio. en ligne :point_right: https://youtu.be/5TJXqVjHiIA
-* [Template de code sur editor.p5.js](https://editor.p5js.org/v3ga/sketches/uKridiICw)
+Visio. en ligne :point_right: https://youtu.be/5TJXqVjHiIA <br>
+[Template de code sur editor.p5.js](https://editor.p5js.org/v3ga/sketches/uKridiICw)<br>
+
 
 * création d'une contrainte permettant de saisir les objets.
 * création d'une contrainte ponctuelle sur un objets, les permettant de tourner autour d'un axe.
