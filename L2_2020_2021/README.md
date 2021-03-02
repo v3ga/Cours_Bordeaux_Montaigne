@@ -98,3 +98,12 @@ Vidéo en ligne :point_right: https://youtu.be/vjtkl8sPST0
 * Programmation du jeu [Pong](https://fr.wikipedia.org/wiki/Pong) avec le modèle de bille / balle et de raquettes.
 
 <img width="300" src="LAG4U6_cours05_pong.gif" />
+
+## Cours #06 — Répéter — 3 mars
+* Révision de [la structure de controle if](https://fr.flossmanuals.net/processing/les-conditions/)
+* [Boucle for](https://fr.flossmanuals.net/processing/les-repetitions/) pour répéter une série d'instructions.
+* Utilisation d'une double boucle imbriquée pour paver l'espace avec un motif.
+
+### Références
+* Manuel Floss [FR] - [Les répétitions](https://fr.flossmanuals.net/processing/les-repetitions/)
+* Casey Reas [EN] — [10 PRINT CHR$(205.5+RND(1))](https://p5js.org/reference/#/p5/translate)
