@@ -85,12 +85,21 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 Visio. en ligne :point_right: https://youtu.be/5TJXqVjHiIA <br>
 [Template de code sur editor.p5.js](https://editor.p5js.org/v3ga/sketches/uKridiICw)<br>
 
-
 * création d'une contrainte permettant de saisir les objets.
 * création d'une contrainte ponctuelle sur un objets, les permettant de tourner autour d'un axe.
 * création d'une contrainte à distance : cas classique (simple « fil ») et attracteur.
 * modification de la gravité avec la fonction *setGravity()* 
   * A cette occasion nous reverrons la création de controles (slider) dans p5.js
 
+## Cours #06 [en ligne] — Agents autonomes : les boids — 8 mars
+* Etudes des agents automes de type [« boids »](https://fr.wikipedia.org/wiki/Boids)
+  * comportement *seek* et *arrive*.
+  * comportement de groupe *separate*, *alignment*, *cohesion*.
+* Gestion de l'historique de positions des boids.
 
+#### Références
+* [Craig Reynolds / Boids](http://www.red3d.com/cwr/boids/)
+* [Daniel Shiffman / The Nature of Code / Autonomous agents](https://natureofcode.com/book/chapter-6-autonomous-agents/)
+* [Flock of Birds Create Beautiful Shapes in Sky](https://www.youtube.com/watch?v=bb9ZTbYGRdc)
+* [Lens of Time: Secrets of Schooling | bioGraphic](https://www.youtube.com/watch?v=Y-5ffl5_7AI)
 
