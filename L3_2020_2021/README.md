@@ -98,7 +98,7 @@ Visio. en ligne :point_right: https://youtu.be/5TJXqVjHiIA <br>
 * Gestion de l'historique de positions des boids.
 
 #### Template 
-:point_right https://editor.p5js.org/v3ga/sketches/_1ov7ggEk
+:point_right: https://editor.p5js.org/v3ga/sketches/_1ov7ggEk
 
 #### Références
 * [Craig Reynolds / Boids](http://www.red3d.com/cwr/boids/)
