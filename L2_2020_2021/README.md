@@ -99,7 +99,7 @@ Vidéo en ligne :point_right: https://youtu.be/vjtkl8sPST0
 
 <img width="300" src="LAG4U6_cours05_pong.gif" />
 
-## Cours #06 — Répéter — 3 mars
+## Cours #06 — Répéter — 8 mars
 * Révision de [la structure de controle if](https://fr.flossmanuals.net/processing/les-conditions/)
 * [Boucle for](https://fr.flossmanuals.net/processing/les-repetitions/) pour répéter une série d'instructions.
 * Utilisation d'une double boucle imbriquée pour paver l'espace avec un motif.
