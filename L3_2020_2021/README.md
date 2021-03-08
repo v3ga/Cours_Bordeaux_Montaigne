@@ -13,6 +13,7 @@ L'objectif sera de proposer une installation numérique collective présentée �
 📼 [Cours #03 — Forces — 1er février](https://youtu.be/g5BRhRPa7P0)<br>
 📼 [Cours #04 — Physique des solides — 8 février](https://www.youtube.com/watch?v=4rkqkz2UhIE)<br />
 📼 [Cours #05 — Physique des solides : les contraintes — 1er mars](https://youtu.be/5TJXqVjHiIA)
+📼 [Cours #06 — Agents autonomes : les boids — 8 mars](https://youtu.be/R7M27mhFOiE)
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
 Visio. en ligne :point_right: https://youtu.be/N598oS3DThA
@@ -92,10 +93,16 @@ Visio. en ligne :point_right: https://youtu.be/5TJXqVjHiIA <br>
   * A cette occasion nous reverrons la création de controles (slider) dans p5.js
 
 ## Cours #06 [en ligne] — Agents autonomes : les boids — 8 mars
+Visio. en ligne :point_right: https://youtu.be/R7M27mhFOiE
+
 * Etudes des agents automes de type [« boids »](https://fr.wikipedia.org/wiki/Boids)
   * comportement *seek* et *arrive*.
   * comportement de groupe *separate*, *alignment*, *cohesion*.
 * Gestion de l'historique de positions des boids.
+
+<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="200" src="LAG6U6_cours06_boids_01.gif" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="200" src="LAG6U6_cours06_boids_history_02.gif" /></a>
+
 
 #### Template 
 :point_right: https://editor.p5js.org/v3ga/sketches/_1ov7ggEk
