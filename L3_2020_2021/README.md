@@ -12,7 +12,7 @@ L'objectif sera de proposer une installation numérique collective présentée �
 📼 [Cours #02 — Champ vectoriel (flow field) — 25 janvier](https://youtu.be/xFi238AjLlE)<br>
 📼 [Cours #03 — Forces — 1er février](https://youtu.be/g5BRhRPa7P0)<br>
 📼 [Cours #04 — Physique des solides — 8 février](https://www.youtube.com/watch?v=4rkqkz2UhIE)<br />
-📼 [Cours #05 — Physique des solides : les contraintes — 1er mars](https://youtu.be/5TJXqVjHiIA)
+📼 [Cours #05 — Physique des solides : les contraintes — 1er mars](https://youtu.be/5TJXqVjHiIA)<br />
 📼 [Cours #06 — Agents autonomes : les boids — 8 mars](https://youtu.be/R7M27mhFOiE)
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
@@ -100,8 +100,8 @@ Visio. en ligne :point_right: https://youtu.be/R7M27mhFOiE
   * comportement de groupe *separate*, *alignment*, *cohesion*.
 * Gestion de l'historique de positions des boids.
 
-<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="400" src="LAG6U6_cours06_boids_01.gif" /></a>
-<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="400" src="LAG6U6_cours06_boids_history_02.gif" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="LAG6U6_cours06_boids_01.gif" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="LAG6U6_cours06_boids_history_02.gif" /></a>
 
 
 #### Template 
