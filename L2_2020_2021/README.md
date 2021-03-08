@@ -14,7 +14,8 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 📼 [Cours #02 — Dessiner — 25 janvier](https://www.youtube.com/watch?v=XFBZiy8r9jQ)<br>
 📼 [Cours #03 — Animer — 1er février](https://youtu.be/_WyUHqWTTp4)<br>
 📼 [Cours #04 — Mémoriser — 24 février](https://youtu.be/WAQtpuWMVvY)<br>
-📼 [Cours #05 — Modéliser — 24 février](https://youtu.be/vjtkl8sPST0)
+📼 [Cours #05 — Modéliser — 1er mars](https://youtu.be/vjtkl8sPST0)<br>
+📼 [Cours #06 — Répéter — 8 mars](https://youtu.be/bujeEaaPzS8)
 
 ### Barême pour les exercices / projets
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
@@ -100,6 +101,8 @@ Vidéo en ligne :point_right: https://youtu.be/vjtkl8sPST0
 <img width="300" src="LAG4U6_cours05_pong.gif" />
 
 ## Cours #06 — Répéter — 8 mars
+Visio. en ligne 👉 https://youtu.be/bujeEaaPzS8
+
 * Révision de [la structure de controle if](https://fr.flossmanuals.net/processing/les-conditions/)
 * [Boucle for](https://fr.flossmanuals.net/processing/les-repetitions/) pour répéter une série d'instructions.
 * Utilisation d'une double boucle imbriquée pour paver l'espace avec un motif.
