@@ -100,8 +100,8 @@ Visio. en ligne :point_right: https://youtu.be/R7M27mhFOiE
   * comportement de groupe *separate*, *alignment*, *cohesion*.
 * Gestion de l'historique de positions des boids.
 
-<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="200" src="LAG6U6_cours06_boids_01.gif" /></a>
-<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="200" src="LAG6U6_cours06_boids_history_02.gif" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="400" src="LAG6U6_cours06_boids_01.gif" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="400" src="LAG6U6_cours06_boids_history_02.gif" /></a>
 
 
 #### Template 
