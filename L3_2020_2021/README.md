@@ -103,13 +103,24 @@ Visio. en ligne :point_right: https://youtu.be/R7M27mhFOiE
 <a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="LAG6U6_cours06_boids_01.gif" /></a>
 <a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="LAG6U6_cours06_boids_history_02.gif" /></a>
 
+## Cours #07 [en ligne] — Typographie générative — 15 mars
+Visio. en ligne :point_right: *à venir*
+
+Pour ce TD, nous allons utiliser uen fonctionnalité de « segmentation » de glyphes d'une fonte donnée (par le biais de la fonction [textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints)).
+* Dans un premier temps, nous allons explorer les possibilités graphiques liées au dessin d'un motif pour chaque point d'un glyphe. 
+* Ensuite, nous reprendrons notre classe de particules (et peut-être de boids) pour générer de nouveaux glyphes. J'ai pour cette occasion remanier [la classe particule](https://licence.designbordeaux.fr/LAG6U6/p5_particle.js) vue dans les précédents TDs, en la déportant en ligne et en lui adjoignant des méthodes pour la gestion des attracteurs / repousseurs.<br />Cela simplifie grandement l'écritude du code pour l'application de forces notamment. Les particules ont la possibilité de freiner, par application d'une force dont la direction est opposée au vecteur vitesse.
+
+Voici les nouvelles fonctionnalités sur la classe **particle** : 
+```js
+function brake(intensity);
+function isInsideCircle(cx,cy,radius);
+function repelledBy(x,y,intensity,?dmin);
+function attractedTo(x,y,intensity,?dmin);
+function brake(intensity);
+````
 
 #### Template 
-:point_right: https://editor.p5js.org/v3ga/sketches/_1ov7ggEk
+:point_right: https://editor.p5js.org/v3ga/sketches/qvSQLAi5p
 
 #### Références
-* [Craig Reynolds / Boids](http://www.red3d.com/cwr/boids/)
-* [Daniel Shiffman / The Nature of Code / Autonomous agents](https://natureofcode.com/book/chapter-6-autonomous-agents/)
-* [Flock of Birds Create Beautiful Shapes in Sky](https://www.youtube.com/watch?v=bb9ZTbYGRdc)
-* [Lens of Time: Secrets of Schooling | bioGraphic](https://www.youtube.com/watch?v=Y-5ffl5_7AI)
-
+* [Julien Gachadoat / Lettres programmées](https://github.com/v3ga/Workshop_ECV_Bordeaux_Lettres_prog)
