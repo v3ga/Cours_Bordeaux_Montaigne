@@ -110,3 +110,11 @@ Visio. en ligne 👉 https://youtu.be/bujeEaaPzS8
 ### Références
 * Manuel Floss [FR] - [Les répétitions](https://fr.flossmanuals.net/processing/les-repetitions/)
 * Casey Reas [EN] — [10 PRINT CHR$(205.5+RND(1))](https://p5js.org/reference/#/p5/translate)
+
+## Cours #07 — Transformer — 15 mars
+Visio. en ligne 👉 *à venir*
+
+Pour ce TD, nous allons apprendre à changer le repère de dessin dans le canvas, ce qui va nous permettre notamment d'appliquer des transformations sur les motifs géométriques dessinés. L'idée sera de fabriquer un « spirographe » interactif et évoluant avec le temps. Nous en profiterons pour revoir la notion de boucles for. 
+
+
+
