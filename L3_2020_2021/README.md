@@ -14,7 +14,7 @@ L'objectif sera de proposer une installation numérique collective présentée �
 📼 [Cours #04 — Physique des solides — 8 février](https://www.youtube.com/watch?v=4rkqkz2UhIE)<br />
 📼 [Cours #05 — Physique des solides : les contraintes — 1er mars](https://youtu.be/5TJXqVjHiIA)<br />
 📼 [Cours #06 — Agents autonomes : les boids — 8 mars](https://youtu.be/R7M27mhFOiE)
-
+📼 Cours #07 — Typographie générative — 15 mars / oubli d'enregistrement 😰
 
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
