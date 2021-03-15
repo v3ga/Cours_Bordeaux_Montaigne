@@ -121,8 +121,8 @@ function attractedTo(x,y,intensity,?dmin);
 function brake(intensity);
 ````
 
-<img src="LAG6U6_cours07_typo_particules.gif" height="200" /><img src="LAG6U6_cours07_typo_particules_02.gif" height="200" /><br />
-<img src="LAG6U6_2021_cours07_typo.png" height="200" />
+<img src="LAG6U6_cours07_typo_particules.gif" height="300" /><img src="LAG6U6_cours07_typo_particules_02.gif" height="300" /><br />
+<img src="LAG6U6_2021_cours07_typo.png" height="300" />
 
 #### Template 
 :point_right: https://editor.p5js.org/v3ga/sketches/qvSQLAi5p
