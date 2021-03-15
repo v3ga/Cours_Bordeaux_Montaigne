@@ -15,6 +15,8 @@ L'objectif sera de proposer une installation numérique collective présentée �
 📼 [Cours #05 — Physique des solides : les contraintes — 1er mars](https://youtu.be/5TJXqVjHiIA)<br />
 📼 [Cours #06 — Agents autonomes : les boids — 8 mars](https://youtu.be/R7M27mhFOiE)
 
+
+
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
 Visio. en ligne :point_right: https://youtu.be/N598oS3DThA
 
@@ -119,7 +121,8 @@ function attractedTo(x,y,intensity,?dmin);
 function brake(intensity);
 ````
 
-<img src="LAG6U6_cours07_typo_particules.gif" /><img src="LAG6U6_cours07_typo_particules_02.gif" />
+<img src="LAG6U6_cours07_typo_particules.gif" height="200" /><img src="LAG6U6_cours07_typo_particules_02.gif" height="200" /><br />
+<img src="LAG6U6_2021_cours07_typo.png" height="200" />
 
 #### Template 
 :point_right: https://editor.p5js.org/v3ga/sketches/qvSQLAi5p
