@@ -116,5 +116,6 @@ Visio. en ligne 👉 *à venir*
 
 Pour ce TD, nous allons apprendre à changer le repère de dessin dans le canvas, ce qui va nous permettre notamment d'appliquer des transformations sur les motifs géométriques dessinés. L'idée sera de fabriquer un « spirographe » interactif et évoluant avec le temps. Nous en profiterons pour revoir la notion de boucles for. 
 
+<img src="LAG4U6_cours07_transfo.gif" />
 
 
