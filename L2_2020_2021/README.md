@@ -15,7 +15,8 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 📼 [Cours #03 — Animer — 1er février](https://youtu.be/_WyUHqWTTp4)<br>
 📼 [Cours #04 — Mémoriser — 24 février](https://youtu.be/WAQtpuWMVvY)<br>
 📼 [Cours #05 — Modéliser — 1er mars](https://youtu.be/vjtkl8sPST0)<br>
-📼 [Cours #06 — Répéter — 8 mars](https://youtu.be/bujeEaaPzS8)
+📼 [Cours #06 — Répéter — 8 mars](https://youtu.be/bujeEaaPzS8)<br>
+📼 [Cours #07 — Transformer — 15 mars](https://youtu.be/rVWE1U_dnXw)<br>
 
 ### Barême pour les exercices / projets
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
@@ -112,7 +113,7 @@ Visio. en ligne 👉 https://youtu.be/bujeEaaPzS8
 * Casey Reas [EN] — [10 PRINT CHR$(205.5+RND(1))](https://p5js.org/reference/#/p5/translate)
 
 ## Cours #07 — Transformer — 15 mars
-Visio. en ligne 👉 *à venir*
+Visio. en ligne 👉 https://youtu.be/rVWE1U_dnXw
 
 Pour ce TD, nous allons apprendre à changer le repère de dessin dans le canvas, ce qui va nous permettre notamment d'appliquer des transformations sur les motifs géométriques dessinés. L'idée sera de fabriquer un « spirographe » interactif et évoluant avec le temps. Nous en profiterons pour revoir la notion de boucles for. 
 
