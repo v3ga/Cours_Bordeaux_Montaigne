@@ -231,8 +231,6 @@ N'oubliez pas d'exporter une image de votre composition !
 
 Voici le template en ligne sur lequel vous pouvez vous baser : https://editor.p5js.org/v3ga/sketches/LcbLmijLO
 
-Merci de m'envoyer l'adresse de votre sketche en ligne et l'image exportée par e-mail.
-
 
 ## Cours #10 — Animer — 6 avril
 * Révision de la notion de fonction.
