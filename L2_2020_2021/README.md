@@ -119,4 +119,11 @@ Pour ce TD, nous allons apprendre à changer le repère de dessin dans le canvas
 
 <img src="LAG4U6_cours07_transfo.gif" />
 
+#### Exercice à rendre pour le dimanche 28 mars
+Vous définirez 4 formes graphiques à utiliser dans le modèle de grille que nous avons développé sau cours #06. Vous êtez libres sur le choix des motifs (lignes, formes pleines, couleurs) et la résolution de cette grille.
+Sur la méthode de travail, n'hésitez pas à dessiner / faire un croquis des motifs que vous voulez réaliser par code sur une feuille de papier et à les tester dans des sketchs séparés avant de les reporter dans le code de la grille.  
+N'oubliez pas d'exporter une image de votre composition ! 
+
+Voici le template en ligne sur lequel vous pouvez vous baser : https://editor.p5js.org/v3ga/sketches/LcbLmijLO
+
 
