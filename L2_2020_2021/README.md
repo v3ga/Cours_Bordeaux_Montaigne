@@ -124,13 +124,12 @@ Vous définirez 4 formes graphiques à utiliser dans le modèle de grille que no
 Sur la méthode de travail, n'hésitez pas à dessiner / faire un croquis des motifs que vous voulez réaliser par code sur une feuille de papier et à les tester dans des sketchs séparés avant de les reporter dans le code de la grille.  
 N'oubliez pas d'exporter une image de votre composition ! 
 
-Voici le template en ligne sur lequel vous pouvez vous baser : https://editor.p5js.org/v3ga/sketches/BdVWOEVCg
+Voici le template en ligne sur lequel vous pouvez vous baser : https://editor.p5js.org/v3ga/sketches/CpD4i69Na
 
 ## Cours #08 — Encapsuler — 22 mars
 * Révision de la structure de boucle
 * Transformations, fonctions push() / pop() pour sauvegarder / restaurer une transformation.
 * Grouper des commandes dans une fonction.
-
 
 
 
