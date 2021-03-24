@@ -17,6 +17,8 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 📼 [Cours #05 — Modéliser — 1er mars](https://youtu.be/vjtkl8sPST0)<br>
 📼 [Cours #06 — Répéter — 8 mars](https://youtu.be/bujeEaaPzS8)<br>
 📼 [Cours #07 — Transformer — 15 mars](https://youtu.be/rVWE1U_dnXw)<br>
+📼 [Cours #08 — Encapsuler — 22 mars](https://youtu.be/xROnX6gidfQ)<br>
+
 
 ### Barême pour les exercices / projets
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
@@ -119,14 +121,18 @@ Pour ce TD, nous allons apprendre à changer le repère de dessin dans le canvas
 
 <img src="LAG4U6_cours07_transfo.gif" />
 
-#### Exercice à rendre pour le dimanche 28 mars
-Vous définirez 4 formes graphiques à utiliser dans le modèle de grille que nous avons développé sau cours #06. Vous êtez libres sur le choix des motifs (lignes, formes pleines, couleurs) et la résolution de cette grille.
+#### Exercice à rendre pour le mercredi 31 mars
+Vous définirez 4 formes graphiques à utiliser dans le modèle de grille que nous avons développé au cours #06 et revu au cours #08. Pour cela, vous implémenterez les quatre fonctions **motif0()**, **motif1()**, **motif2()** et **motif3()**. Ces quatre fonctions ne prennent qu'un seul paramètre, qui correspont à la taille de la cellule. Pour l'exemple, j'ai implémenté la fonction motif0() avec le d'une diagonale.
+
+Vous êtez libres sur le choix des motifs (lignes, formes pleines, couleurs) et sur le choix de résolution de cette grille, cette dernière étant définie par la variable globale **nb**. Vous pouvez mettre en commentaire la ligne **drawCell(i,j,r)** qui correspond au dessin des informations de la cellule.
+
 Sur la méthode de travail, n'hésitez pas à dessiner / faire un croquis des motifs que vous voulez réaliser par code sur une feuille de papier et à les tester dans des sketchs séparés avant de les reporter dans le code de la grille.  
-N'oubliez pas d'exporter une image de votre composition ! 
 
 Voici le template en ligne sur lequel vous pouvez vous baser : https://editor.p5js.org/v3ga/sketches/CpD4i69Na
 
 ## Cours #08 — Encapsuler — 22 mars
+Visio. en ligne 👉 https://youtu.be/xROnX6gidfQ
+
 * Révision de la structure de boucle
 * Transformations, fonctions push() / pop() pour sauvegarder / restaurer une transformation.
 * Grouper des commandes dans une fonction.
