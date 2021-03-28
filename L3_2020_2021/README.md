@@ -133,6 +133,10 @@ function brake(intensity);
 ## Cours #08 [en ligne] — Typographie générative (bis) — 25 mars
 Nous verrons en introduction comment gérer la 3d dans p5.js grâce au paramètre *WEBGL* de la fonction createCanvas. Nous l'appliquerons rapidement au sketch de générations de points à partir de formes typographiques, nous en profiterons pour revoir les fonctions de transformations (importantes ici). 
 
+<img src="LAG6U6_cours08_typo_3D.gif.gif" width="500" />
+
 Je vous laisserai travailler ensuite sur un projet en binôme sur la création de formes typographiques, en démarrant du template suivant : https://editor.p5js.org/v3ga/sketches/Wu5Pfuo99 
 
-Le projet sera à rendre pour le lundi 5 avril.
+Le projet sera à rendre pour le **lundi 5 avril**.
+
+
