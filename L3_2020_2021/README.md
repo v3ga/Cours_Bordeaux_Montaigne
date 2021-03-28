@@ -141,7 +141,7 @@ Je vous laisserai travailler ensuite sur un projet en binôme sur la création d
 
 Le projet sera à rendre pour le **lundi 5 avril**.
 
-## Cours #08 [en ligne] — 3d et travail personnel — 28 mars
+## Cours #09 [en ligne] — 3d et travail personnel — 29 mars
 Pour ce cours, nous reverrons les notions abordées au cours précédent avec la création d'un objet (cube) réagissant à un champ noise en 3 dimensions. Je vous laisserai ensuite travailler sur le projet de typographie interactive, n'hésitez pas à me soumettre vos idées pour que nous puissions en discuter ensemble.
 
 
