@@ -137,7 +137,7 @@ Visio. en ligne 👉 https://youtu.be/xROnX6gidfQ
 * Transformations, fonctions push() / pop() pour sauvegarder / restaurer une transformation.
 * Grouper des commandes dans une fonction.
 
-## Cours #09 — Démultiplier — 22 mars
+## Cours #09 — Démultiplier — 29 mars
 Pour ce cours, nous allons aborder la notion de [tableaux](https://www.lyceelecorbusier.eu/p5js/?p=2614) qui va permettre de référencer un ensembler d'objets depuis une seule variable. Nous appliquerons ce concept à la création d'un système de particules, en nous basant sur la modélisation que nous avons vue au cours #05. Nous passerons de la gestion d'une particule à [n] particules.
 L'écriture et la lecture d'un tableau va se faire à travers une boucle for, notion vue au cours #06.
 
