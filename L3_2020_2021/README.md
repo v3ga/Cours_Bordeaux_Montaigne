@@ -14,8 +14,8 @@ L'objectif sera de proposer une installation numérique collective présentée �
 📼 [Cours #04 — Physique des solides — 8 février](https://www.youtube.com/watch?v=4rkqkz2UhIE)<br />
 📼 [Cours #05 — Physique des solides : les contraintes — 1er mars](https://youtu.be/5TJXqVjHiIA)<br />
 📼 [Cours #06 — Agents autonomes : les boids — 8 mars](https://youtu.be/R7M27mhFOiE)<br />
-📼 Cours #07 — Typographie générative — 15 mars / oubli d'enregistrement 😰
-
+📼 Cours #07 — Typographie générative — 15 mars / oubli d'enregistrement 😰<br />
+📼 [Cours #08 — Typographie générative (bis) — 25 mars](https://www.youtube.com/watch?v=hJXPOCh9778)<br />
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
 Visio. en ligne :point_right: https://youtu.be/N598oS3DThA
@@ -131,6 +131,8 @@ function brake(intensity);
 * [Julien Gachadoat / Lettres programmées](https://github.com/v3ga/Workshop_ECV_Bordeaux_Lettres_prog)
 
 ## Cours #08 [en ligne] — Typographie générative (bis) — 25 mars
+Visio. en ligne 👉 https://www.youtube.com/watch?v=hJXPOCh9778
+
 Nous verrons en introduction comment gérer la 3d dans p5.js grâce au paramètre *WEBGL* de la fonction createCanvas. Nous l'appliquerons rapidement au sketch de générations de points à partir de formes typographiques, nous en profiterons pour revoir les fonctions de transformations (importantes ici). 
 
 <img src="LAG6U6_cours08_typo_3D.gif.gif" width="500" />
