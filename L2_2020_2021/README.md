@@ -18,6 +18,9 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 📼 [Cours #06 — Répéter — 8 mars](https://youtu.be/bujeEaaPzS8)<br>
 📼 [Cours #07 — Transformer — 15 mars](https://youtu.be/rVWE1U_dnXw)<br>
 📼 [Cours #08 — Encapsuler — 22 mars](https://youtu.be/xROnX6gidfQ)<br>
+📼 [Cours #09 — Démultiplier — 29 mars](https://youtu.be/4YmHeIFt8cQ)<br>
+
+
 
 
 ### Barême pour les exercices / projets
@@ -138,6 +141,8 @@ Visio. en ligne 👉 https://youtu.be/xROnX6gidfQ
 * Grouper des commandes dans une fonction.
 
 ## Cours #09 — Démultiplier — 29 mars
+Visio. en ligne 👉 https://youtu.be/4YmHeIFt8cQ
+
 Pour ce cours, nous allons aborder la notion de [tableaux](https://www.lyceelecorbusier.eu/p5js/?p=2614) qui va permettre de référencer un ensembler d'objets depuis une seule variable. Nous appliquerons ce concept à la création d'un système de particules, en nous basant sur la modélisation que nous avons vue au cours #05. Nous passerons de la gestion d'une particule à [n] particules.
 L'écriture et la lecture d'un tableau va se faire à travers une boucle for, notion vue au cours #06.
 
