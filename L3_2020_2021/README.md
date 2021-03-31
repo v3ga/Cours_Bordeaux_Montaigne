@@ -137,11 +137,27 @@ Nous verrons en introduction comment gérer la 3d dans p5.js grâce au paramètr
 
 <img src="LAG6U6_cours08_typo_3D.gif.gif" width="500" />
 
-Je vous laisserai travailler ensuite sur un projet en binôme sur la création de formes typographiques, en démarrant du template suivant : https://editor.p5js.org/v3ga/sketches/Wu5Pfuo99 
-
-Le projet sera à rendre pour le **lundi 5 avril**.
+Je vous laisserai travailler ensuite sur un projet en binôme sur la création de formes typographiques, en démarrant du template suivant : 
 
 ## Cours #09 [en ligne] — 3d et travail personnel — 29 mars
 Pour ce cours, nous reverrons les notions abordées au cours précédent avec la création d'un objet (cube) réagissant à un champ noise en 3 dimensions. Je vous laisserai ensuite travailler sur le projet de typographie interactive, n'hésitez pas à me soumettre vos idées pour que nous puissions en discuter ensemble.
+
+### Projet de typographie générative
+Le projet sera a remettre pour le mercredi 7 avril.
+
+Le projet aura pour but de créer des dessins génératifs de glyphes, évoluant en fonction du temps et / ou de la souris. Le sketch utilisera en particulier la fonction [textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints) qui permet de récupérer une liste de points à partir d'un texte et de paramètres (fonte, taille de caractères, espacement entre les points), telle que nous l'avons étudiée au cours des deux TDs précédents.
+Le sketch aura une dimension de 800 x 800 pixels, il peut être ne 2D ou 3D, à vous de choisir. Les critères d'évaluations seront identiques à ceux de l'année passée, à consulter ici : https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/L2_2018_2019#bar%C3%AAme-pour-les-exercices--projets
+Je vous remets ici les exemples étudiés : 
+👉 P5JS en 2D avec des particules attachées : https://editor.p5js.org/v3ga/sketches/KKoMLDY0x
+👉 P5 en 2D, dessin simple de motifs (cercles) évoluant en suivant une courbe sinusoïdale : https://editor.p5js.org/v3ga/sketches/L4USngjkb
+👉 P5JS en 3D avec lumières dynamiques : https://editor.p5js.org/v3ga/sketches/wKQy3p4QV
+👉 P5JS en 2D, nombre de points dynamiques en fonction de la position de la souris : https://editor.p5js.org/v3ga/sketches/2uYcWywod
+
+
+Je compte sur votre créativité comme l'an passé pour les cartes postales, **pensez à donner un nom à votre sketch** qui sera affiché lors de l'exposition en ligne !
+
+
+
+
 
 
