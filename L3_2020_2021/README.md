@@ -16,6 +16,8 @@ L'objectif sera de proposer une installation numérique collective présentée �
 📼 [Cours #06 — Agents autonomes : les boids — 8 mars](https://youtu.be/R7M27mhFOiE)<br />
 📼 Cours #07 — Typographie générative — 15 mars / oubli d'enregistrement 😰<br />
 📼 [Cours #08 — Typographie générative (bis) — 25 mars](https://www.youtube.com/watch?v=hJXPOCh9778)<br />
+📼 [Cours #09 — 3d et travail personnel — 29 mars](https://www.youtube.com/watch?v=1Nj9d58lkTs)<br />
+
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
 Visio. en ligne :point_right: https://youtu.be/N598oS3DThA
@@ -137,9 +139,11 @@ Nous verrons en introduction comment gérer la 3d dans p5.js grâce au paramètr
 
 <img src="LAG6U6_cours08_typo_3D.gif.gif" width="500" />
 
-Je vous laisserai travailler ensuite sur un projet en binôme sur la création de formes typographiques, en démarrant du template suivant : 
+Je vous laisserai travailler ensuite sur un projet en binôme sur la création de formes typographiques.
 
 ## Cours #09 [en ligne] — 3d et travail personnel — 29 mars
+Visio en ligne 👉 https://www.youtube.com/watch?v=1Nj9d58lkTs
+
 Pour ce cours, nous reverrons les notions abordées au cours précédent avec la création d'un objet (cube) réagissant à un champ noise en 3 dimensions. Je vous laisserai ensuite travailler sur le projet de typographie interactive, n'hésitez pas à me soumettre vos idées pour que nous puissions en discuter ensemble.
 
 ### Projet de typographie générative
@@ -155,9 +159,5 @@ Je vous remets ici les exemples étudiés : <br>
 <br>
 <br>
 Je compte sur votre créativité comme l'an passé pour les cartes postales, **pensez à donner un nom à votre sketch** qui sera affiché lors de l'exposition en ligne !
-
-
-
-
 
 
