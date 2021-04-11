@@ -165,7 +165,7 @@ Pour ce TD, nous allons recréer un effet produit par une machine inventée par 
 
 <img src="https://cdm.link/app/uploads/2007/04/ruttetra_raster.jpg" />
 
-**** Références
-[Rutt Etra Scan Processor] https://www.fondation-langlois.org/html/f/page.php?NumPage=456
+#### Références
+* [Rutt Etra Scan Processor](https://www.fondation-langlois.org/html/f/page.php?NumPage=456) 
 
 
