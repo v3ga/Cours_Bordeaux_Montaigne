@@ -161,7 +161,8 @@ Je vous remets ici les exemples étudiés : <br>
 Je compte sur votre créativité comme l'an passé pour les cartes postales, **pensez à donner un nom à votre sketch** qui sera affiché lors de l'exposition en ligne !
 
 ## Cours #10 [en ligne] — Effets "Rutt-Etra-like" — 11 avril
-Pour ce TD, nous allons recréer un effet produit par une machine inventée par Steve Rutt et Bill Etra (synthétiseur vidéo), consistant à transformer un signal vidéo analogiue en lui appliuant diverses transformations spatiales (2D et 2D). Pour cela, nous aborderons l'accès aux pixels de l'image fournie par la capture vidéo pour calculer la luminosité d'un pixel et ainsi déplacer des points dans un espace en 3D.
+Pour ce TD, nous allons recréer un effet produit par une machine inventée par Steve Rutt et Bill Etra (synthétiseur vidéo), consistant à transformer un signal vidéo analogique en lui appliquant diverses transformations spatiales (2D et 2D).<br>Pour cela, nous aborderons l'accès aux pixels de l'image fournie par la capture vidéo pour calculer la luminosité d'un pixel et ainsi déplacer des points dans un espace en 3D.<br>
+👉 Template : https://editor.p5js.org/v3ga/sketches/I0_WhPM9k
 
 <img src="https://cdm.link/app/uploads/2007/04/ruttetra_raster.jpg" />
 
