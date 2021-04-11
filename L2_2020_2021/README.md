@@ -146,6 +146,6 @@ Visio. en ligne 👉 https://youtu.be/4YmHeIFt8cQ
 Pour ce cours, nous allons aborder la notion de [tableaux](https://www.lyceelecorbusier.eu/p5js/?p=2614) qui va permettre de référencer un ensembler d'objets depuis une seule variable. Nous appliquerons ce concept à la création d'un système de particules, en nous basant sur la modélisation que nous avons vue au cours #05. Nous passerons de la gestion d'une particule à [n] particules.
 L'écriture et la lecture d'un tableau va se faire à travers une boucle for, notion vue au cours #06.
 
-<img src="LAG4U6_2021_cours09_particles.gif" />
+<img src="LAG4U6_2021_cours09_particles.gif" width="300" />
 
 
