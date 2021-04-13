@@ -1,6 +1,12 @@
 Surveillance et contre-mesures du design
 ================================================
 
+#### Document de référence
+* https://docs.google.com/document/d/1sZdynk2J14vQ2Veabx0UskW5bmHseESuBiYeAz8w5pY/edit?ts=60644e35#
+
+#### Sketches en ligne
+* https://editor.p5js.org/v3ga/collections/BECVQLPhX
+
 ### Objectifs
 Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/) et au service en ligne [Teachable Machine](https://teachablemachine.withgoogle.com/). Ces deux « blocs » fonctionnent avec [p5js](https://p5js.org/) avec lequel nous avons travaillé au premier semestre.
 
@@ -25,8 +31,6 @@ Balise à intégrer dans le fichier index.html de votre projet pour accéder aux
 <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
 ```
 
-### Document de référence
-https://docs.google.com/document/d/1sZdynk2J14vQ2Veabx0UskW5bmHseESuBiYeAz8w5pY/edit?ts=60644e35#
 
 ### Liens
 * [Anthony Masure / Thinking Machines](http://www.anthonymasure.com/en/conferences/2020-01-thinking-machines-bal-paris)<br />Ces slides sont complémentaires d'un atelier à la HEAD (Genève) du même nom mené par [Douglas Edric Stanley](http://www.abstractmachine.net/fr/biography) et [Jurg Lehni](http://juerglehni.com/information) : *Le projet Thinking Machines revisite la notion d’outils personnalisés à l’époque des intelligences dites « artificielles » et explore comment la création d'assistants personnalisés peut remodeler le processus de travail des designers.*
