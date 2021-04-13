@@ -27,10 +27,15 @@ L'objectif de ce cours sera de donner des clés de compréhension de ce type d'a
 * Reconaissance de visages avec [ml5js / facemesh](https://learn.ml5js.org/#/reference/facemesh)
 
 ### Balises script
-Balise à intégrer dans le fichier index.html de votre projet pour accéder aux fonctionnalités de p5.js
+Balise à intégrer dans le fichier **index.html** de votre projet pour accéder aux fonctionnalités de ml5.js
 ```
 <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
 ```
+Balise à intégrer dans le fichier **index.html** de votre projet pour accéder à des fonctionnalités annexes
+```
+<script src="https://master.designbordeaux.fr/projets/2020-2021/MAG2E11/p5_ml5_helpers.js"></script>
+```
+
 
 
 ### Liens
