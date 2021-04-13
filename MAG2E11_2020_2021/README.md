@@ -2,8 +2,8 @@ Surveillance et contre-mesures du design
 ================================================
 
 #### Document de référence
-* https://docs.google.com/document/d/1sZdynk2J14vQ2Veabx0UskW5bmHseESuBiYeAz8w5pY/edit?ts=60644e35#
-* https://docs.google.com/presentation/d/e/2PACX-1vRHSkQlrWykzBV64YS4qLq_kVx_2Zc5_BfGBVdBGKDgywVaxuFC620qmfSlEvIvUdHFh37ii_y2JL4j/pub?start=false&loop=false&delayms=3000&slide=id.ga796a4b50e_0_106
+* [Google Doc](https://docs.google.com/document/d/1sZdynk2J14vQ2Veabx0UskW5bmHseESuBiYeAz8w5pY/edit?ts=60644e35)
+* [Slides Machine Learning](https://docs.google.com/presentation/d/e/2PACX-1vRHSkQlrWykzBV64YS4qLq_kVx_2Zc5_BfGBVdBGKDgywVaxuFC620qmfSlEvIvUdHFh37ii_y2JL4j/pub?start=false&loop=false&delayms=3000&slide=id.ga796a4b50e_0_106)
 
 ### Sketches en ligne
 * https://editor.p5js.org/v3ga/collections/BECVQLPhX
