@@ -2,7 +2,7 @@ Surveillance et contre-mesures du design
 ================================================
 
 ### Objectifs
-Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/) et au service en ligne [teachable machine](https://teachablemachine.withgoogle.com/). Ces deux « blocs » fonctionnent avec [p5js](https://p5js.org/) avec lequel nous avons travaillé au premier semestre.
+Ce cours sera consacré à une initiation aux techniques de « machine learning » grâce à la librairie [ml5.js](https://ml5js.org/) et au service en ligne [Teachable Machine](https://teachablemachine.withgoogle.com/). Ces deux « blocs » fonctionnent avec [p5js](https://p5js.org/) avec lequel nous avons travaillé au premier semestre.
 
 Les techniques de « machine learning » sont utilisées dans le domaine de l'intelligence artificielle pour donner la capacité à une machine programmable « d'apprendre » à partir d'un ensemble de données, dans le but de réaliser des tâches automatiques de classification ou de prédiction par exemple. Nous nous familiarisons avec les notions de réseaux de neurones, d'apprentissage supervisé, ... et d'autres termes que vous avez peut-être entendu ici ou là et qui paraissent obscurs.
 
@@ -13,7 +13,11 @@ Quelques exemples de services utilisant ces techniques :
 * Reconnaissance de visages.
 * Reconnaissance vocale (Siri, Alexa par exemple)
 
-L'objectif de ce cours sera de donner des clés de compréhension de ce type d'algorithmes dans le cadre de ce projet.
+L'objectif de ce cours sera de donner des clés de compréhension de ce type d'algorithmes dans le cadre de ce projet. Nous étudierons notamment : 
+* Reconnaissance vocale avec [p5.speech](https://idmnyu.github.io/p5.js-speech/)
+* Reconnaissance d'images (images fixes ou webcam) avec le réseau de neurones [ml5.js / Mobilenet](https://learn.ml5js.org/#/reference/image-classifier). 
+* Reconnaissance d'images avec classes propres avec [Teachable Machine]((https://teachablemachine.withgoogle.com/)).
+* Reconaissance de visages avec [ml5js / facemesh](https://learn.ml5js.org/#/reference/facemesh)
 
 ### Balises script
 Balise à intégrer dans le fichier index.html de votre projet pour accéder aux fonctionnalités de p5.js
