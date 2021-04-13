@@ -167,7 +167,7 @@ Visio en ligne 👉 https://youtu.be/WXefl_V00zA
 Pour ce TD, nous allons recréer un effet produit par une machine inventée par Steve Rutt et Bill Etra (synthétiseur vidéo), consistant à transformer un signal vidéo analogique en lui appliquant diverses transformations spatiales (2D et 2D).<br>Pour cela, nous aborderons l'accès aux pixels de l'image fournie par la capture vidéo pour calculer la luminosité d'un pixel et ainsi déplacer des points dans un espace en 3D.<br>
 👉 Template : https://editor.p5js.org/v3ga/sketches/I0_WhPM9k
 
-<img src="https://cdm.link/app/uploads/2007/04/ruttetra_raster.jpg" />
+<img src="https://cdm.link/app/uploads/2007/04/ruttetra_raster.jpg" /><img src="LAG6U6_cours10_rutt_etra.gif" height="371" />
 
 #### Références
 * [Rutt Etra Scan Processor](https://www.fondation-langlois.org/html/f/page.php?NumPage=456) 
