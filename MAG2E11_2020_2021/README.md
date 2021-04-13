@@ -15,7 +15,7 @@ Quelques exemples de services utilisant ces techniques :
 
 L'objectif de ce cours sera de donner des clés de compréhension de ce type d'algorithmes dans le cadre de ce projet.
 
-#### Balises script
+### Balises script
 Balise à intégrer dans le fichier index.html de votre projet pour accéder aux fonctionnalités de p5.js
 ```
 <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
