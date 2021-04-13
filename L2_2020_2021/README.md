@@ -19,9 +19,7 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 📼 [Cours #07 — Transformer — 15 mars](https://youtu.be/rVWE1U_dnXw)<br>
 📼 [Cours #08 — Encapsuler — 22 mars](https://youtu.be/xROnX6gidfQ)<br>
 📼 [Cours #09 — Démultiplier — 29 mars](https://youtu.be/4YmHeIFt8cQ)<br>
-
-
-
+📼 [Cours #10 — Projeter — 12 avril](https://youtu.be/pMKG7De1NXU)
 
 ### Barême pour les exercices / projets
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
@@ -148,8 +146,8 @@ L'écriture et la lecture d'un tableau va se faire à travers une boucle for, no
 
 <img src="LAG4U6_2021_cours09_particles.gif" width="300" />
 
-## Cours #10 — Projeter — 11 avril
-Visio. en ligne 👉 *à venir*
+## Cours #10 — Projeter — 12 avril
+Visio. en ligne 👉 https://youtu.be/pMKG7De1NXU
 
 Pour ce TD, nous allons transformer notre espace de dessin en lui donnant une profondeur. Nous allons travailler en trois dimensions par l'intermédiaire du mode [WEBGL](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5) de p5.js. Nous en profiterons pour revoir les transformations (translate / rotate) et nous transférerons les  particules du cours #09 de la 2D à la 3D. 
 
