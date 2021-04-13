@@ -15,8 +15,8 @@ Quelques exemples de services utilisant ces techniques :
 
 L'objectif de ce cours sera de donner des clés de compréhension de ce type d'algorithmes dans le cadre de ce projet. Nous étudierons notamment : 
 * Reconnaissance vocale avec [p5.speech](https://idmnyu.github.io/p5.js-speech/)
-* Reconnaissance d'images (images fixes ou webcam) avec le réseau de neurones [ml5.js / Mobilenet](https://learn.ml5js.org/#/reference/image-classifier). 
-* Reconnaissance d'images avec classes propres avec [Teachable Machine]((https://teachablemachine.withgoogle.com/)).
+* Reconnaissance d'images (images fixes ou webcam) avec le réseau de neurones [ml5.js / Mobilenet](https://learn.ml5js.org/#/reference/image-classifier)
+* Reconnaissance d'images avec classes propres avec [Teachable Machine](https://teachablemachine.withgoogle.com/)
 * Reconaissance de visages avec [ml5js / facemesh](https://learn.ml5js.org/#/reference/facemesh)
 
 ### Balises script
