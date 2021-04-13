@@ -17,6 +17,7 @@ L'objectif sera de proposer une installation numérique collective présentée �
 📼 Cours #07 — Typographie générative — 15 mars / oubli d'enregistrement 😰<br />
 📼 [Cours #08 — Typographie générative (bis) — 25 mars](https://www.youtube.com/watch?v=hJXPOCh9778)<br />
 📼 [Cours #09 — 3d et travail personnel — 29 mars](https://www.youtube.com/watch?v=1Nj9d58lkTs)<br />
+📼 [Cours #10 — 3d / Rutt Etra — 29 mars](https://youtu.be/WXefl_V00zA)<br />
 
 
 ## Cours #01 [en ligne] — Remise dans le bain — 18 janvier 
@@ -161,6 +162,8 @@ Je vous remets ici les exemples étudiés : <br>
 Je compte sur votre créativité comme l'an passé pour les cartes postales, **pensez à donner un nom à votre sketch** qui sera affiché lors de l'exposition en ligne !
 
 ## Cours #10 [en ligne] — Effets "Rutt-Etra-like" — 11 avril
+Visio en ligne 👉 https://youtu.be/WXefl_V00zA
+
 Pour ce TD, nous allons recréer un effet produit par une machine inventée par Steve Rutt et Bill Etra (synthétiseur vidéo), consistant à transformer un signal vidéo analogique en lui appliquant diverses transformations spatiales (2D et 2D).<br>Pour cela, nous aborderons l'accès aux pixels de l'image fournie par la capture vidéo pour calculer la luminosité d'un pixel et ainsi déplacer des points dans un espace en 3D.<br>
 👉 Template : https://editor.p5js.org/v3ga/sketches/I0_WhPM9k
 
