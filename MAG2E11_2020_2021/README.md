@@ -36,8 +36,12 @@ Balise à intégrer dans le fichier **index.html** de votre projet pour accéder
 <script src="https://master.designbordeaux.fr/projets/2020-2021/MAG2E11/p5_ml5_helpers.js"></script>
 ```
 
-
-
 ### Liens
 * [Anthony Masure / Thinking Machines](http://www.anthonymasure.com/en/conferences/2020-01-thinking-machines-bal-paris)<br />Ces slides sont complémentaires d'un atelier à la HEAD (Genève) du même nom mené par [Douglas Edric Stanley](http://www.abstractmachine.net/fr/biography) et [Jurg Lehni](http://juerglehni.com/information) : *Le projet Thinking Machines revisite la notion d’outils personnalisés à l’époque des intelligences dites « artificielles » et explore comment la création d'assistants personnalisés peut remodeler le processus de travail des designers.*
 * [Vadim Bernard / Le design graphique pour les machines](http://strabic.fr/Le-design-graphique-pour-les-machines)<br />*Que se passe-t-il quand le destinataire d’une composition graphique est une machine ? La reconnaissance de formes par les machines n’est pas nouvelle – on peut penser aux typographies OCR ou aux QR codes – mais nous arrivons à un point où sont reconnues non plus seulement des formes, mais aussi les relations qui peuvent exister entre elles.*
+
+### Groupes
+* Undercover / Hamza, Nathan,Morgane,Fanny,Thomas
+* Reflector / Alexane, Camille, Flavie, Cassandre
+* [Hidendity] / Amélie, Cannelle, Sabrina
+* 
