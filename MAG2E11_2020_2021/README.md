@@ -42,5 +42,8 @@ Balise à intégrer dans le fichier **index.html** de votre projet pour accéder
 
 ### Groupes
 * Undercover / Hamza, Nathan,Morgane,Fanny,Thomas
+  *  https://editor.p5js.org/ml5/sketches/Facemesh_Image détection de plusieurs visages et préparer une sorte de présentation / slide-show + vidéo.   
 * Reflector / Alexane, Camille, Flavie, Cassandre
+  * https://editor.p5js.org/ml5/sketches/Facemesh_Image avec video, travailler sur le rendu de la detection de visage (afficher des informations telles que le nom / age / sexe )    
 * (Hidendity) / Amélie, Cannelle, Sabrina
+  * Saturation de l'image avec des informations, fabriquer des visages identiques (deep fake) 
