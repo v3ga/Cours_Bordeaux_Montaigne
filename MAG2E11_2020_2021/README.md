@@ -43,5 +43,4 @@ Balise à intégrer dans le fichier **index.html** de votre projet pour accéder
 ### Groupes
 * Undercover / Hamza, Nathan,Morgane,Fanny,Thomas
 * Reflector / Alexane, Camille, Flavie, Cassandre
-* [Hidendity] / Amélie, Cannelle, Sabrina
-* 
+* (Hidendity) / Amélie, Cannelle, Sabrina
