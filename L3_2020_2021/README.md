@@ -99,6 +99,7 @@ Visio. en ligne :point_right: https://youtu.be/5TJXqVjHiIA <br>
 
 ## Cours #06 [en ligne] — Agents autonomes : les boids — 8 mars
 Visio. en ligne :point_right: https://youtu.be/R7M27mhFOiE
+Ce cours utilise la classe *Boid* (étendue pour ce cours) disponible ici : https://p5js.org/examples/simulate-flocking.html
 
 * Etudes des agents automes de type [« boids »](https://fr.wikipedia.org/wiki/Boids)
   * comportement *seek* et *arrive*.
