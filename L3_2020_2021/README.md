@@ -5,7 +5,7 @@ Nous continuerons d'explorer les potentialités de l'écosystème [p5.js](https:
 L'objectif sera de proposer une installation numérique collective présentée à [la Fabrique Pola](https://pola.fr/) à la fin du semestre, les modalités et la scénographie seront à imaginer ensemble.
 
 ## Sketches en ligne
-✍️ https://editor.p5js.org/v3ga/collections/re8BJbw3p
+✍️ https://editor.p5js.org/v3ga/collections/re8BJbw3p 👈
 
 ## Cours en ligne 
 📼 [Cours #01 — Remise dans le bain — 18 janvier](https://youtu.be/N598oS3DThA)<br>
