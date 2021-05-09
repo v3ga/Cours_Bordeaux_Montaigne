@@ -135,7 +135,7 @@ Sur la méthode de travail, n'hésitez pas à dessiner / faire un croquis des mo
 Voici le template en ligne sur lequel vous pouvez vous baser : https://editor.p5js.org/v3ga/sketches/CpD4i69Na
 👉 La collection des rendus est ici en ligne : https://editor.p5js.org/v3ga/collections/ZUiEWFocJ
 
-<img src="LAG4U6_2021_quatre_elements_samuel_wolf.png" width="300" /><img src="LAG4U6_2021_quatre_elements_emma_cheze.png" width="300" /><img src="LAG4U6_2021_quatre_elements_celia_girardeau.png" width="300" />
+<img src="LAG4U6_2021_quatre_elements_samuel_wolf.png" width="300" /><img src="LAG4U6_2021_quatre_elements_emma_cheze.png" width="300" /><img src="LAG4U6_2021_quatre_elements_celia_girardeau.png" width="300" /><img src="LAG4U6_2021_quatre_elements_daniela_figueroa.png" width="300" />
 
 ## Cours #08 — Encapsuler — 22 mars
 Visio. en ligne 👉 https://youtu.be/xROnX6gidfQ
