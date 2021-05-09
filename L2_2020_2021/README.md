@@ -93,10 +93,7 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 
 :point_right: collection des rendus en ligne https://editor.p5js.org/v3ga/collections/JnZi-sVfw
 
-<img src="LAG4U6_2021_visage_alexis_doucet.png" />
-<img src="LAG4U6_2021_visage_jéremy_lyonnet.png" />
-<img src="LAG4U6_2021_visage_marta_martin.png" />
-<img src="LAG4U6_2021_visage_tina_rautureau.png" />
+<img src="LAG4U6_2021_visage_alexis_doucet.png" width="400" /><img src="LAG4U6_2021_visage_jéremy_lyonnet.png" width="400" /><img src="LAG4U6_2021_visage_marta_martin.png" width="400" /><img src="LAG4U6_2021_visage_tina_rautureau.png" width="400" />
 
 
 ## Cours #05 — Modéliser — 1er mars
