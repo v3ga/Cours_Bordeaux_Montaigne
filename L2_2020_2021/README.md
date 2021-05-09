@@ -32,7 +32,6 @@ Le sketch doit être au bon format :
 * **créativité** :point_right: 6 points. 
 J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe ou de références que vous trouvez en ligne.
 
-
 ## Cours #01 [en ligne] — Introduction — 18 janvier 
 Vidéo en ligne :point_right: https://www.youtube.com/watch?v=XXbs_8kn5m4
 
@@ -80,7 +79,6 @@ Vidéo en ligne :point_right: https://youtu.be/WAQtpuWMVvY
 <a href="https://editor.p5js.org/v3ga/sketches/PElg9rcu-" target="_blank"><img src="210224_LAG4U6_cours04_image.gif" width="400" /></a><a href="https://editor.p5js.org/v3ga/sketches/8QmRG2znZ" target="_blank"><img src="210224_LAG4U6_cours04_image_pointillisme.gif" width="400" /></a>
 
 
-
 Introductions à la notion de variables :
 * Chargement et affichage d'une [image](https://p5js.org/reference/#group-Image).
 * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image
@@ -92,6 +90,14 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 :point_right: voir le lien https://hafiprocessjournal.wordpress.com/2014/10/16/bruno-munari/
 
 <img src="MUNARI_ART_DESIGN_1.jpg" width="500" />
+
+:point_right: collection des rendus en ligne https://editor.p5js.org/v3ga/collections/JnZi-sVfw
+
+<img src="LAG4U6_2021_visage_alexis_doucet.png" />
+<img src="LAG4U6_2021_visage_jéremy_lyonnet.png" />
+<img src="LAG4U6_2021_visage_marta_martin.png" />
+<img src="LAG4U6_2021_visage_tina_rautureau.png" />
+
 
 ## Cours #05 — Modéliser — 1er mars
 Vidéo en ligne :point_right: https://youtu.be/vjtkl8sPST0
