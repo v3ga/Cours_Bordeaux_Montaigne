@@ -91,7 +91,7 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 
 <img src="MUNARI_ART_DESIGN_1.jpg" width="500" />
 
-:point_right: collection des rendus en ligne https://editor.p5js.org/v3ga/collections/JnZi-sVfw
+👉 La collection des rendus est en ligne :  https://editor.p5js.org/v3ga/collections/JnZi-sVfw
 
 <img src="LAG4U6_2021_visage_alexis_doucet.png" width="300" /><img src="LAG4U6_2021_visage_jéremy_lyonnet.png" width="300" /><img src="LAG4U6_2021_visage_marta_martin.png" width="300" /><img src="LAG4U6_2021_visage_tina_rautureau.png" width="300" />
 
@@ -133,6 +133,9 @@ Vous êtez libres sur le choix des motifs (lignes, formes pleines, couleurs) et 
 Sur la méthode de travail, n'hésitez pas à dessiner / faire un croquis des motifs que vous voulez réaliser par code sur une feuille de papier et à les tester dans des sketchs séparés avant de les reporter dans le code de la grille.  
 
 Voici le template en ligne sur lequel vous pouvez vous baser : https://editor.p5js.org/v3ga/sketches/CpD4i69Na
+👉 La collection des rendus est ici en ligne : https://editor.p5js.org/v3ga/collections/ZUiEWFocJ
+
+<img src="LAG4U6_2021_quatre_elements_samuel_wolf.png" width="300" /><img src="LAG4U6_2021_quatre_elements_emma_cheze.png" width="300" /><img src="LAG4U6_2021_quatre_elements_celia_girardeau.png" width="300" />
 
 ## Cours #08 — Encapsuler — 22 mars
 Visio. en ligne 👉 https://youtu.be/xROnX6gidfQ
