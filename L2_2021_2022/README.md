@@ -28,3 +28,6 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 * gestion des couleurs ([color](https://processing.org/reference/color_.html)) et des options de dessin([stroke](https://processing.org/reference/stroke_.html), [noStroke](https://processing.org/reference/noStroke_.html), [fill](https://processing.org/reference/fill_.html), [noFill](https://processing.org/reference/noFill_.html), [strokeWeight](https://processing.org/reference/strokeWeight_.html))
 * exporter / faire une capture d'écran avec la fonction [p5js / save](https://p5js.org/reference/#/p5/save)
 
+### Exercice de fin de cours
+Choisir un dessin de Josef Albers (https://albersfoundation.org/art/josef-albers/paintings/homages-to-the-square/) et le récréer avec du code.
+
