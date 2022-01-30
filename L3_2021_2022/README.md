@@ -20,4 +20,10 @@ Nous allons re-travailler la notion de classe vue la semaine passée. A cette oc
   * [article](https://genekogan.com/code/p5js-perlin-noise/) de Gene Kogan sur le Perlin noise dans p5.js
   <br>
   
-
+## Cours #03 [en ligne] — Bruit et forces — 31 janvier
+Le cours s'articulera autour de deux notions : 
+1. [Bruit de perlin](https://en.wikipedia.org/wiki/Perlin_noise) ou « perlin noise » que nous avons utilisés dans notre système de particules. 
+2. En complément du cours précédent, nous allons adjoindre à nos particules des propriétés de masse et d'accélération pour pouvoir leur appliquer des forces en utilisant [la deuxième loi de Newton](https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton#Deuxi%C3%A8me_loi_de_Newton_ou_principe_fondamental_de_la_dynamique_de_translation) :<br>*" l'accélération subie par un corps [...] est proportionnelle à la résultante des forces qu'il subit, et inversement proportionnelle à sa masse m."*
+En particulier, nous allons appliquer à nos particules des forces d'attraction et de répulsion de manière dynamique, en fonction des interactions avec l'utilisateur par le biais de la souris.
+<a title="After Godfrey Kneller
+, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:GodfreyKneller-IsaacNewton-1689.jpg"><img height="300" alt="GodfreyKneller-IsaacNewton-1689" src="https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"></a><img height="300" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Newtons_laws_in_latin.jpg"><a href="https://editor.p5js.org/v3ga/sketches/rlFXZoYtQ"><img src="210202_LAG6U6_cours03_forces_repulsion.gif" height="300" /></a>
