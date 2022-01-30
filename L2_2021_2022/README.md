@@ -31,7 +31,7 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 ### Références
 * [Rune Madsen / Computational color](http://printingcode.runemadsen.com/lecture-color/)
 
-### Exercice de fin de cours
+### Exercice
 Choisir une des œuvres [« Homages to the square »](https://albersfoundation.org/art/josef-albers/paintings/homages-to-the-square/) de Josef Albers pour le récréer avec du code.
 
 ## Cours #03 — Animer — 31 janvier
@@ -39,5 +39,8 @@ Choisir une des œuvres [« Homages to the square »](https://albersfoundation
   * avec une fonction génératrice de nombre aléatoires : [random](https://p5js.org/reference/#/p5/random)  
   * avec la variable de temps [frameCount](https://p5js.org/reference/#/p5/frameCount) et la fonction [millis()](https://p5js.org/reference/#/p5/millis)
   * avec les variables [mouseX](https://p5js.org/reference/#/p5/mouseX) et [mouseY](https://p5js.org/reference/#/p5/mouseY) pour capter la position de la souris dans le canvas.  
+
+### Exercice
+Personnaliser le motif de dessin en jouant : sur la forme en elle-même, sur ses couleurs, sur les options de dessin (contour / remplissage)  
 
 
