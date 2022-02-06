@@ -20,7 +20,10 @@ Nous allons re-travailler la notion de classe vue la semaine passée. A cette oc
   * [article](https://genekogan.com/code/p5js-perlin-noise/) de Gene Kogan sur le Perlin noise dans p5.js
   <br>
   
-## Cours #03 [en ligne] — Bruit et forces — 31 janvier
+## Cours #03 — 31 janvier
+À rattraper.
+
+## Cours #04 — Bruit et forces — 6 février
 Le cours s'articulera autour de deux notions : 
 1. [Bruit de perlin](https://en.wikipedia.org/wiki/Perlin_noise) ou « perlin noise » que nous avons utilisés dans notre système de particules. Je reviendrai un peu plus en détail sur cette fonction.
 2. En complément du cours précédent, nous allons adjoindre à nos particules des propriétés de masse et d'accélération pour pouvoir leur appliquer des forces en utilisant [la deuxième loi de Newton](https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton#Deuxi%C3%A8me_loi_de_Newton_ou_principe_fondamental_de_la_dynamique_de_translation) :<br>*" l'accélération subie par un corps [...] est proportionnelle à la résultante des forces qu'il subit, et inversement proportionnelle à sa masse m."*
