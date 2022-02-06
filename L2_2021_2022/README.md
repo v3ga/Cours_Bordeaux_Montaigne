@@ -34,7 +34,10 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 ### Exercice
 Choisir une des œuvres [« Homages to the square »](https://albersfoundation.org/art/josef-albers/paintings/homages-to-the-square/) de Josef Albers pour le récréer avec du code.
 
-## Cours #03 — Animer — 31 janvier
+## Cours #03 — 31 janvier
+À rattraper.
+
+## Cours #04 — Animer — 6 février
 * Animer : 
   * avec une fonction génératrice de nombre aléatoires : [random](https://p5js.org/reference/#/p5/random)  
   * avec la variable de temps [frameCount](https://p5js.org/reference/#/p5/frameCount) et la fonction [millis()](https://p5js.org/reference/#/p5/millis)
