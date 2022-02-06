@@ -33,7 +33,7 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
 , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:GodfreyKneller-IsaacNewton-1689.jpg"><img height="300" alt="GodfreyKneller-IsaacNewton-1689" src="https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"></a><img height="300" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Newtons_laws_in_latin.jpg"><a href="https://editor.p5js.org/v3ga/sketches/rlFXZoYtQ">
  
  ### Templates
-* [Template particules « vide »](https://editor.p5js.org/v3ga/sketches/eawS57yxV)<br />*On va partir de ce sketch pour implémenter la gestion des forces poru une particule.*
+* [Template particules « vide »](https://editor.p5js.org/v3ga/sketches/eawS57yxV)<br />*On va partir de ce sketch pour implémenter la gestion des forces pour une particule.*
  
  ### Librairies 
 * [p5_timer.js](https://licence.designbordeaux.fr/LAG6U6/p5_timer.js)
