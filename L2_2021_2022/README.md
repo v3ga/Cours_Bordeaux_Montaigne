@@ -63,4 +63,4 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 
 :point_right: voir le lien https://hafiprocessjournal.wordpress.com/2014/10/16/bruno-munari/
 
-<img src="MUNARI_ART_DESIGN_1.jpg" width="500" />
+<img src="../L2_2020_2021/MUNARI_ART_DESIGN_1.jpg" width="500" />
