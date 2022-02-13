@@ -37,7 +37,7 @@ Choisir une des œuvres [« Homages to the square »](https://albersfoundation
 ## Cours #03 — 31 janvier
 À rattraper.
 
-## Cours #04 — Animer — 6 février
+## Cours #04 — Animer — 7 février
 * Animer : 
   * avec une fonction génératrice de nombre aléatoires : [random](https://p5js.org/reference/#/p5/random)  
   * avec la variable de temps [frameCount](https://p5js.org/reference/#/p5/frameCount) et la fonction [millis()](https://p5js.org/reference/#/p5/millis)
@@ -46,4 +46,5 @@ Choisir une des œuvres [« Homages to the square »](https://albersfoundation
 ### Exercice
 Personnaliser le motif de dessin en jouant : sur la forme en elle-même, sur ses couleurs, sur les options de dessin (contour / remplissage)  
 
+## Cours #05 — Animer — 14 février
 
