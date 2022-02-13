@@ -45,8 +45,22 @@ Choisir une des œuvres [« Homages to the square »](https://albersfoundation
 
 <a href="https://editor.p5js.org/v3ga/sketches/RXGa0PYKd"><img src="LAG4U6_cours04_outil_dessin.png" width="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/EVwfXPxCb"><img src="LAG4U6_2022_cours_04_beginShape.png" width="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/oafZbGPwx"><img src="LAG4U6_2022_cours04_random.png" width="300" /></a>
 
+### Références
+* Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
+* Manuel Floss [FR] - [Dessiner / les évènements souris](https://fr.flossmanuals.net/processing/les-evenements-souris/)
+
 ### Exercice
 Personnaliser le motif de dessin en jouant : sur la forme en elle-même, sur ses couleurs, sur les options de dessin (contour / remplissage)  
 
-## Cours #05 — Animer — 14 février
+## Cours #05 — Mémoriser — 14 février
+Introductions à la notion de variables :
+* Chargement et affichage d'une [image](https://p5js.org/reference/#group-Image), gestionnaire [preload()](https://p5js.org/reference/#/p5/preload)
+* Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image
+* Utiliser les informations de couleur contenues dans une image via la fonction [get()](https://p5js.org/reference/#/p5/get) pour générer une composition « pointilliste »
 
+#### Exercice à rendre pour le dimanche 7 mars
+L'exercice sera de dessiner un visage avec des éléments géométriques (lignes, courbes, formes) à la façon de Bruno Munari dans le livre [« Design as Art »](http://www.strabic.fr/Bruno-Munari), dans le paragraphe [« Variation on the Theme of the Human Face »](https://youtu.be/EysmeN6CPII?t=230).  Vous n'utiliserez que du noir et du blanc sur un espace de dessin de 500 pixels de large et de haut. Une attention particulière sera portée à l'expressivité du visage que vous dessinerez.
+
+:point_right: voir le lien https://hafiprocessjournal.wordpress.com/2014/10/16/bruno-munari/
+
+<img src="MUNARI_ART_DESIGN_1.jpg" width="500" />
