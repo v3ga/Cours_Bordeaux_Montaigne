@@ -41,7 +41,9 @@ Choisir une des œuvres [« Homages to the square »](https://albersfoundation
 * Animer : 
   * avec une fonction génératrice de nombre aléatoires : [random](https://p5js.org/reference/#/p5/random)  
   * avec la variable de temps [frameCount](https://p5js.org/reference/#/p5/frameCount) et la fonction [millis()](https://p5js.org/reference/#/p5/millis)
-  * avec les variables [mouseX](https://p5js.org/reference/#/p5/mouseX) et [mouseY](https://p5js.org/reference/#/p5/mouseY) pour capter la position de la souris dans le canvas.  
+  * avec les variables [mouseX](https://p5js.org/reference/#/p5/mouseX) et [mouseY](https://p5js.org/reference/#/p5/mouseY) pour capter la position de la souris dans le canvas.
+
+<img src="LAG4U6_cours04_outil_dessin.png" width="400" /><img src="LAG4U6_2022_cours_04_beginShape.png" width="400" />
 
 ### Exercice
 Personnaliser le motif de dessin en jouant : sur la forme en elle-même, sur ses couleurs, sur les options de dessin (contour / remplissage)  
