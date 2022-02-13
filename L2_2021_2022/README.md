@@ -53,7 +53,7 @@ Choisir une des œuvres [« Homages to the square »](https://albersfoundation
 Personnaliser le motif de dessin en jouant : sur la forme en elle-même, sur ses couleurs, sur les options de dessin (contour / remplissage)  
 
 ## Cours #05 — Mémoriser — 14 février
-Introductions à la notion de variables :
+Introduction à la notion de variable :
 * Chargement et affichage d'une [image](https://p5js.org/reference/#group-Image), gestionnaire [preload()](https://p5js.org/reference/#/p5/preload)
 * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image
 * Utiliser les informations de couleur contenues dans une image via la fonction [get()](https://p5js.org/reference/#/p5/get) pour générer une composition « pointilliste »
