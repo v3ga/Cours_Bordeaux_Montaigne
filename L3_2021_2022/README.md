@@ -38,3 +38,10 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
  ### Librairies 
 * [p5_timer.js](https://licence.designbordeaux.fr/LAG6U6/p5_timer.js)
  
+ ## Cours #05 — Attracteurs et physique des solides
+ 
+ ## Templates
+ * [template particules / forces](https://editor.p5js.org/v3ga/sketches/oVlvksaf2)
+ * [template matter.js](https://editor.p5js.org/v3ga/sketches/uzgKRF2ld)
+ 
+ 
