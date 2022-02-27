@@ -41,6 +41,8 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
  ## Cours #05 — Attracteurs et physique des solides
  * Prise en main de la librairie [matter.js](https://brm.io/matter-js/), création d'objets « physiques » dans le canvas. Interaction avec la souris, création d'un objet au click. 
  
+ <a href="https://editor.p5js.org/v3ga/sketches/BkpiCy2zD"><img src="LAG6U6_2022_cours05_matter_js_circles.png" width="300"/></a> 
+ 
  ## Templates
  * [template particules / forces](https://editor.p5js.org/v3ga/sketches/oVlvksaf2)
  * [template matter.js](https://editor.p5js.org/v3ga/sketches/uzgKRF2ld)
