@@ -56,10 +56,12 @@ Personnaliser le motif de dessin en jouant : sur la forme en elle-même, sur ses
 Introduction à la notion de variable :
 * Chargement et affichage d'une [image](https://p5js.org/reference/#group-Image), gestionnaire [preload()](https://p5js.org/reference/#/p5/preload)
 * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image
+
+<a href="https://editor.p5js.org/v3ga/sketches/ZlYs82bVW"><img src="LAG4U6_2022_cours05_random_walker.png" height="300" /></a> 
+<a href="https://editor.p5js.org/v3ga/sketches/f0fmXcpwV"><img src="LAG4U6_2022_cours05_image_chargement_affichage .png" height="300" /></a> 
+
+## Cours #06 — Mémoriser &  — 28 février
 * Utiliser les informations de couleur contenues dans une image via la fonction [get()](https://p5js.org/reference/#/p5/get) pour générer une composition « pointilliste »
-
-<a href="https://editor.p5js.org/v3ga/sketches/ZlYs82bVW"><img src="LAG4U6_2022_cours05_random_walker.png" width="300" /></a> 
-
 
 #### Exercice à rendre pour le dimanche 7 mars
 L'exercice sera de dessiner un visage avec des éléments géométriques (lignes, courbes, formes) à la façon de Bruno Munari dans le livre [« Design as Art »](http://www.strabic.fr/Bruno-Munari), dans le paragraphe [« Variation on the Theme of the Human Face »](https://youtu.be/EysmeN6CPII?t=230).  Vous n'utiliserez que du noir et du blanc sur un espace de dessin de 500 pixels de large et de haut. Une attention particulière sera portée à l'expressivité du visage que vous dessinerez.
