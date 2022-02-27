@@ -39,9 +39,28 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
 * [p5_timer.js](https://licence.designbordeaux.fr/LAG6U6/p5_timer.js)
  
  ## Cours #05 — Attracteurs et physique des solides
+ * Prise en main de la librairie [matter.js](https://brm.io/matter-js/), création d'objets « physiques » dans le canvas. Interaction avec la souris, création d'un objet au click. 
  
  ## Templates
  * [template particules / forces](https://editor.p5js.org/v3ga/sketches/oVlvksaf2)
  * [template matter.js](https://editor.p5js.org/v3ga/sketches/uzgKRF2ld)
  
+ 
+ ## Cours #06 — Attracteurs et physique des solides
+ Dans ce cours, nous allons continuer d'explorer la librairie [matter.js](https://brm.io/matter-js/) avec la création d'objets physiques et nous allons combiner leur création avec une librairie : 
+
+1. [p5.speech](https://idmnyu.github.io/p5.js-speech/) qui permet de faire de la reconnaissance vocale. L'idée sera d'analyser les mots prononcés pour les "transformer" en objets physiques dans notre scène.
+
+Nous exploiterons aussi la création d'objets statiques (obstacles).
+Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai placé un fichier en ligne. L'avantage est qu'un changement sur ce fichier se répercute sur l'ensemble des sketches qui utilisent ce fichier.
+
+```html
+<script src="https://licence.designbordeaux.fr/LAG6U6/p5_matter_helpers.js"></script>
+```
+
+#### Références artistiques
+* [Josh Nimoy / BallDroppings](https://experiments.withgoogle.com/balldroppings)
+* [Zach Lieberman & Golan Levin / Manual Input Sessions](https://vimeo.com/22518283)
+* [Zach Lieberman & Golan Levin / Messa Di Voce](https://www.youtube.com/watch?v=STRMcmj-gHc)
+
  
