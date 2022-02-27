@@ -48,10 +48,11 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
  * [template matter.js](https://editor.p5js.org/v3ga/sketches/uzgKRF2ld)
  
  
- ## Cours #06 — Attracteurs et physique des solides
- Dans ce cours, nous allons continuer d'explorer la librairie [matter.js](https://brm.io/matter-js/) avec la création d'objets physiques et nous allons combiner leur création avec une librairie : 
-
-1. [p5.speech](https://idmnyu.github.io/p5.js-speech/) qui permet de faire de la reconnaissance vocale. L'idée sera d'analyser les mots prononcés pour les "transformer" en objets physiques dans notre scène.
+ ## Cours #06 — Physique des solides (bis)
+Dans ce cours, nous allons continuer d'explorer la librairie [matter.js](https://brm.io/matter-js/) avec la création d'objets physiques de manière interactive. 
+Nous allons pour cela utiliser : 
+1. le clavier pour fabriquer une machine à écrire où les lettres tapées sont soumises à la gravité.  
+2. [p5.speech](https://idmnyu.github.io/p5.js-speech/) qui permet de faire de la reconnaissance vocale. L'idée sera d'analyser les mots prononcés pour les "transformer" en objets physiques dans notre scène.
 
 Nous exploiterons aussi la création d'objets statiques (obstacles).
 Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai placé un fichier en ligne. L'avantage est qu'un changement sur ce fichier se répercute sur l'ensemble des sketches qui utilisent ce fichier.
@@ -61,6 +62,8 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 ```
  
 ## Templates
+* [Template matter.js avec librairie externe](https://editor.p5js.org/v3ga/sketches/C-vgMAQkt) 
+* [Template p5.speech ](https://editor.p5js.org/v3ga/sketches/imv9uc9Ci) 
 
 #### Références artistiques
 * [Josh Nimoy / BallDroppings](https://experiments.withgoogle.com/balldroppings)
