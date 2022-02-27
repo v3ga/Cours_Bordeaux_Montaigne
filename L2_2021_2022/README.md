@@ -43,7 +43,7 @@ Choisir une des œuvres [« Homages to the square »](https://albersfoundation
   * avec la variable de temps [frameCount](https://p5js.org/reference/#/p5/frameCount) et la fonction [millis()](https://p5js.org/reference/#/p5/millis)
   * avec les variables [mouseX](https://p5js.org/reference/#/p5/mouseX) et [mouseY](https://p5js.org/reference/#/p5/mouseY) pour capter la position de la souris dans le canvas.
 
-<a href="https://editor.p5js.org/v3ga/sketches/RXGa0PYKd"><img src="LAG4U6_cours04_outil_dessin.png" width="300" /></a> href="https://editor.p5js.org/v3ga/sketches/EVwfXPxCb"><img src="LAG4U6_2022_cours_04_beginShape.png" width="300" /></a> href="https://editor.p5js.org/v3ga/sketches/oafZbGPwx"><img src="LAG4U6_2022_cours04_random.png" width="300" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/RXGa0PYKd"><img src="LAG4U6_cours04_outil_dessin.png" width="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/EVwfXPxCb"><img src="LAG4U6_2022_cours_04_beginShape.png" width="300" /></a> <a href="https://editor.p5js.org/v3ga/sketches/oafZbGPwx"><img src="LAG4U6_2022_cours04_random.png" width="300" /></a>
 
 ### Références
 * Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
