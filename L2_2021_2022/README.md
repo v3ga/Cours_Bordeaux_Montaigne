@@ -80,5 +80,6 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 ## Cours #08 — 14 mars
 * Révision de [la structure de controle if](https://fr.flossmanuals.net/processing/les-conditions/)
 * [Boucle for](https://fr.flossmanuals.net/processing/les-repetitions/) pour répéter une série d'instructions.
- * Utilisation d'une double boucle imbriquée pour paver l'espace avec un motif.
+  * écriture naïve d'une répétition puis passage à la structure de boucle.  
+  * utilisation d'une double boucle imbriquée pour paver l'espace avec un motif.
 
