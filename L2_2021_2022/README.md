@@ -73,3 +73,12 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 :point_right: voir le lien https://hafiprocessjournal.wordpress.com/2014/10/16/bruno-munari/
 
 <img src="../L2_2020_2021/MUNARI_ART_DESIGN_1.jpg" width="500" />
+
+## Cours #07 — 7 mars
+À rattraper.
+
+## Cours #08 — 14 mars
+* Révision de [la structure de controle if](https://fr.flossmanuals.net/processing/les-conditions/)
+* [Boucle for](https://fr.flossmanuals.net/processing/les-repetitions/) pour répéter une série d'instructions.
+ * Utilisation d'une double boucle imbriquée pour paver l'espace avec un motif.
+
