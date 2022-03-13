@@ -63,11 +63,31 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
  
 ## Templates
 * [Template matter.js avec librairie externe](https://editor.p5js.org/v3ga/sketches/C-vgMAQkt) 
-* [Template p5.speech ](https://editor.p5js.org/v3ga/sketches/imv9uc9Ci) 
+* [Template p5.speech](https://editor.p5js.org/v3ga/sketches/imv9uc9Ci) 
 
 #### Références artistiques
 * [Josh Nimoy / BallDroppings](https://experiments.withgoogle.com/balldroppings)
 * [Zach Lieberman & Golan Levin / Manual Input Sessions](https://vimeo.com/22518283)
 * [Zach Lieberman & Golan Levin / Messa Di Voce](https://www.youtube.com/watch?v=STRMcmj-gHc)
+
+ ## Cours #07 - 7 mars
+ À rattraper.
+ 
+ ## Cours #08 - Typographie générative - 14 mars 
+Nous allons utiliser uen fonctionnalité de « segmentation » de glyphes d'une fonte donnée (par le biais de la fonction [textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints)). 
+* Dans un premier temps, nous allons explorer les possibilités graphiques liées au dessin d'un motif pour chaque point d'un glyphe. 
+* Ensuite, nous reprendrons notre classe de particules pour générer de nouveaux glyphes. J'ai pour cette occasion remanier [la classe particule](https://licence.designbordeaux.fr/LAG6U6/p5_particle.js) en lui adjoignant des méthodes pour la gestion des attracteurs / repousseurs.<br />Cela simplifie grandement l'écritude du code pour l'application de forces notamment. Les particules ont la possibilité de freiner, par application d'une force dont la direction est opposée au vecteur vitesse.
+
+Voici les nouvelles fonctionnalités sur la classe **particle** : 
+```js
+function brake(intensity);
+function isInsideCircle(cx,cy,radius);
+function repelledBy(x,y,intensity,?dmin);
+function attractedTo(x,y,intensity,?dmin);
+function brake(intensity);
+````
+ 
+ ## Templates
+* [Template glyphes + particle.js](https://editor.p5js.org/v3ga/sketches/qdIi_X3Oq) 
 
  
