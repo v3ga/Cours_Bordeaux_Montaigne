@@ -90,7 +90,7 @@ function brake(intensity);
 #### Template
 * [Template glyphes + particle.js](https://editor.p5js.org/v3ga/sketches/qdIi_X3Oq) 
 
-## Cours #09 - Typographie générative (bis) 21 mars 
+## Cours #09 - Typographie générative (bis) - 21 mars 
 
  #### Template
 * [Template glyphes](https://editor.p5js.org/v3ga/sketches/1bssECwWy) 
