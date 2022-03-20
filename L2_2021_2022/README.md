@@ -83,3 +83,15 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
   * écriture naïve d'une répétition puis passage à la structure de boucle.  
   * utilisation d'une double boucle imbriquée pour paver l'espace avec un motif.
 
+## Cours #09 — 21 mars
+Pour ce cours nous allons revoir le principe de boucle et de double boucles imbriquées. Nous (re)travaillerons sur le principe de combinaisons de motifs en programmant [un pavage de Truchet](http://jacques-andre.fr/faqtypo/truchet/truchet-planches.pdf). Je vous laisserai ensuite travailler sur le projet de cette fin de semestre dont voici l'énoncé.
+
+### Projet à rendre pour le mercredi 4 avril
+Pour ce projet, vous allez travailler sur ce principe de grille avec des motifs qui se combinent. Vous définirez 4 motifs différents en utilisant les commandes / options de dessin. Le point de départ sera ce template (https://editor.p5js.org/v3ga/sketches/S3YyaMlL3) que vous dupliquerez dans votre sketchbook. N'hésitez pas à dessiner / faire un croquis des motifs que vous voulez réaliser par code sur une feuille de papier et à les tester dans des sketchs séparés avant de les reporter dans le code de la grille.
+
+👉 La collection des rendus des L2 de l'an passé est ici pour vous inspirer : https://editor.p5js.org/v3ga/collections/ZUiEWFocJ
+
+### Template grilles & combinaisons
+https://editor.p5js.org/v3ga/sketches/S3YyaMlL3
+
+
