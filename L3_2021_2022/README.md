@@ -73,8 +73,8 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
  ## Cours #07 - 7 mars
  À rattraper.
  
- ## Cours #08 - Typographie générative - 14 mars 
-Nous allons utiliser uen fonctionnalité de « segmentation » de glyphes d'une fonte donnée (par le biais de la fonction [textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints)). 
+## Cours #08 - Typographie générative - 14 mars 
+Nous allons utiliser une fonctionnalité de « segmentation » de glyphes d'une fonte donnée (par le biais de la fonction [textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints)). 
 * Dans un premier temps, nous allons explorer les possibilités graphiques liées au dessin d'un motif pour chaque point d'un glyphe. 
 * Ensuite, nous reprendrons notre classe de particules pour générer de nouveaux glyphes. J'ai pour cette occasion remanier [la classe particule](https://licence.designbordeaux.fr/LAG6U6/p5_particle.js) en lui adjoignant des méthodes pour la gestion des attracteurs / repousseurs.<br />Cela simplifie grandement l'écritude du code pour l'application de forces notamment. Les particules ont la possibilité de freiner, par application d'une force dont la direction est opposée au vecteur vitesse.
 
@@ -87,7 +87,13 @@ function attractedTo(x,y,intensity,?dmin);
 function brake(intensity);
 ````
  
- ## Templates
+#### Template
 * [Template glyphes + particle.js](https://editor.p5js.org/v3ga/sketches/qdIi_X3Oq) 
 
+## Cours #09 - Typographie générative (bis) 21 mars 
+
+ #### Template
+* [Template glyphes](https://editor.p5js.org/v3ga/sketches/1bssECwWy) 
+
+ 
  
