@@ -91,9 +91,13 @@ function brake(intensity);
 * [Template glyphes + particle.js](https://editor.p5js.org/v3ga/sketches/qdIi_X3Oq) 
 
 ## Cours #09 - Typographie générative (bis) - 21 mars 
-
+Nous allons retravailler sur ce principe de typographie générative en « dupliquant » et transformant  le contour des lettres en utilisant une boucle et les fonctions de transformation. Nous ajouterons une interface graphique pour ajuster en direct ces paramètres de transformation.
+ 
  #### Template
 * [Template glyphes](https://editor.p5js.org/v3ga/sketches/1bssECwWy) 
-
+ 
+#### Projet de typographie générative
+Le projet aura pour but de créer des dessins génératifs de lettres, l'idée sera de produire un alphabet complet de A à Z. 
+Le projet pourra se faire par binôme et sera à rendre pour le 4 avril.  
  
  
