@@ -96,4 +96,7 @@ Pour ce projet, vous allez travailler sur ce principe de grille avec des motifs 
 #### Template grilles & combinaisons
 https://editor.p5js.org/v3ga/sketches/S3YyaMlL3
 
+#### Références 
+[Anna Carreras / Trosset](https://www.artblocks.io/project/147)
+
 
