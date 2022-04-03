@@ -67,7 +67,7 @@ Introduction à la notion de variable :
   * utilisation de variables pour représenter les position / vitesse sur le canvas.
   * utilisation des conditions pour que la bille reste à l'intérieur du canvas.
 
-<a href="https://editor.p5js.org/v3ga/sketches/Pq35oHxMq"><img src="LAG4U6_2022_cours06_modele_particule_01.png" width="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/Pq35oHxMq"><img src="LAG4U6_2022_cours06_modele_particule_02.png" width="300" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/Pq35oHxMq"><img src="LAG4U6_2022_cours06_modele_particule_01.png" width="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/Pq35oHxMq"><img src="LAG4U6_2022_cours06_modele_particule_03.png" width="300" /></a>
 
 
 #### Exercice à rendre pour le dimanche 7 mars
