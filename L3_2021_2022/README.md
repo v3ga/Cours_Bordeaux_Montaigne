@@ -115,5 +115,11 @@ Ce cours utilise la classe *Boid* (étendue pour ce cours) disponible ici : http
 
 <a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="../L3_2020_2021/LAG6U6_cours06_boids_01.gif" /></a>
 <a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="../L3_2020_2021/LAG6U6_cours06_boids_history_02.gif" /></a>
+ 
+ ### Template
+ * [Template / boid](https://editor.p5js.org/v3ga/sketches/zYKRWCTqZ)
+ 
+ ### Références
+ * [Nature of Code / Autonomous agents](https://natureofcode.com/book/chapter-6-autonomous-agents/)
 
  
