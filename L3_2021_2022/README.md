@@ -133,7 +133,7 @@ function borders();
 function render();
 // activate l'historique du boids, ie sauve ses [nb] dernières positions
 function activateHistory(nb);
-// met à jour + dessin de l'historique des positions du boid
+// mise à jour + dessin de l'historique des positions du boid
 function updateHistory();
 function renderHistory();
  
