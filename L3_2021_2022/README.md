@@ -93,6 +93,9 @@ function brake(intensity);
 ## Cours #09 - Typographie générative (bis) - 21 mars 
 Nous allons retravailler sur ce principe de typographie générative en « dupliquant » et transformant  le contour des lettres en utilisant une boucle et les fonctions de transformation. Nous ajouterons une interface graphique pour ajuster en direct ces paramètres de transformation.
  
+<a href="https://editor.p5js.org/v3ga/sketches/ILaDeaz9s"><img src="A.png" width="300"/></a><a href="https://editor.p5js.org/v3ga/sketches/ILaDeaz9s"><img src="M.png" width="300"/></a> 
+
+ 
  #### Template
 * [Template glyphes](https://editor.p5js.org/v3ga/sketches/1bssECwWy) 
  
