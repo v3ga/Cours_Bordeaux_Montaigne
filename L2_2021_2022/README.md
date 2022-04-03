@@ -86,8 +86,7 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 ## Cours #09 — 21 mars
 Pour ce cours nous allons revoir le principe de boucle et de double boucles imbriquées. Nous (re)travaillerons sur le principe de combinaisons de motifs en programmant [un pavage de Truchet](http://jacques-andre.fr/faqtypo/truchet/truchet-planches.pdf). Je vous laisserai ensuite travailler sur le projet de cette fin de semestre dont voici l'énoncé.
 
-<img src="LAG4U6_cours09_Truchet.png" height="300" />
-<a href="https://editor.p5js.org/v3ga/sketches/jD32UJlOy"><img src="LAG4U6_cours09_grille_composition_arcs_01.png" width="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/jD32UJlOy"><img src="LAG4U6_cours09_grille_composition_arcs_02.png" width="300" /></a>
+<img src="LAG4U6_cours09_Truchet.png" height="300" /><a href="https://editor.p5js.org/v3ga/sketches/jD32UJlOy"><img src="LAG4U6_cours09_grille_composition_arcs_01.png" width="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/jD32UJlOy"><img src="LAG4U6_cours09_grille_composition_arcs_02.png" width="300" /></a>
 
 #### Projet à rendre pour le lundi 4 avril
 Pour ce projet, vous allez travailler sur ce principe de grille avec des motifs qui se combinent. Vous définirez 4 motifs différents en utilisant les commandes / options de dessin. Le point de départ sera ce template (https://editor.p5js.org/v3ga/sketches/S3YyaMlL3) que vous dupliquerez dans votre sketchbook. N'hésitez pas à dessiner / faire un croquis des motifs que vous voulez réaliser par code sur une feuille de papier et à les tester dans des sketchs séparés avant de les reporter dans le code de la grille.
