@@ -104,5 +104,16 @@ Nous allons retravailler sur ce principe de typographie générative en « dupli
 #### Projet de typographie générative
 Le projet aura pour but de créer des dessins génératifs de lettres, l'idée sera de produire un alphabet complet de A à Z. 
 Le projet pourra se faire par binôme et sera à rendre pour le 4 avril.  
- 
+
+## Cours #11 - Agents autonomes (boids) - 4 avril 
+Ce cours utilise la classe *Boid* (étendue pour ce cours) disponible ici : https://p5js.org/examples/simulate-flocking.html
+
+* Etudes des agents automes de type [« boids »](https://fr.wikipedia.org/wiki/Boids)
+  * comportement *seek* et *arrive*.
+  * comportement de groupe *separate*, *alignment*, *cohesion*.
+* Gestion de l'historique de positions des boids.
+
+<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="../L3_2020_2021/LAG6U6_cours06_boids_01.gif" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="../L3_2020_2021/LAG6U6_cours06_boids_history_02.gif" /></a>
+
  
