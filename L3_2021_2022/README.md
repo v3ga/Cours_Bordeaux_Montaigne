@@ -41,7 +41,7 @@ En particulier, nous allons appliquer à nos particules des forces d'attraction 
  ## Cours #05 — Attracteurs et physique des solides
  * Prise en main de la librairie [matter.js](https://brm.io/matter-js/), création d'objets « physiques » dans le canvas. Interaction avec la souris, création d'un objet au click. 
  
- <a href="https://editor.p5js.org/v3ga/sketches/BkpiCy2zD"><img src="LAG6U6_2022_cours05_matter_js_circles.png" width="300"/></a> 
+<a href="https://editor.p5js.org/v3ga/sketches/BkpiCy2zD"><img src="LAG6U6_2022_cours05_matter_js_circles.png" width="300"/></a> 
  
  ## Templates
  * [template particules / forces](https://editor.p5js.org/v3ga/sketches/oVlvksaf2)
@@ -77,6 +77,8 @@ Pour faciliter l'inclusion des fonctions "helpers" liées à *matter.js*, j'ai p
 Nous allons utiliser une fonctionnalité de « segmentation » de glyphes d'une fonte donnée (par le biais de la fonction [textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints)). 
 * Dans un premier temps, nous allons explorer les possibilités graphiques liées au dessin d'un motif pour chaque point d'un glyphe. 
 * Ensuite, nous reprendrons notre classe de particules pour générer de nouveaux glyphes. J'ai pour cette occasion remanier [la classe particule](https://licence.designbordeaux.fr/LAG6U6/p5_particle.js) en lui adjoignant des méthodes pour la gestion des attracteurs / repousseurs.<br />Cela simplifie grandement l'écritude du code pour l'application de forces notamment. Les particules ont la possibilité de freiner, par application d'une force dont la direction est opposée au vecteur vitesse.
+ 
+<a href="https://editor.p5js.org/v3ga/sketches/homN5_zuL"><img src="LAG6U6_cours08_typographie_animation.png" width="300"/></a><a href="https://editor.p5js.org/v3ga/sketches/w45GL2aKE"><img src="LAG6U6_2022_cours08_typo_particles_02.png" width="300"/></a>
 
 Voici les nouvelles fonctionnalités sur la classe **particle** : 
 ```js
