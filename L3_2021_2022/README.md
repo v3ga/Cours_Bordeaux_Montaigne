@@ -113,6 +113,29 @@ Ce cours utilise la classe *Boid* (étendue pour ce cours) disponible ici : http
   * comportement de groupe *separate*, *alignment*, *cohesion*.
 * Gestion de l'historique de positions des boids.
 
+ Principales fonctionnalités de la classe **Boid**
+ ```js
+// met à jour la position en fonction de l'accélération, qui dépend des forces appliquées au boid
+function update();
+// calcule une force pour diriger le boid vers une cible (target)
+function seek(target); 
+// comportement de groupe, calcule une force pour que le boid aligne sa vitesse avec la vitesse moyenne du groupe de boids
+function align(boids) 
+// comportement de groupe, calcule une force pour que le boid rejoigne le centre du groupe 
+function cohesion(boids)
+// comportement de groupe, calcule une force pour que le boid "essaye" d'éviter les autres boids du groupe
+function separate(boids,separation)
+// teste la position du boid et le repositionne à l'opposé en x et y
+function borders();
+// dessine le boid
+function render();
+// activate l'historique du boids, ie sauve ses [nb] dernières positions
+function activateHistory(nb)
+// dessine l'historique des positions du boid
+function renderHistory()
+ 
+````
+ 
 <a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="../L3_2020_2021/LAG6U6_cours06_boids_01.gif" /></a>
 <a href="https://editor.p5js.org/v3ga/sketches/zmvm3KCFI" target="_blank"><img width="300" src="../L3_2020_2021/LAG6U6_cours06_boids_history_02.gif" /></a>
  
