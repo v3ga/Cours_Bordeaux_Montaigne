@@ -117,6 +117,8 @@ Ce cours utilise la classe *Boid* (étendue pour ce cours) disponible ici : http
  ```js
 // met à jour la position en fonction de l'accélération, qui dépend des forces appliquées au boid
 function update();
+// applique une force f au boid
+function applyForce(f);
 // calcule une force pour diriger le boid vers une cible (target)
 function seek(target); 
 // comportement de groupe, calcule une force pour que le boid aligne sa vitesse avec la vitesse moyenne du groupe de boids
