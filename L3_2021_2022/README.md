@@ -122,9 +122,9 @@ function seek(target);
 // comportement de groupe, calcule une force pour que le boid aligne sa vitesse avec la vitesse moyenne du groupe de boids
 function align(boids);
 // comportement de groupe, calcule une force pour que le boid rejoigne le centre du groupe 
-function cohesion(boids)
+function cohesion(boids);
 // comportement de groupe, calcule une force pour que le boid "essaye" d'éviter les autres boids du groupe
-function separate(boids,separation)
+function separate(boids,separation);
 // teste la position du boid et le repositionne à « l'opposé »
 function borders();
 // dessine le boid
