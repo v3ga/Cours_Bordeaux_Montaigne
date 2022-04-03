@@ -67,6 +67,9 @@ Introduction à la notion de variable :
   * utilisation de variables pour représenter les position / vitesse sur le canvas.
   * utilisation des conditions pour que la bille reste à l'intérieur du canvas.
 
+<a href="https://editor.p5js.org/v3ga/sketches/Pq35oHxMq"><img src="LAG4U6_2022_cours06_modele_particule_01.png" width="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/Pq35oHxMq"><img src="LAG4U6_2022_cours06_modele_particule_02.png" width="300" /></a>
+
+
 #### Exercice à rendre pour le dimanche 7 mars
 L'exercice sera de dessiner un visage avec des éléments géométriques (lignes, courbes, formes) à la façon de Bruno Munari dans le livre [« Design as Art »](http://www.strabic.fr/Bruno-Munari), dans le paragraphe [« Variation on the Theme of the Human Face »](https://youtu.be/EysmeN6CPII?t=230).  Vous n'utiliserez que du noir et du blanc sur un espace de dessin de 500 pixels de large et de haut. Une attention particulière sera portée à l'expressivité du visage que vous dessinerez.
 
