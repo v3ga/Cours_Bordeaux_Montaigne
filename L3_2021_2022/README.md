@@ -147,5 +147,6 @@ function renderHistory();
  
  ### Références
  * [Nature of Code / Autonomous agents](https://natureofcode.com/book/chapter-6-autonomous-agents/)
+ * [Craig Reynolds / Boids](https://www.red3d.com/cwr/boids/)
 
  
