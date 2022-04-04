@@ -10,6 +10,9 @@ Ce cours aura pour but de vous donner les clés de compréhension de la programm
 ## Cours en ligne LAG4U6 2021
 ✍️ https://www.youtube.com/watch?v=XXbs_8kn5m4&list=PLSQ5mjdHDgdAAW-GQRh6uke4krsGuhsWZ
 
+## Document pour les rendus
+https://docs.google.com/spreadsheets/d/1hgCq5qsLOVMuYQdurKFDvjbIX56j6u-OEBZuUFR4HBo/edit#gid=0
+
 ## Cours #01 — Introduction — 17 janvier 2022 
 * Présentation du travail de [2Roqs](http:www.2roqs.com) et du travail de designer d'interactions / créateurs numériques.
 * Présentation de l'environnement [Processing](http://www.processing.org) et de son « écosystème » (notamment [p5.js](https://p5js.org/))
