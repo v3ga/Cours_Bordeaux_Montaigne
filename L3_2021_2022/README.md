@@ -7,6 +7,9 @@ Nous continuerons d'explorer les potentialités de l'écosystème [p5.js](https:
 ## Sketches en ligne
 ✍️ https://editor.p5js.org/v3ga/collections/EkLsXqSBF
 
+## Document pour le rendu
+https://docs.google.com/spreadsheets/d/1wcUgknXfZdLncT7ZxOcOlTfCT9JX6eqtHssHOHnHIkM/edit#gid=0
+
 ## Cours en ligne LAG6U6 2021
 ✍️ [Playlist Youtube](https://www.youtube.com/playlist?list=PLSQ5mjdHDgdBh9itCsCRzZcHSpnHldDu3)
 
