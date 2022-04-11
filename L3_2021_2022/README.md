@@ -7,8 +7,15 @@ Nous continuerons d'explorer les potentialités de l'écosystème [p5.js](https:
 ## Sketches en ligne
 ✍️ https://editor.p5js.org/v3ga/collections/EkLsXqSBF
 
-## Document pour le rendu
+## Document pour le rendu de typo. générative
 https://docs.google.com/spreadsheets/d/1wcUgknXfZdLncT7ZxOcOlTfCT9JX6eqtHssHOHnHIkM/edit#gid=0
+
+#### Sketches de références
+* [Dessin basique](https://editor.p5js.org/v3ga/sketches/1bssECwWy)
+* [Dessin de motifs animés sur le contour](https://editor.p5js.org/v3ga/sketches/homN5_zuL)
+* [Dessin de lettres avec des particules](https://editor.p5js.org/v3ga/sketches/w45GL2aKE)
+* [Dessin de lettres avec boucle + interface](https://editor.p5js.org/v3ga/sketches/ILaDeaz9s)
+
 
 ## Cours en ligne LAG6U6 2021
 ✍️ [Playlist Youtube](https://www.youtube.com/playlist?list=PLSQ5mjdHDgdBh9itCsCRzZcHSpnHldDu3)
@@ -106,7 +113,7 @@ Nous allons retravailler sur ce principe de typographie générative en « dupli
  
 #### Projet de typographie générative
 Le projet aura pour but de créer des dessins génératifs de lettres, l'idée sera de produire un alphabet complet de A à Z. 
-Le projet pourra se faire par binôme et sera à rendre pour le 4 avril.  
+Le projet pourra se faire par binôme et sera à rendre pour le 19 avril.  
 
 ## Cours #11 - Agents autonomes (boids) - 4 avril 
 Ce cours utilise la classe *Boid* (étendue pour ce cours) disponible ici : https://p5js.org/examples/simulate-flocking.html
@@ -151,5 +158,7 @@ function renderHistory();
  ### Références
  * [Nature of Code / Autonomous agents](https://natureofcode.com/book/chapter-6-autonomous-agents/)
  * [Craig Reynolds / Boids](https://www.red3d.com/cwr/boids/)
+ 
+ 
 
  
