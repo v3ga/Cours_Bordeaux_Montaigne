@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1wcUgknXfZdLncT7ZxOcOlTfCT9JX6eqtHssHOHnH
 #### Sketches de références
 * [Dessin basique](https://editor.p5js.org/v3ga/sketches/1bssECwWy)
 * [Dessin de motifs animés sur le contour](https://editor.p5js.org/v3ga/sketches/homN5_zuL)
-* [Dessin de lettres avec des particules](https://editor.p5js.org/v3ga/sketches/w45GL2aKE)
+* [Dessin de lettres avec des particules](https://editor.p5js.org/v3ga/sketches/w45GL2aKE) | [idée Insa](https://docs.google.com/spreadsheets/d/1wcUgknXfZdLncT7ZxOcOlTfCT9JX6eqtHssHOHnHIkM/edit#gid=0)
 * [Dessin de lettres avec boucle + interface](https://editor.p5js.org/v3ga/sketches/ILaDeaz9s)
 
 
