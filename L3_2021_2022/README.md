@@ -113,7 +113,10 @@ Nous allons retravailler sur ce principe de typographie générative en « dupli
  
 #### Projet de typographie générative
 Le projet aura pour but de créer des dessins génératifs de lettres, l'idée sera de produire un alphabet complet de A à Z. 
-Le projet pourra se faire par binôme et sera à rendre pour le 19 avril.  
+Le projet pourra se faire par binôme et sera à rendre pour le 19 avril.
+ 
+ 
+<img width="600" src="LAG6U6_2022_alphabet.gif" />
 
 ## Cours #11 - Agents autonomes (boids) - 4 avril 
 Ce cours utilise la classe *Boid* (étendue pour ce cours) disponible ici : https://p5js.org/examples/simulate-flocking.html
