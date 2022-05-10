@@ -80,9 +80,10 @@ L'exercice sera de dessiner un visage avec des éléments géométriques (lignes
 
 <img src="../L2_2020_2021/MUNARI_ART_DESIGN_1.jpg" width="500" />
 
-##### Gallerie
+#### Gallerie
 ✍️ Collection : https://editor.p5js.org/v3ga/collections/pFAVIUoLc
-<img src="LAG4U6_2022_munari.gif"  />
+
+<img src="LAG4U6_2022_munari.gif"  width="300" />
 
 ## Cours #07 — 7 mars
 À rattraper.
@@ -103,9 +104,10 @@ Pour ce projet, vous allez travailler sur ce principe de grille avec des motifs 
 
 👉 La collection des rendus des L2 de l'an passé est ici pour vous inspirer : https://editor.p5js.org/v3ga/collections/ZUiEWFocJ
 
-##### Gallerie
+#### Gallerie
 ✍️ Collection : https://editor.p5js.org/v3ga/collections/pROfwp32m
-<img src="LAG4U6_2022_4elements.gif"  />
+
+<img src="LAG4U6_2022_4elements.gif"  width="300" />
 
 
 #### Template grilles & combinaisons
