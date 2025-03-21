@@ -1,6 +1,12 @@
 # Objets en dialogue
 Avec Bernard Cichy, Stéphanie Cardoso, Florian Harmand, Gilles Auzou, Julien Gachadoat
 
+—
+
+Avec la prolifération de l'électronique et du numérique des dernières décennies, nos milieux de vie se sont considérablement densifiés et complexifiés en interactions. Consciemment en non, nous amorçons de nombreux échanges d’informations avec des dispositifs numériques environnants. Nos actions les plus basiques comme marcher, respirer, bouger, parler sont captées par des objets qui parfois nous rendent la pareille en s’activant à leur tour, ce qui nous procure tout un panel d’émotions et de réactions. S’instaure alors un dialogue avec nos artefacts, pour le meilleur comme pour le pire. Cela peut s’illustrer par des interactions ratées et entraîner une réelle animosité envers ces objets brailleurs : une alarme qui sonne à votre domicile en vous détectant, un antivol oublié qui déclenche un portique de sécurité, un smartphone censément silencieux qui sonne au mauvais moment . Mais la relation à l’objet peut également glisser vers une réelle reconnaissance, quand votre calendrier vous rappelle ce rendez-vous zappé, ou quand votre assistant virtuel fait naître en vous un sentiment d’amicalité artificielle (Cardoso, 2015).
+
+Ces situations et phénomènes illustrent le travail (ou le manque de travail) des designers, qui sont impliqués (ou incriminés) dans ces parcours et usages. Les designers de ces expériences entre les mondes analogiques et numériques peuvent être vus comme les scénographes de nos quotidiens. La somme de ces événements racontent quelque chose : ces interactions vécues constituent un récit.
+
 ### Boîtes à outils
 https://docs.google.com/spreadsheets/d/1ppNS0fTY5ntZ9RuPYKzfrhzIRJxdqwJvEMPEQm_oYZs/edit?gid=0#gid=0
 
