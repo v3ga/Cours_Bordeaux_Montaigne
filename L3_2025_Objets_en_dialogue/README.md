@@ -7,6 +7,9 @@ Avec la prolifération de l'électronique et du numérique des dernières décen
 
 Ces situations et phénomènes illustrent le travail (ou le manque de travail) des designers, qui sont impliqués (ou incriminés) dans ces parcours et usages. Les designers de ces expériences entre les mondes analogiques et numériques peuvent être vus comme les scénographes de nos quotidiens. La somme de ces événements racontent quelque chose : ces interactions vécues constituent un récit.
 
+### Sketches p5js — prototypes
+https://editor.p5js.org/v3ga/collections/ZX0X12vgC
+
 ### Boîtes à outils
 https://docs.google.com/spreadsheets/d/1ppNS0fTY5ntZ9RuPYKzfrhzIRJxdqwJvEMPEQm_oYZs/edit?gid=0#gid=0
 
